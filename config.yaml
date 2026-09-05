@@ -1,0 +1,48 @@
+# -----------------------------------------------------------------------
+# India Market & Geopolitics Digest — configuration
+# Edit this file to change what news gets pulled and how it's analyzed.
+# No code changes needed for most tweaks.
+# -----------------------------------------------------------------------
+
+# How many stories should make it into the final daily digest
+stories_per_day: 3
+
+# Google News RSS search queries used to build the candidate pool.
+# Add / remove / edit queries to shift the mix of topics.
+# Format: https://news.google.com/rss/search?q=<url-encoded query>
+search_queries:
+  - name: "Global geopolitics"
+    query: "geopolitics OR sanctions OR diplomacy OR war OR trade war"
+  - name: "Global economy & central banks"
+    query: "Federal Reserve OR ECB OR inflation OR interest rates OR recession"
+  - name: "India economy & policy"
+    query: "India economy OR RBI OR Indian budget OR India GDP"
+  - name: "India markets"
+    query: "Sensex OR Nifty OR Indian stock market OR FII India"
+  - name: "China & global trade"
+    query: "China economy OR China trade OR supply chain OR semiconductor export"
+
+# How many candidate headlines to pull PER query before filtering/ranking
+candidates_per_query: 8
+
+# How far back (in hours) to look for "today's" news
+lookback_hours: 30
+
+# The persona/lens the analysis should be written from.
+# Edit this freely — it directly shapes the tone and focus of the AI analysis.
+analysis_instructions: |
+  You are writing for a reader in India who tracks geopolitics, macroeconomics,
+  finance and markets closely and wants to actually understand WHY something
+  matters, not just what happened. For each selected story:
+  1. Summarize what happened in 2-4 sentences, neutrally and factually.
+  2. Explain the mechanism connecting it to India — trade flows, capital flows,
+     commodity prices (esp. oil), currency (INR), interest rates, specific
+     sectors or companies, or diplomatic/strategic positioning.
+  3. Give a short "what to watch next" pointer — the next data point, event,
+     or decision that will tell us how this plays out.
+  Be specific and avoid vague hand-waving like "this could impact markets."
+  If a story genuinely has no material India angle, say so honestly instead
+  of forcing a connection.
+
+# Gemini model to use (Google AI Studio free tier)
+gemini_model: "gemini-2.0-flash"
