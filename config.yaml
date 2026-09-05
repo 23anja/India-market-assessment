@@ -45,4 +45,4 @@ analysis_instructions: |
   of forcing a connection.
 
 # Gemini model to use (Google AI Studio free tier)
-gemini_model: "gemini-2.0-flash"
+gemini_model: "gemini-2.5-flash"
