@@ -72,7 +72,7 @@ def select_and_analyze(candidates: list[dict], config: dict, feedback_notes: lis
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY environment variable is not set.")
 
-    model = config.get("gemini_model", "gemini-1.5-flash")
+    model = config.get("gemini_model", "gemini-3.1-flash")
     prompt = _build_prompt(candidates, config, feedback_notes)
 
     payload = {
