@@ -84,7 +84,7 @@ def select_and_analyze(candidates: list[dict], config: dict, feedback_notes: lis
     }
 
     url = GEMINI_URL_TMPL.format(model=model)
-    resp = requests.post(url, params={"key": api_key}, json=payload, timeout=60)
+    resp = requests.post(url, params={"key": api_key}, json=payload, timeout =(10, 300))
     resp.raise_for_status()
     data = resp.json()
 
