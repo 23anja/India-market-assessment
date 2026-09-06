@@ -16,7 +16,7 @@ GEMINI_URL_TMPL = (
 
 
 def _build_prompt(candidates, config, feedback_notes):
-    stories_per_day = config.get("stories_per_day", 3)
+    stories_per_day = config.get("stories_per_day", 10)
     analysis_instructions = config["analysis_instructions"]
 
     candidate_lines = []
