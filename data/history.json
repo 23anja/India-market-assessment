@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "date": "2026-09-06",
+    "date_label": "Sunday, 06 September 2026",
+    "file": "2026-09-06.html",
+    "headline_preview": "India reports 7.7% GDP growth for FY 2025-26",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "India reports 7.7% GDP growth for FY 2025-26",
+        "summary": "India's economy grew by 7.7% in the fiscal year 2025-26, with growth accelerating to 7.8% in the final quarter. This performance reflects robust domestic demand and sustained industrial activity despite global economic headwinds.",
+        "india_impact": "This growth data reinforces India's position as a high-growth emerging market, likely supporting continued FII inflows and strengthening the INR. It also provides the RBI with more policy space to maintain interest rates if inflation remains within target, as the economy shows resilience without needing immediate stimulus.",
+        "what_to_watch": "Upcoming RBI monetary policy committee meetings to see if the central bank adjusts its stance on interest rates in response to this growth data versus persistent inflation risks.",
+        "source": "DD News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObEdLSVhSTVU2UHlKUFBYc3RLOUZncnpoTHhYVDVwOGNKNmtObmFQMk1kQmNYYVFyUXA5WUdub01DbWN1bXJEWk9ETU5Sbk1hcVhDT0VDLWcwWlVxa0FZMnN2Y2V1WFBiM0JGQ203SHBIeUh3by1qY21EUDFDUmtZbVd0cVpZQVh0bXlpTDhvTmtQUUN4LW1EcQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "Trump intensifies pressure on Fed over interest rate policy",
+        "summary": "President-elect Donald Trump has renewed his public campaign to influence Federal Reserve policy, specifically targeting potential candidates like Kevin Warsh to push for lower interest rates. This comes as markets debate whether the Fed will hike rates in September, driven by concerns over labor market strength and inflation.",
+        "india_impact": "The Fed's interest rate trajectory is a primary determinant of global capital flows. If the Fed maintains higher rates due to political pressure or inflation, it risks strengthening the USD, which would put downward pressure on the INR and increase the cost of servicing India's dollar-denominated debt.",
+        "what_to_watch": "The next Federal Open Market Committee (FOMC) meeting minutes and any official comments from Fed leadership regarding their independence from executive pressure.",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 0,
+        "headline": "US military strikes Iranian oil tankers",
+        "summary": "The U.S. military has conducted strikes against three Iranian oil tankers, marking a significant escalation in tensions between the two nations. This move follows ongoing regional instability and threatens to disrupt maritime oil transit routes in the Middle East.",
+        "india_impact": "As India imports a significant portion of its crude oil from the Middle East, any disruption to shipping lanes or a spike in global oil prices directly impacts India's import bill, widens the current account deficit, and risks stoking domestic fuel-led inflation.",
+        "what_to_watch": "Brent crude oil price volatility and any updates on maritime security in the Strait of Hormuz, which is critical for India's energy imports.",
+        "source": "The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjBRWnV5cTlIOGxEQnBQZDFreFZPbTJTWHhYUFVIT2tFR19leUdPcUJJTm5OeEl1MjEzTzdrLVNUTUVQejkxaHk3UG1BNjRWTm9yWVRzQ21ZcThWRFBtWkJWR2RIQnhUaWFJSkhFWFVpcThwSzRxbnJsTHlpT1F4T0lFWVVKd3R4cUlPcXJob2ZmZUVNSnJGVVJSamVZUjcyQ0lPVnYzNW90dlFBOXfSAbQBQVVfeXFMT1Y3TGpUaHFaV3Rtd1BGU2ZOdlNtUXIxT1dESkd0Zmp4bXd2TUpXYnZwMVlhczdiOGNkbDdqX2Izd2t5R3hIZkZxbmlJX093VWlsRmcyRHZNU3JMQ2t1ZTlPY1Z6bHJzSTJmdVQ3WktFYTRra24wVkRGRGZfUk9wSllGOUpQWWVjQ2lMQWE4Q0h2SEVKZk9IUkFMamFNbXJPZGZWUUxaS1lRdXFudFEzM1JHMzYt?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
+  }
+]
