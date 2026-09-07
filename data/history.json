@@ -36,5 +36,43 @@
         "topic_bucket": "Global economy & central banks"
       }
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "date_label": "Monday, 07 September 2026",
+    "file": "2026-09-07.html",
+    "headline_preview": "Federal Reserve Maintains Interest Rates Amid Persistent Inflation",
+    "stories": [
+      {
+        "candidate_index": 9,
+        "headline": "Federal Reserve Maintains Interest Rates Amid Persistent Inflation",
+        "summary": "The U.S. Federal Reserve has opted to hold interest rates steady as inflation remains at a three-year high. This decision reflects the central bank's cautious approach to balancing price stability with economic growth in a volatile environment.",
+        "india_impact": "For India, a 'higher-for-longer' U.S. interest rate environment puts pressure on the Reserve Bank of India (RBI) to maintain its own hawkish stance to prevent capital flight and currency depreciation. It also impacts the cost of external commercial borrowings for Indian corporates and increases the yield pressure on Indian government bonds.",
+        "what_to_watch": "Upcoming U.S. Consumer Price Index (CPI) data and Federal Open Market Committee (FOMC) meeting minutes for signals on the timing of potential rate cuts.",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "RBI Holds Repo Rate Steady as India Projects 6.9% GDP Growth",
+        "summary": "The Reserve Bank of India has maintained the repo rate, prioritizing inflation control while signaling confidence in the domestic economy. The central bank projects real GDP growth at 6.9% for the current fiscal year, balancing growth momentum with price stability.",
+        "india_impact": "This decision provides stability to the Indian banking sector and keeps borrowing costs for retail and corporate loans unchanged. For investors, it signals a focus on long-term macro-stability over short-term stimulus, which is crucial for maintaining foreign portfolio investment inflows.",
+        "what_to_watch": "Future RBI Monetary Policy Committee (MPC) commentary regarding food inflation volatility and its impact on the timing of potential rate easing.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "European Manufacturing Faces Significant Job Cuts Amid Supply Chain Shifts",
+        "summary": "European industrial sectors are warning of up to 300,000 job losses as they struggle to compete with Chinese supply chains. Industry leaders cite structural disadvantages and the aggressive expansion of Chinese manufacturing as the primary drivers of this industrial decline.",
+        "india_impact": "This shift represents a strategic opportunity for India's 'Make in India' initiative. As European firms seek to diversify supply chains away from China (de-risking), India can position itself as an alternative manufacturing hub, particularly in sectors like chemicals, automotive components, and light engineering.",
+        "what_to_watch": "Policy announcements from the EU regarding industrial subsidies or trade protectionism that could either hinder or accelerate the relocation of manufacturing capacity to alternative markets like India.",
+        "source": "The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0hEM0Jvamo5Z2lmaWx3djkyazNVOE55MGM2RFBjTmZ5NUgyekJSLUZOOGZLdTJxZmtPdFNYQkMyRWZYLVdFd0pRcW1Fc0hxQXJ0UFFUazVfT0tiS0dJam9MMk9XSXlMUHBJNU9OYnYzZUI4dDljaEpkVmxwMFQ2MnFfRldhS0I5aTEtNEZybWMyQ2RmTjhkUjNJOVdEMTJGVU9lTGdSOGluRlZPVXdvaFlnYw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
