@@ -74,5 +74,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "date_label": "Tuesday, 08 September 2026",
+    "file": "2026-09-08.html",
+    "headline_preview": "Canada Imposes Significant Tariffs on US Goods Amid Escalating Trade Dispute",
+    "stories": [
+      {
+        "candidate_index": 5,
+        "headline": "Canada Imposes Significant Tariffs on US Goods Amid Escalating Trade Dispute",
+        "summary": "Canada has implemented retaliatory tariffs of up to 50% on a range of US imports following US trade actions. This move marks a sharp escalation in North American trade tensions, signaling a departure from the previous cooperative trade environment between the two nations.",
+        "india_impact": "This trade friction creates uncertainty in global supply chains and may lead to a broader protectionist sentiment that affects Indian exporters. If the US-Canada dispute leads to a slowdown in North American manufacturing or consumption, it could indirectly impact Indian IT and engineering service providers that rely on contracts with firms operating across the US-Canada border.",
+        "what_to_watch": "Monitor the US administration's formal response and whether the dispute triggers a wider renegotiation of the US-Mexico-Canada Agreement (USMCA).",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0tVzdBN21qWjZjZTVSV2ZhX1VibDN1eVgwcjZaeUxlR0RhRGVNWlN4ZnBiSkVlTUNiTXdPdW9BYjFqMWVtcHlNR01iNEJnbHZrM2stLUpMR2tFS3lCQnNLMnJiTVB4OUMyMTBqaG8ta0FLUW1rcVotbEJYbWZONXNOQnVfb2RGcFFBbkpUZU9nSmtUS1o2QnFrSFhMQmp4TVZ2bVFBaHd6Vmk5OXY4Y3lwc2g?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate as India Projects 6.9% GDP Growth",
+        "summary": "The Reserve Bank of India (RBI) has decided to keep the repo rate unchanged, prioritizing inflation control while maintaining a stable growth outlook. The central bank projects real GDP growth for the current fiscal year at 6.9%, balancing domestic demand against global economic headwinds.",
+        "india_impact": "The decision to hold rates provides stability for borrowing costs, which is critical for India's domestic credit-sensitive sectors like real estate and automobiles. It also signals the RBI's focus on managing core inflation, which helps maintain the relative stability of the Indian Rupee (INR) against volatile global capital flows.",
+        "what_to_watch": "Watch the upcoming CPI inflation data releases to see if the RBI's 'neutral' stance shifts toward a potential rate cut in the next quarter.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 33,
+        "headline": "China Records Significant Export Growth and Large Trade Surplus",
+        "summary": "China\u2019s exports have surged by 25%, contributing to a record-high annual trade surplus. This growth is driven by robust global demand for Chinese manufactured goods, including semiconductors and advanced technology components.",
+        "india_impact": "China's export dominance puts downward pressure on global prices for manufactured goods, which can challenge the competitiveness of India's 'Make in India' initiative. Furthermore, the massive trade surplus suggests a continued reliance on Chinese supply chains, which complicates India's strategic efforts to diversify its import dependencies in electronics and critical minerals.",
+        "what_to_watch": "Monitor upcoming monthly Chinese trade data to see if the surplus leads to further international trade friction or potential currency devaluation strategies by the PBoC.",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
