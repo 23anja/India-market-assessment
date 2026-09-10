@@ -150,5 +150,43 @@
         "topic_bucket": "India markets"
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "date_label": "Thursday, 10 September 2026",
+    "file": "2026-09-10.html",
+    "headline_preview": "US Escalates Trade Tensions with Canada via Import Bans",
+    "stories": [
+      {
+        "candidate_index": 3,
+        "headline": "US Escalates Trade Tensions with Canada via Import Bans",
+        "summary": "The U.S. government has initiated a series of import bans on various Canadian goods, marking a significant escalation in trade hostilities between the two North American neighbors. This move moves beyond traditional tariffs by targeting specific sectors, including certain industrial and consumer products, signaling a more aggressive protectionist stance.",
+        "india_impact": "While this is a bilateral dispute, it creates global trade policy uncertainty. For India, this could pressure the U.S. to seek alternative supply chains for goods currently sourced from Canada, potentially opening niche export opportunities for Indian manufacturers in sectors like engineering or auto components. However, it also risks a broader global slowdown if trade protectionism triggers retaliatory measures from other major economies.",
+        "what_to_watch": "Monitor the Canadian government's retaliatory list and any subsequent WTO filings, which will indicate if this is a short-term negotiation tactic or a long-term shift in U.S. trade policy.",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDF5cTVOZGEtT1BNY3pqSG03ZGlMWVU2OHVrX0Uzd1RvMDRnUE14cUFQYjhXOUx2eUdQdEo5YXlSckZqV3VTSmFpSjRCWGtnbHZNRnRWS0l1anQ2VmhTMGFISk9aM05hRHFSN2hFdGVESHBaM25QdW1SYVl1RGNtcC03YVgtWml1Ul9VQ1RMNWVPVFVjQ2xTTkgzdkM2Z9IBowFBVV95cUxQOXQ1OXdQbTVWMHhwRnpPZGt1SXBTN3JxX0NWYURlQ3F1dE1YSVpKZjBqOVFiWW9RQUE5am0xdFZQUVByaGZha1YxemlwSm5mSjhQam1xSVNPQndUTHZEU0NvOV90cGRQeVRYNjdkWEdMZ1E1OElCU2VVYnluUEdYQ2l2bWRtM1I1cTRIUG4wQUh6X0dLTEJWbFd3OGVSMVczVGdN?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate Amid 6.9% GDP Growth Projection",
+        "summary": "The Reserve Bank of India has opted to keep the repo rate unchanged, prioritizing price stability as it monitors inflationary pressures. Simultaneously, the central bank has projected a real GDP growth rate of 6.9% for the current fiscal year, reflecting a balanced outlook on domestic economic resilience.",
+        "india_impact": "The decision to hold rates provides stability for corporate borrowing costs and mortgage rates in India. For equity markets, this signals a focus on maintaining liquidity and supporting growth, though the lack of a rate cut may disappoint investors hoping for an immediate boost to consumption-heavy sectors.",
+        "what_to_watch": "Watch the upcoming CPI (Consumer Price Index) inflation prints and the RBI's commentary on food inflation, which remain the primary variables that could force a shift in the current 'neutral' stance.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 35,
+        "headline": "China Reports Record Trade Surplus Driven by Tech and Auto Exports",
+        "summary": "China's trade surplus reached $119 billion in August, bolstered by a 130% surge in semiconductor exports and a 43% rise in automotive shipments. This data highlights China's aggressive push into high-value manufacturing as it seeks to offset weak domestic consumption through global market expansion.",
+        "india_impact": "The surge in Chinese exports, particularly in semiconductors and autos, poses a direct competitive threat to India's 'Make in India' ambitions. As China floods global markets with these goods, Indian manufacturers face increased price competition both domestically and in third-party export markets, potentially widening India's trade deficit with China if domestic demand for these imports remains high.",
+        "what_to_watch": "Watch for potential anti-dumping investigations or new tariff measures from the Indian government targeting Chinese industrial components and finished goods to protect local nascent manufacturing.",
+        "source": "easternherald.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3V4cG9IVGxzYktPSWlSMnd1dm53ZmJhel9od0pBTTRlMTlublYyUzZrY1U0ZkQyVEtCRHVEYW0xeFN3NFVRUWtFbnVfMk5JX1NMS1RJbHdNMm12N1o0TExnNkdmNUtjUVZQYWRraGtQZ3BSenBGc0cxYWtKVlAtcUV0cjV3TGZ3Ym5UYXI2ZDJEVm1nWUFOcg?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
