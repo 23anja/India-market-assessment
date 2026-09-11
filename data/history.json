@@ -188,5 +188,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "date_label": "Friday, 11 September 2026",
+    "file": "2026-09-11.html",
+    "headline_preview": "RBI Maintains Repo Rate Amid Growth Projections",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate Amid Growth Projections",
+        "summary": "The Reserve Bank of India has decided to keep the repo rate unchanged, signaling a focus on balancing inflation control with sustained economic momentum. Simultaneously, the central bank has projected a real GDP growth rate of 6.9% for the current fiscal year.",
+        "india_impact": "This decision directly influences borrowing costs for Indian businesses and consumers, impacting credit growth and liquidity in the domestic market. It also signals the RBI's confidence in India's macroeconomic stability relative to global volatility, which helps maintain the attractiveness of Indian assets for foreign institutional investors.",
+        "what_to_watch": "Future commentary from the Monetary Policy Committee regarding the timing of potential rate cuts and incoming CPI inflation data.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 4,
+        "headline": "Global Oil Prices Rise Amid Escalating Geopolitical Risks",
+        "summary": "Crude oil prices have climbed to four-month highs as market participants react to heightened geopolitical tensions and supply-side uncertainties. The surge reflects concerns that ongoing conflicts could disrupt global energy production and logistics.",
+        "india_impact": "As a massive net importer of crude oil, India is highly sensitive to price spikes, which directly increase the country's import bill, widen the current account deficit, and exert downward pressure on the Indian Rupee. Higher oil prices also feed into domestic inflation, complicating the RBI's interest rate strategy and increasing costs for the manufacturing and transport sectors.",
+        "what_to_watch": "Any shifts in production quotas from OPEC+ and the evolution of conflict-related supply disruptions in the Middle East.",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzhRQ3NrZmxEZk80TVBFZW1MTVlfOHpIbi1XbjhPeW9TUjh0NzRMRl9OOTZRejM4RFhZSkNjelRsY2d1bVRHZmF1TFhXbzdMR3FVcm1fLXUtb3R2Z2tVMWVVNlRldWNtdzN5Y2NCa0pkTUljVl9naVgxZS1qR2RnaTZDUUhpNjhjRFZTZjZDRlhCek55aGc2dUF2Y1NhR19UZmtwYXBLdnJGNFdtMnRFTdIBtgFBVV95cUxNUDc4WnRRVGJFRkhsS1UxNVJNZW14YXJZZUd4YWVZRjE2Y0pJNnJJeUZXMnJYOVlxUnhvSldKLUdLZGFDM3RDeWdPS3ZDYXQ3a0hSNnI4QXowWnFsdEI1bjVDSVg3alRxeFBYejlSb1QzclF3NE1iQlNlVW14WkQxWE1rczFwRkdkQndxQjFIY2FBYTZjem5IZk9mMVFmQ2hTMElCSkJQZkhsamJvcjJ1bnNtVGpOUQ?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 34,
+        "headline": "China Imposes New Export Controls on Rare Earth Minerals",
+        "summary": "China is set to implement new export controls on rare earth materials starting in November, a move that will impact the global supply chain for high-tech manufacturing. These restrictions are viewed as a strategic maneuver in the ongoing competition for control over critical mineral processing and recycling.",
+        "india_impact": "India is actively looking to secure its own supply chains for critical minerals to support its manufacturing ambitions, particularly in electronics and green energy. China's export controls create both a challenge and an opportunity for India to accelerate its domestic mining and processing capabilities or diversify its sourcing to avoid dependency on Chinese supply chains.",
+        "what_to_watch": "The specific list of minerals restricted and the impact on global prices for magnets and battery components.",
+        "source": "Fastmarkets",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmlBemdxVEtRUUpUV3VmQmk5TkRLZEs1cmFOU2JrSmFoeWVsbmFWUWlPZmFLbHBMQ0RjUWc0SmM4YlJqdUpBcmF2NWxGUUNMYXNDSUNkQnlIakxYWVFjQVQxNWlqNUJBY05TZWJ4amdDSUZVaUdIQWpHVVAwMTUzSUQ2ckdxMjBsRS11ZDJjeXpJdTN5SDNHN1Q0d3RJVUFEQTZjZldOcXBTaGVvNi1EZDc0RHZjdk8xSkNVZWswbw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
