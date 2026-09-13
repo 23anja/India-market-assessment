@@ -226,5 +226,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "date_label": "Sunday, 13 September 2026",
+    "file": "2026-09-13.html",
+    "headline_preview": "Modi navigates BRICS consensus amid escalating Middle East tensions",
+    "stories": [
+      {
+        "candidate_index": 1,
+        "headline": "Modi navigates BRICS consensus amid escalating Middle East tensions",
+        "summary": "Prime Minister Modi is working to forge consensus among BRICS nations during a period of heightened geopolitical instability caused by the expanding conflict in the Middle East. The diplomatic effort aims to maintain group cohesion while balancing the diverse interests of member states regarding the Iran-Israel situation and broader regional security. These discussions are taking place against a backdrop of calls for restraint and the protection of global trade routes.",
+        "india_impact": "India's strategic positioning is critical here; as a key BRICS member, it seeks to maintain its 'multi-aligned' foreign policy. The outcome of these talks influences India's ability to safeguard its energy imports from the region and its diplomatic standing with both Western allies and the Global South, directly impacting its energy security and geopolitical leverage.",
+        "what_to_watch": "Look for the final joint declaration from the summit regarding regional security, which will signal whether India successfully mediated a unified stance or if internal divisions persist.",
+        "source": "japantimes.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjUwLVdEMlk2V3dnY016LVlIdENJM2pOR0ZydDZmUE1BQkdsUlV1bzVEeEJGc3ZEa0dEdUVQTVIzY1A3UU9sQlRDSnJUelkyZEFvY241em9tNHFhc18wck4zNENodXNmMjM4b21OOW1jenJJQmMyV1dIUHNyV0VPT1kydERkOUU?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 23,
+        "headline": "Global institutional investors reduce exposure to Indian equities",
+        "summary": "Recent reports indicate that some global funds are souring on Indian stocks, with several institutions opting to reduce their allocations, in some cases to zero. This shift reflects a reassessment of valuation premiums in the Indian market compared to other emerging markets and broader global macroeconomic concerns.",
+        "india_impact": "This trend directly impacts the Indian capital markets, potentially leading to increased volatility and downward pressure on benchmark indices like the Nifty and Sensex. For the Indian economy, a sustained outflow of foreign institutional investor (FII) capital could tighten liquidity and increase the cost of capital for domestic firms reliant on equity financing.",
+        "what_to_watch": "Monitor the monthly NSDL data on FII flows and the upcoming quarterly earnings season to see if domestic institutional investors (DIIs) can absorb the selling pressure.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2c4SGhFc1lpazF0TFNBRy0wWXlXRzdRVFVYX0c1NU9NYkxnYnFINDNhV0hSSmh2cVVsc05PaXpVMkw3NDNlb1dRNVFOaDRvWVMtRTZsc3NTVHRrczU5bmdMVG9YYVdNYlhlMGVzX3BRNnZnVEk4ZkpWWWVRa0tnT19PZmE5eENpRXRudExFSFNTSnh1NWY2ZXFLUXFtRzlabnRYcy1XcjZqTXZtLWdwMWdOckZOUzBwLXNpUTBqSG1kcS1feEhIV0pPTTJHeGdKUktZc9IB2gFBVV95cUxOM2lmaHR1ajNtMDFVZjhGeGdpd2IzS2FIZkNRTDI1TkRqMFlCb1pPdmZXZGs5am1GVkp1eVcxVUtESmpPT1BjUG9ScGRhWlNBN09vQlc3ZWdjUVNkUkVTclJ5Q0lUSHBOOFFjMmxUc25BWVNaZnN0MzQ1S09hVDl2c3ZKOEJMdW4weWxiYW9TZFZYdHl3N0lqOHNsVy1fa3oxN2xoaUlMU2hObnprRUxwSzdPa21RTmtmVFptam1NbWZJQjZxME5kVjE5eVlndVprc1NnSU5talhwZw?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 24,
+        "headline": "ASEAN surpasses China as top semiconductor supply chain hub for the US",
+        "summary": "Data reveals that ASEAN nations have overtaken China as the primary route for South Korean semiconductor exports destined for the United States. This shift highlights the ongoing 'de-risking' of supply chains as manufacturers move assembly and testing operations to Southeast Asia to bypass trade restrictions and geopolitical friction between Washington and Beijing.",
+        "india_impact": "This shift presents a significant opportunity for India's 'China Plus One' strategy. As global electronics supply chains diversify away from China, India is actively competing to attract semiconductor assembly, testing, and packaging (OSAT) facilities to integrate into these new, more resilient regional supply networks.",
+        "what_to_watch": "Watch for new announcements regarding semiconductor manufacturing incentives or partnerships under the India Semiconductor Mission (ISM) that specifically target firms currently shifting operations out of China.",
+        "source": "finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WQ3BJNWdBVW5lUDQ2TUk2RExEeW41ek9sTjRKb0RRT0Rib2ltRW1rT2hrV3dULS0wWHFla3BFMl80NjM4bzl3OGI3cDZxWjhTQzV6b2lWOGtQZ2hhY1hYYzRGRDY1eDZMeEV0bWoxM0JpRloyNXc?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
