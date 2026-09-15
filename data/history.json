@@ -264,5 +264,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "date_label": "Tuesday, 15 September 2026",
+    "file": "2026-09-15.html",
+    "headline_preview": "RBI Maintains Repo Rate Amidst 6.9% GDP Growth Projection",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate Amidst 6.9% GDP Growth Projection",
+        "summary": "The Reserve Bank of India has decided to keep the repo rate unchanged, prioritizing price stability while maintaining a positive outlook on economic expansion. The central bank projects real GDP growth for the current fiscal year to reach 6.9%, signaling confidence in domestic consumption and investment despite global headwinds.",
+        "india_impact": "This decision directly influences borrowing costs for Indian households and corporations, impacting credit growth and liquidity in the banking system. It also serves as a signal to foreign institutional investors regarding the RBI's commitment to containing inflation versus supporting growth, which affects INR stability and capital inflows.",
+        "what_to_watch": "Future RBI Monetary Policy Committee meeting minutes and upcoming CPI inflation prints to gauge the duration of the 'pause' in rate hikes.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 31,
+        "headline": "US and China Intensify Strategic Competition Over Critical Minerals",
+        "summary": "The United States is increasing investments in domestic and allied critical mineral supply chains to reduce reliance on Chinese processing. China, meanwhile, continues to leverage its dominant position in rare-earth elements through export controls and strategic trade restrictions, creating a volatile landscape for global manufacturing.",
+        "india_impact": "As India seeks to scale its electronics and green energy manufacturing sectors (e.g., PLI schemes), it is highly dependent on imported critical minerals. The US-China rivalry forces India to accelerate its own mineral security strategy, including securing mining assets abroad and developing domestic processing capabilities to avoid supply chain disruptions.",
+        "what_to_watch": "Progress on the India-US partnership under the Minerals Security Partnership (MSP) and any new Indian government policies regarding domestic rare-earth mineral extraction.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGtsNFhCU1JCWjQ4RGZOTGlxUnBBWGFPM1lRR0l3X3l5QmswT0xzSzdDcXRwS0VtN3JOdjNIUzlUU3Y0T1ViaVdhZ0UyNU1HT1BKbGlQWkJmVUZsc0d0ZGlKeC1LYWI1RXR4UkdmT2RHU25XU3pVamNJMWVOSmtXRUdSeFN4M1BpRHg2eGhGQ1V2THNqa2NkR1I2XzE3Ml9tTldEa1ZDZE1HdEJv?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 27,
+        "headline": "India Reviews Recently Implemented Stock Market Pricing Mechanisms",
+        "summary": "Indian regulators are reconsidering the efficacy and impact of recently introduced stock market pricing mechanisms following feedback from market participants. The review aims to balance transparency and price discovery with the need to maintain liquidity and prevent excessive volatility in equity trading.",
+        "india_impact": "Changes to pricing mechanisms directly affect the trading costs and execution strategies for both domestic retail investors and large foreign portfolio investors (FPIs). Any adjustment here could shift trading volumes or alter the risk-reward profile for high-frequency trading firms operating in the Indian market.",
+        "what_to_watch": "Official circulars from SEBI regarding specific rule amendments or adjustments to the current trading framework.",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2lrUE5DbkxFZmprdkpabmVWNm16U19hZ21oUmFvZXZMaEQ2OTFRaDIxRHBEUVBMdU5RRHR2YXhoaDRuMExRNHdlVTVkM0IwVnM1Y081V3dsTkowSklmV05jRVRBMXB4TW9MTjE3M3YwN3dFQ21aaEpYOTRwUEkzX3RYS0c?oc=5",
+        "topic_bucket": "India markets"
+      }
+    ]
   }
 ]
