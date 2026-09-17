@@ -340,5 +340,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "date_label": "Thursday, 17 September 2026",
+    "file": "2026-09-17.html",
+    "headline_preview": "US Federal Reserve Implements First Interest Rate Hike in Years",
+    "stories": [
+      {
+        "candidate_index": 12,
+        "headline": "US Federal Reserve Implements First Interest Rate Hike in Years",
+        "summary": "The U.S. Federal Reserve has officially raised interest rates for the first time in several years, marking a significant shift in global monetary policy aimed at curbing persistent inflation. The decision was reached through a unanimous vote, signaling a unified commitment among policymakers to tighten financial conditions despite potential risks to economic growth.",
+        "india_impact": "This move typically triggers capital outflows from emerging markets like India as investors seek higher yields in US dollar-denominated assets. It puts pressure on the Reserve Bank of India (RBI) to manage the INR-USD exchange rate volatility and potentially forces the RBI to maintain or raise domestic interest rates to prevent excessive currency depreciation and capital flight.",
+        "what_to_watch": "The upcoming RBI Monetary Policy Committee meeting minutes and any commentary on the 'interest rate differential' between the US and India.",
+        "source": "WSJ",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnY3TVFMMUNHQklOdVhJV2JyYzZwRVhSZVJCNTFsZkdMR3Z5dmM4TGlxR3FqYUlhUEgwTlpXR25pNC1PdXF6bHJ1NHpLVzl5Q3NBanFRcnNjMFZhS01HMzFZZ0dzVzFvX0xZeTZxd0gwaUZpOFZIcUpvdzA3NkpXTlN3U0tVZFpXbWJZZ3FkUENBd1lsSTRacFBKeHl1c2JT?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "Geopolitical Pressures Threaten India's Energy Import Costs",
+        "summary": "Rising geopolitical tensions, including the ongoing conflict in Ukraine and shifting trade routes, are complicating global energy logistics. These disruptions are creating supply chain bottlenecks and increasing the risk of higher crude oil prices for major importers.",
+        "india_impact": "As India imports over 80% of its crude oil requirements, any sustained increase in global prices directly impacts the country's current account deficit and retail inflation. Increased energy costs also squeeze the margins of Indian manufacturing and transport sectors, potentially slowing industrial growth.",
+        "what_to_watch": "Weekly Brent crude oil price benchmarks and updates on the status of Red Sea shipping routes, which are critical for India's energy imports.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLS1fSEZ3WkprSVJWcnlIelhMZmdfNGlyUk9DMXZRQzJfeTJrODg4d0J2VFlCQkE3TVZoMHVmdGZSMHh1ajBBeFhsSm01ak5YMzBDLUtrS1locDdSQkZPa3lfNGtySFcwd0xZUmpLR0l1Ylh6bTJBWVV0SjFvcy1DbWdlWGk5YTc1LWJ6R0RWSFFPZTZLNUdSLThOeFFMeWx6UFJ5T0dWT0NRNTNRV2FLSWpOMV9DWEZOUmhlLXl3dzlvX2pxaXNxRGkwazUwSVJFdlZzanMwakRGYkY2SFFrWENpd1pkZ01UZ1RJQnlqdlhOdFnSAfgBQVVfeXFMTUZ4eHltanM4bG5jWU13QzNqZWV5T2w2Ylc0dEwyMm8wellVaGJBZkpUR002Nmk2M1lyaURxMUZJRG4wM3RqRV9CVHZIRURDVlpqWkRwOTVaNXJkMGJQYnZWRWF2eEVoWi11Y2REQ1VSVjBiTzhnRmo1V2hlVzlmdmdVd3pqQnpubEtJbG9EbGVYWjlNeUVpZzBRN3J2dXQ4OURCcDJuRlFIOHBYMUFXNllENFo4UzgwQ25PcU1lbktiTnQyb3REdWlWdmpCY01wUmdHVUI5QWhka1lhNnF3dWZlTGxfUU85MGx4alh2MDNzUEN5N0RrX3g?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 6,
+        "headline": "EU Pressures China to Voluntarily Limit Electric Vehicle Exports",
+        "summary": "The European Union has requested that China voluntarily cap its exports of electric vehicles (EVs) to the European market. This move follows growing concerns among EU officials regarding the impact of heavily subsidized Chinese manufacturing on European domestic car producers.",
+        "india_impact": "This trade friction could lead to a 'dumping' effect where Chinese manufacturers, blocked from Western markets, aggressively target other regions, including India, with low-cost EVs. While this could accelerate EV adoption in India, it poses a significant competitive threat to the domestic automotive industry and the government's 'Make in India' manufacturing initiatives.",
+        "what_to_watch": "Any announcements from the Indian Ministry of Commerce regarding potential anti-dumping duties or changes to the FAME-II subsidy framework for imported EVs.",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXBHVk1XNnktaWhhOWNac0M0R0k3bE0zNXdabHE0SHJiNWhxaGxGTWdraVZfdWJOa1NRcFo1dGlSZjFzTGhUMC1XV2owXzliTDlfalFROWQyUjBOWUNZcFRUY1FPZkt0WXh3UzA2cGcyaDBqMnRyYVZvb29FTDFsd21YYy0?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
