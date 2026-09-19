@@ -416,5 +416,43 @@
         "topic_bucket": "India economy & policy"
       }
     ]
+  },
+  {
+    "date": "2026-09-19",
+    "date_label": "Saturday, 19 September 2026",
+    "file": "2026-09-19.html",
+    "headline_preview": "Bank of Japan Raises Interest Rates to 31-Year High",
+    "stories": [
+      {
+        "candidate_index": 10,
+        "headline": "Bank of Japan Raises Interest Rates to 31-Year High",
+        "summary": "The Bank of Japan has increased its benchmark interest rate to the highest level since 1995, marking a significant shift away from its long-standing ultra-loose monetary policy. This move is aimed at curbing persistent inflation and stabilizing the yen, which has faced significant downward pressure.",
+        "india_impact": "The end of the 'carry trade'\u2014where investors borrowed cheap yen to invest in higher-yielding assets elsewhere\u2014could trigger a global reallocation of capital. For India, this may lead to increased volatility in FPI (Foreign Portfolio Investor) flows as global liquidity tightens, and could impact the INR if global investors unwind positions in emerging markets to cover yen-denominated liabilities.",
+        "what_to_watch": "Monitor the USD/JPY exchange rate and the subsequent impact on the Reserve Bank of India\u2019s (RBI) stance on liquidity management and potential interest rate differentials.",
+        "source": "BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 17,
+        "headline": "Moody\u2019s Upgrades India\u2019s FY2027 GDP Growth Forecast to 7%",
+        "summary": "Moody's Ratings has revised its growth projection for India\u2019s fiscal year 2027 upward to 7%, citing the country's economic resilience and stability despite regional geopolitical tensions. The upgrade reflects confidence in India's domestic consumption and investment cycle.",
+        "india_impact": "This upgrade serves as a positive signal for sovereign credit sentiment and foreign direct investment (FDI) inflows. A stable, high-growth outlook helps maintain India's attractiveness as a 'China+1' manufacturing destination and supports the valuation of domestic equity markets by reinforcing the narrative of India as a structural growth outlier.",
+        "what_to_watch": "Watch for incoming high-frequency data, such as GST collections and manufacturing PMI, to see if they align with the optimistic growth trajectory projected by rating agencies.",
+        "source": "The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS0htWWRqbW5EN2EwRndYdEQ0VFZUdmR0WmtaSEdVTGE5dTBGb3NNak5VRVNQUEQ4Z1JGcWlYbTMxYW8zZEV6OHNTQ1J5cXlreTh1WGswSWQxNXhhY19IcjZ3VzJjVTlnN3F4NXhEaFZRclBWOFpKYXFZd1NHYXdvQ2prWmdtZkR6THBGRkJuV3V0czZsU1VGcXZiMzdsd0xsRXFBeWFrbmFTY3dHQk1LX0d0Sy1aOW1mSXZjN0k5aTZzb2FrN0RyQlNqektnbmZFRWE5NmhZYUFkUdIB4AFBVV95cUxNRzVZNGVhRS1tb2hwME5NWUx0UmxVZ0xYT3cxS2hOMkxhN2N3UV9hVHpRRGNLcEhlRmM4NUdsMnlPYmVvSzVVS0dTOF9FRDBKT1JPU045NDk2bDFJRjBhTDdqNWVhRENrRHY3SnU2WEdDVWt1ZXpheWhXZ1I0WVRHc2h6Rlo2RmFVWjVyMFVUd0hSajZuQTl1VUp2b0N4ZXNLaWZzNG5oZHZyOERRLUowSkFYUW14OUhLWEJNYmd6ZGRZSE5UWHdjZkNqVG1FMUJfTTZiX3pvYllfV1pXSUV6aA?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 1,
+        "headline": "US Share of India\u2019s Software Service Exports Increases to 54%",
+        "summary": "Despite ongoing global trade tensions and shifts in supply chain strategies, the United States has solidified its position as the primary market for India's software services, now accounting for 54% of total exports. This growth highlights the deepening integration of the two nations' digital and technology sectors.",
+        "india_impact": "The heavy reliance on the US market makes the Indian IT sector highly sensitive to US macroeconomic conditions, including interest rate cycles and corporate IT spending budgets. While this deep partnership provides revenue stability, it also exposes Indian service providers to US regulatory shifts and potential protectionist policies regarding H-1B visa and outsourcing.",
+        "what_to_watch": "Monitor quarterly earnings guidance from major Indian IT firms regarding their 'Total Contract Value' (TCV) specifically from US-based financial and healthcare clients.",
+        "source": "The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEtaSVdZUV9OQm40S1A1UlN6TGktc2F3ZFpRbjV5VU9oLUIxUzd5YlI5ZEYzb2dHaFpwSVEwOWloc0dCN0hLUEFtcU9IX2NfWVhZOW5QbVpGNUtkUUlQdXc4bmQzYUhIcHlPcmVyQUNtTHNDc0JPcEY1bkxHOEhCWmQzZHFZSG85TE5yRHRUYWZtYWxhOUNWRE0wS2FaaFcxTENCeEV2N3k5c3h1dDNqNzhwVQ?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
