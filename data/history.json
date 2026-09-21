@@ -454,5 +454,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "date_label": "Monday, 21 September 2026",
+    "file": "2026-09-21.html",
+    "headline_preview": "RBI Maintains Repo Rate as GDP Growth Projections Remain Steady",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate as GDP Growth Projections Remain Steady",
+        "summary": "The Reserve Bank of India (RBI) has decided to keep the repo rate unchanged, maintaining its current monetary policy stance. Simultaneously, the central bank has projected India's real GDP growth for the current fiscal year at 6.9%, signaling a focus on balancing inflation control with economic expansion.",
+        "india_impact": "This decision directly influences borrowing costs for Indian businesses and consumers, affecting credit growth and domestic consumption. It also impacts foreign investor sentiment regarding the stability of the Indian rupee and the attractiveness of Indian debt markets in a high-global-interest-rate environment.",
+        "what_to_watch": "Future RBI Monetary Policy Committee meeting minutes for signals on potential rate cuts or shifts in liquidity management.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 9,
+        "headline": "Federal Reserve Implements First Interest Rate Hike Since 2023",
+        "summary": "The U.S. Federal Reserve has raised interest rates for the first time since 2023, citing persistent inflationary pressures and stronger-than-expected economic growth. This move marks a shift in the central bank's strategy as it attempts to cool the economy without triggering a recession.",
+        "india_impact": "A higher U.S. interest rate regime typically leads to capital outflows from emerging markets like India as investors seek higher yields in dollar-denominated assets. This puts downward pressure on the INR, increases the cost of external commercial borrowings for Indian firms, and forces the RBI to maintain a tighter policy stance to defend the currency.",
+        "what_to_watch": "The upcoming U.S. Consumer Price Index (CPI) data and the Federal Open Market Committee (FOMC) dot plot to gauge the trajectory of future rate hikes.",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 0,
+        "headline": "Escalating Tensions Between U.S. and Iran Raise Global Security Concerns",
+        "summary": "U.S. President Donald Trump has indicated that he is in a 'deciding mode' regarding potential military action against Iran, warning that significant developments may occur soon. This follows a period of heightened friction in the Middle East, with both sides signaling readiness for confrontation.",
+        "india_impact": "India is highly sensitive to Middle Eastern instability due to its heavy reliance on crude oil imports from the region. Any conflict could trigger a sharp spike in global oil prices, which would worsen India's current account deficit, increase domestic fuel inflation, and pressure the fiscal budget.",
+        "what_to_watch": "Diplomatic statements from regional powers and any immediate fluctuations in Brent crude oil prices.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVFqaVNhVlRPLTNyV3FTRkVlb0tBYmRiYnJuVl9waThZRV9oTmJsY1RHOEtQMDgxMVNMSEQ1dDYxUnlualVlZno0LXJ3b01oaHlQNS1kUnN2MHo3cmx5MmIzTFN6VDNGZ1lHdkphR004M3RKOTJLSzFScEphR0d6VzJIRWF2alBOZGJQVzR0WjFrZkZWR2J3b092c1Y?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
