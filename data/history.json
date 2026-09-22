@@ -492,5 +492,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "date_label": "Tuesday, 22 September 2026",
+    "file": "2026-09-22.html",
+    "headline_preview": "RBI Maintains Repo Rate; Projects 6.9% GDP Growth for Current Fiscal Year",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate; Projects 6.9% GDP Growth for Current Fiscal Year",
+        "summary": "The Reserve Bank of India (RBI) has opted to keep the repo rate unchanged, signaling a focus on balancing inflation control with economic growth. The central bank has projected a real GDP growth rate of 6.9% for the current fiscal year, reflecting a cautious but optimistic outlook on domestic economic resilience.",
+        "india_impact": "This decision directly influences borrowing costs for Indian businesses and consumers, impacting liquidity in the banking system. It also provides a signal to foreign institutional investors (FIIs) regarding the stability of India's monetary policy and the trajectory of the Indian rupee (INR) against the dollar.",
+        "what_to_watch": "Future RBI Monetary Policy Committee (MPC) meeting minutes and upcoming CPI inflation data to gauge if the central bank will pivot toward rate cuts later in the year.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 33,
+        "headline": "India's Trade Deficit with China Widens Despite Export Growth",
+        "summary": "While India has seen a notable 40% increase in exports to China, the overall trade deficit continues to expand due to a significantly higher volume of Chinese imports. The surge in imports is largely driven by demand for industrial inputs and electronics, highlighting a persistent structural imbalance in bilateral trade.",
+        "india_impact": "The widening deficit puts pressure on the INR and complicates India's 'Make in India' objectives, as domestic manufacturers struggle to compete with low-cost Chinese imports. It also raises strategic concerns regarding supply chain dependencies in critical sectors like pharmaceuticals and electronics.",
+        "what_to_watch": "Updates on potential non-tariff barriers or anti-dumping investigations by the Indian government on specific Chinese industrial components.",
+        "source": "Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbC1lSDdzTElINFFjaFBaTGhZRFBFR01SSFFmTVZaOVRDRjgwRUxQMmtGejcycktZb0N1RDFtanlsTFd3SnpiMzBlRzhGbHl1Z3prRnlIb0R5dmZoWnJmM2lFeUtBejEzX2ZVOERCZnFaOWlzc0RyZlR4VlRZNnpIMTNPbFNpZXBpNGRmYTh2eTdnMVc4TVU1eEpuT2xaMFNkNThYOWxTdi1TdVdYNTZrQjBjWEQ1VUEySEdoSlJ5b19VUThsazBTT25FOEFDWUgwRTZaT3ZR0gHbAUFVX3lxTFB0engtNGNjSHFEQzlGR09nbFNuQWszSEhmLV9OSy0wVnZsS3lfbEdNRGlvR1Q0SzkzX2tubFRwM19wcE1LZUFlQVd1MXVsMzNJcFpya1U1MFpGNzBEdFRCR1FXbjUyVlBsa0xpZDJWRjdWV2c4dV84dy1iYTFEeUdmaXpSaE05a21vRjRZQ3ZMaE1UaUJxVndXRjdhNnhBd0FsR2thODU3Zl9sRDNOSmg3SkY2LXd3ZUJYXzlKTnNkeUlNNGJiUXV6QmNxYml6bHlxNV9pUmtIVXpVbw?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 24,
+        "headline": "National Stock Exchange (NSE) IPO Attracts Over $10 Billion in Demand",
+        "summary": "The highly anticipated Initial Public Offering (IPO) of the National Stock Exchange of India has drawn significant interest from global and domestic investors, with demand exceeding $10 billion. The market is currently pricing in a modest listing pop, reflecting strong confidence in India's capital market infrastructure.",
+        "india_impact": "As the primary venue for Indian equity trading, the NSE's public listing is a landmark event for the financial sector, potentially increasing transparency and corporate governance standards. It serves as a bellwether for foreign investor appetite for Indian financial assets.",
+        "what_to_watch": "The official listing date and the subsequent performance of the stock in the secondary market, which will indicate broader sentiment toward Indian financial services.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0JKbTN2UFdSR2lMbEFsaXhqZWstRU12VTlNOHg2d2d2bE95V2ZFQURkX2luX3p0SDB4T0dLVEdmLVdVOHNqTHNyWUxjWnNHTV9MMDAxVGFWbjNRemlmRlZGdUl3WnpiNHAwSG10T1FmaHBjZ3dpVlpHdm5rWUE5czRlaHY3RDVfRDNSbg?oc=5",
+        "topic_bucket": "India markets"
+      }
+    ]
   }
 ]
