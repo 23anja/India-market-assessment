@@ -568,5 +568,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "date_label": "Friday, 25 September 2026",
+    "file": "2026-09-25.html",
+    "headline_preview": "Federal Reserve Officials Signal Potential for Further Interest Rate Hikes",
+    "stories": [
+      {
+        "candidate_index": 8,
+        "headline": "Federal Reserve Officials Signal Potential for Further Interest Rate Hikes",
+        "summary": "Federal Reserve officials, including John Williams, have indicated that additional interest rate hikes remain a possibility this year to combat persistent inflation. This stance reflects ongoing concerns about economic data that has not yet cooled sufficiently to meet the central bank's targets. The commentary suggests that the Fed is not yet ready to pivot to a policy of monetary easing.",
+        "india_impact": "Higher US interest rates strengthen the US dollar and typically trigger capital outflows from emerging markets like India as investors seek higher yields in safer US Treasury assets. This puts downward pressure on the Indian Rupee (INR) and forces the Reserve Bank of India (RBI) to maintain a tighter monetary policy stance to defend the currency and manage imported inflation, particularly for energy costs.",
+        "what_to_watch": "The upcoming US Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) price index releases, which will dictate the Fed's next move at their policy meetings.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 37,
+        "headline": "China's Share of Global Container Exports Hits Record 40%",
+        "summary": "Despite ongoing trade tensions and the imposition of tariffs, China's share of global container exports has climbed to a record 40%. This shift indicates that Chinese manufacturers have successfully adapted their supply chains and redirected trade flows to circumvent protectionist measures, maintaining their dominance in global manufacturing output.",
+        "india_impact": "This highlights the persistent difficulty for India's 'Make in India' initiative to capture significant global market share from China. While India aims to become an alternative manufacturing hub, China's ability to maintain export dominance suggests that global supply chains remain deeply entrenched in the Chinese ecosystem, limiting the immediate pace of manufacturing relocation to India.",
+        "what_to_watch": "Monthly export data from China and India's own manufacturing PMI and export performance figures to see if the gap in global market share begins to narrow.",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnhJYlUtWXZLaldhdkI1am9CZ0Z6YW9DZUs0bHYyc0djUFlMQ3ZzcWRzREllcktRYXczaWtuZWNXdERsNm5QSENZYm9TU1RCRW1ELTQ0YkdTMzE2WThwU1RwTU43T2FhOHdOMG1jeGVlU0JhU0YwRVBqVHJtVERwZzBlUWVyRHRLUUxDQnlZUjJLSUV3djc2cXdn?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "India Projects Robust 7.6% GDP Growth for FY26",
+        "summary": "The Indian government has projected a GDP growth rate of 7.6% for the 2026 fiscal year, with nominal growth expected at 8.6%. This forecast reflects official optimism regarding domestic consumption, infrastructure investment, and the country's ongoing economic momentum despite global headwinds.",
+        "india_impact": "This growth trajectory is critical for maintaining investor confidence and attracting Foreign Direct Investment (FDI) into Indian equity and debt markets. Sustained high growth is necessary to support the government's fiscal deficit targets and provides the RBI with a buffer to manage interest rates while balancing growth and inflation objectives.",
+        "what_to_watch": "Quarterly GDP growth reports and high-frequency indicators like GST collections and credit growth data to assess if the economy is tracking toward these ambitious government targets.",
+        "source": "DD News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXVqRWdfTUV5eGRVU3Y1M2I5YWxXeTNTY1dQQnVZbjJGeEhJZGR4WlJadmxhTTl0WFlhRzhqaVo0TUR6X3dvdnpYYU1QcDdZWTkxVDd5MzZ1MUoxTHgyRnpMWmVJQm9CS2hLRkUyaDhUTFpvYnhoR2FHVlZvZjRLaXZoOG1QNlRPYkk3NXhSSQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      }
+    ]
   }
 ]
