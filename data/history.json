@@ -606,5 +606,43 @@
         "topic_bucket": "India economy & policy"
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "date_label": "Saturday, 26 September 2026",
+    "file": "2026-09-26.html",
+    "headline_preview": "S&P and Fitch Upgrade India's Long-Term Economic Growth Forecasts",
+    "stories": [
+      {
+        "candidate_index": 19,
+        "headline": "S&P and Fitch Upgrade India's Long-Term Economic Growth Forecasts",
+        "summary": "Major credit rating agencies S&P and Fitch have raised their GDP growth forecasts for India for the 2027 fiscal year to approximately 7%, citing strong economic momentum and structural resilience. These upgrades reflect increased confidence in India's domestic consumption and investment cycle, despite global headwinds.",
+        "india_impact": "Upgraded growth forecasts typically attract higher foreign institutional investor (FII) inflows, strengthening the INR and lowering the cost of capital for Indian corporates. However, the mention of potential RBI rate hikes suggests that persistent growth may keep inflation risks elevated, forcing the central bank to maintain a tighter monetary stance for longer.",
+        "what_to_watch": "The upcoming RBI Monetary Policy Committee meeting and the next set of quarterly GDP data to see if actual performance aligns with these optimistic long-term projections.",
+        "source": "businessworld.in",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHFRTHB6RC1hdFF1ZWFjZEprZTVSVnpEMXpyMEpGM1dvb3JMY1JodjlRYzVYYjBMN2NuRjR3U0VfOHUzRkx6eGppQTE3eTVrX1pteVl5UkhIU1g3RmZEV0Y0UGpSVnhfcHFnakZhSWpwcndnWGVNUm1uZzR3UGZnNHN6RUQ2NVVBS1RSbENPcS10VlNGRF9JaVhVbXN1bmpsWjlKbkQyX0Y?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 4,
+        "headline": "Global Oil Markets React to Evolving US-Iran Tensions",
+        "summary": "Oil prices have fluctuated as the market weighs the potential for a de-escalation in US-Iran hostilities against ongoing concerns regarding Saudi supply stability. While Iran has proposed a seven-day roadmap to end conflict, skepticism remains regarding the durability of any such agreement given the complex geopolitical landscape.",
+        "india_impact": "India is highly sensitive to oil price volatility as it imports over 80% of its crude requirements. A sustained decline in oil prices would improve India's current account deficit and reduce inflationary pressure on the retail fuel basket, whereas renewed conflict would spike import bills and weaken the rupee.",
+        "what_to_watch": "Official statements from the US administration regarding the viability of the Iranian proposal and any shifts in OPEC+ production quotas.",
+        "source": "The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmFwZzA1alZ1NEJxbU5IeW1ydFJ1bEFUNGZaRVlGNllSNHo2RDhtN1RDZm85X21NRVJFN0NtbDZMSUItLTFUQ2hvclNEeUxvSDRWRU9pNDdMTVlybnVoT1Qway1BTEVSb19YZ2ZXdlpkV2dnZ295bkdHMUpFR1ZKenQzNzA5cWNld0E2dU81ZkktNmZVLWdmazBxMzRyc0xMS3JneFJRTGgydEllenJrQTh5c1QtZEhraEtxeWtjbGlKR3ZaQzliOGo1SkNyal9JNzIwaUxXZzB2aFNfaERzdjFNT0lVSkp1amNvS09HMHpkcFZFdzlPYXJFYko4RmpQ0gGGAkFVX3lxTE53aDFUcmo4TWJhOF85VVVaZW5jMHNERXRjVlgzRFJURTRCN3VBc19WcFo0VkRRZDdGdnJ5TlRBVUhreWF3eS01dVU3MUJuVF9HRUcwVFYtV0J3bWJ5ajhQWVhuN3duam1vaTEtb3lzbVpLZWFYZHl1cHJnSFExR2w0cGZYLWlvb1ctUTFueV9TVE4tb0stYzZBVEsxR28yWXBnaW04MXhMdWNMYVpqZjl6QmVVU00tallfUEVlYi1jSDRfbDg1ZC1FNnpPc2hKSS1JY01aWF9LVXB1czZXeDJ3X1hwcFUyRFVxVUR5Q2JHSXlwaUxoVlB6TzdrT2p6emtBX0R4RGc?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 34,
+        "headline": "India's Apparel Export Market Share Remains Stagnant",
+        "summary": "Despite global supply chain shifts and China losing its dominance in the apparel manufacturing sector, India's share of global apparel exports remains stuck at approximately 3%. The sector continues to struggle with logistical bottlenecks, scale inefficiencies, and intense competition from regional peers like Bangladesh and Vietnam.",
+        "india_impact": "This stagnation represents a significant missed opportunity for India's 'Make in India' initiative and employment generation. It highlights structural weaknesses in the textile value chain that prevent India from fully capturing the 'China Plus One' manufacturing migration, which is essential for boosting export-led growth.",
+        "what_to_watch": "Updates on the implementation of the Production Linked Incentive (PLI) scheme for textiles and any new trade policy measures aimed at improving logistics and export competitiveness.",
+        "source": "Apparel Views",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHk3b3k4NnZaZTlOcm5mNVRtTWN4Z3BtQ1hOTzEtVk4zallJVDZ2NUVZenBaTURfQWpxVURPV1llcFE0TWdRMFBRaFJoVVBnUmdlLWhEa3VEbFRydHNMX1JaZW9BbnhmVk1DeXJpaDVGSDRqOFJJU2p6UGhiVWVWNEdCSXhBUFdjZ2dfWmFlcHJsallXalVkOEw2NkR2NFdHT0dSVA?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
