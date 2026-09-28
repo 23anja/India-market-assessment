@@ -644,5 +644,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "date_label": "Monday, 28 September 2026",
+    "file": "2026-09-28.html",
+    "headline_preview": "Indian Equities Decline Amid Global Geopolitical Tensions and Rising Oil Prices",
+    "stories": [
+      {
+        "candidate_index": 20,
+        "headline": "Indian Equities Decline Amid Global Geopolitical Tensions and Rising Oil Prices",
+        "summary": "Indian stock markets experienced a significant correction, with the Sensex and Nifty falling by over 1% as investors reacted to escalating tensions between Iran and the West. The uncertainty has triggered a flight to safety, exacerbated by rising crude oil prices and continued net selling by Foreign Institutional Investors (FIIs).",
+        "india_impact": "As a major net importer of crude oil, India is highly sensitive to price spikes, which threaten to widen the current account deficit and exert inflationary pressure on the domestic economy. Furthermore, the risk-off sentiment in global markets often leads to capital outflows from emerging markets like India, putting downward pressure on the INR and domestic equity valuations.",
+        "what_to_watch": "Monitor Brent crude price movements and FII net flow data in the coming sessions to gauge if the market sell-off is a temporary reaction or a sustained trend.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 26,
+        "headline": "India Seeks to Retain Carbon Tax Revenue Amid EU's New Trade Barriers",
+        "summary": "The European Union's implementation of the Carbon Border Adjustment Mechanism (CBAM) is creating new trade costs for exporters, prompting India to explore domestic carbon taxation frameworks. By taxing carbon locally, India aims to ensure that tax revenue remains within the country rather than being captured by the EU's border levies.",
+        "india_impact": "This shift directly impacts Indian exporters in carbon-intensive sectors like steel, aluminum, and cement, who face higher costs to enter the European market. Establishing a domestic carbon market is a strategic move to protect national revenue and provide a framework for Indian industries to transition toward greener production methods.",
+        "what_to_watch": "Watch for the government's formal policy announcements regarding the structure of a domestic carbon credit trading scheme and its alignment with international standards.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzV5bWFNNkJRal9BYU9pTXJIdjg0VHJqWXBva2lBMGRVZkVRelpuVUlYTFM5aE04NXo1XzVfMWtvVHFlZEU5WVRYZFlPNzhGR0ZBaTZxd0FJdUtjdWlmcmYwSlI4SDliUDNyZGw3S0hPa1pUTEh5OWJCc1hmNkN1N0Npc3c1ckFlNjQ5TmlQanpSeWhtbFoyM2dvVmQteFBKS2NoU01nSlM2V0JjTmhXTFNFdm80dG1yaTdKMDRaWTdTbEVYekFfWl96Q0pfQ3RGbDFMTHlINNIB3AFBVV95cUxQMElPT3dEbldrQnl6V0kwRVJyUnZxSk9tYmxxRjNoSTVoTlVENFJvMEJRYW91OXF3SjZldU93SEVlZlBuUUJUR0liSnFIZllVa0kyODVyVXdHRWtWQ1JDeFlCemQyVWtuWVI1YXE0TjNlSzVoTFZBdlV0QlRzSEt6RHFjYWZVOWpEUUNTQVNhMW54RnJWbHYtSHpvVE9kUjdXUlZCQjJQUk5hV2FGWFh2YUxuLUhzMFZ5cFlIZEg0RXZURWE0eG5JMDhIU1FqTnhrRzhPMG5DQU5lVkND?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 27,
+        "headline": "U.S. Strategy to Diversify Critical Mineral Supply Chains Away from China",
+        "summary": "The United States is aggressively pursuing policies to reduce its reliance on China for critical minerals, which are essential for high-tech manufacturing and the green energy transition. This involves incentivizing domestic mining and fostering partnerships with allied nations to secure stable supply chains for materials like rare earths, lithium, and cobalt.",
+        "india_impact": "This global realignment offers India a strategic opportunity to position itself as an alternative manufacturing and processing hub for critical minerals. By leveraging the Minerals Security Partnership (MSP) and domestic exploration initiatives, India can attract foreign investment and secure the raw materials necessary for its own EV and semiconductor ambitions.",
+        "what_to_watch": "Track upcoming bilateral agreements between India and the U.S. or other Quad partners specifically focused on joint mineral exploration and processing technology transfers.",
+        "source": "WSJ",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzNvZHFZMURId2VObGpJNUJCckRGaDVQcnZMRDZ3XzNhWEhkNGV4RmZ2dmJDUU10am9MdmpVSVF5QkxURVdZYnMzbld1U1NVaEpGRFpRX0hXb2EtdDltRFhRZDdCRGhnd2JCYjgtV1lncGhobC1OOGFlY3dvOG5TdEZKNkVOVG9fR3B2WThuUFJXWmV0X0lEVnFjU2ExaUFD?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
