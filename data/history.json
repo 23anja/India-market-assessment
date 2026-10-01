@@ -758,5 +758,43 @@
         "topic_bucket": "India economy & policy"
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "date_label": "Thursday, 01 October 2026",
+    "file": "2026-10-01.html",
+    "headline_preview": "Indian Equities Face Significant Outflows Amid Global Market Volatility",
+    "stories": [
+      {
+        "candidate_index": 29,
+        "headline": "Indian Equities Face Significant Outflows Amid Global Market Volatility",
+        "summary": "Indian benchmark indices have recorded their worst monthly performance since March, driven by a combination of persistent foreign institutional investor (FII) selling and global macroeconomic pressures. The market decline has been exacerbated by concerns over rising oil prices and the impact of global interest rate environments on emerging market capital flows. This trend marks a notable shift in sentiment as domestic funds struggle to fully offset the sustained exit of foreign capital.",
+        "india_impact": "The sustained FII outflow directly impacts the INR-USD exchange rate, putting pressure on the rupee. Furthermore, it tightens liquidity in the Indian financial system and forces a repricing of equity valuations, which complicates capital raising for Indian corporates and impacts retail investor sentiment.",
+        "what_to_watch": "Monitor the upcoming FII net flow data and the RBI's intervention strategy in the currency markets to stabilize the rupee against the strengthening dollar.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "RBI Maintains Repo Rate Amid Growth Projections",
+        "summary": "The Reserve Bank of India (RBI) has decided to keep the repo rate unchanged, prioritizing inflation control while maintaining a growth-supportive stance. The central bank projects India's real GDP growth for the current fiscal year at 6.9%, signaling a cautious but optimistic outlook on domestic economic resilience.",
+        "india_impact": "The decision to hold rates provides stability for borrowing costs across the economy, directly benefiting the real estate and automotive sectors. It also signals that the RBI is prioritizing domestic price stability over following global central bank rate trends, which helps maintain the attractiveness of Indian debt markets for domestic investors.",
+        "what_to_watch": "Watch for the next Consumer Price Index (CPI) print to see if inflation remains within the RBI's comfort zone, which will dictate the timing of any future rate pivots.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 33,
+        "headline": "EU Moves Toward Trade Defense Mechanisms Against China",
+        "summary": "France and Germany are advocating for the European Union to adopt a 'Section 301'-style trade mechanism, similar to the U.S. approach, to pressure China over unfair trade practices. Chinese industry groups have formally opposed this move, warning of potential retaliatory measures that could escalate trade tensions between the two major economic blocs.",
+        "india_impact": "As the EU seeks to diversify its supply chains away from China, India has a strategic opportunity to position itself as an alternative manufacturing hub. However, if the EU imposes broader protectionist trade barriers, it could inadvertently affect Indian exporters who rely on European markets for finished goods that may contain Chinese-origin components.",
+        "what_to_watch": "Monitor the formal legislative progress of the EU's proposed trade defense instruments and any subsequent announcements from the Indian Ministry of Commerce regarding export opportunities in European markets.",
+        "source": "finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RNGlzZHRYMU13ZFZfWXVGLUdXSnNCRnE1TWFDTW1DOV9iM2VxYnF5M0xNUDYzOHRvdmhUN1Z1QUswSjVIM21fb2dNWWRuYVpvSTh6N09qWHp4alNGS212Zk4xeU5ReVBmZGRRdkF3MTJrdUs2TkE?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
