@@ -796,5 +796,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "date_label": "Friday, 02 October 2026",
+    "file": "2026-10-02.html",
+    "headline_preview": "Foreign Institutional Investors Exit Indian Equities Amid Market Correction",
+    "stories": [
+      {
+        "candidate_index": 25,
+        "headline": "Foreign Institutional Investors Exit Indian Equities Amid Market Correction",
+        "summary": "The Indian stock market has experienced a significant downturn, characterized by a prolonged losing streak and a sharp single-day decline that wiped out approximately \u20b99 lakh crore in market capitalization. This volatility is largely attributed to aggressive selling by Foreign Institutional Investors (FIIs), who have been pulling capital out of Indian equities in recent sessions. The sell-off has impacted major indices like the Sensex and Nifty, reflecting broader concerns among global investors regarding valuations and macroeconomic conditions.",
+        "india_impact": "This trend directly impacts the Indian Rupee (INR) and domestic market liquidity. Sustained FII outflows put downward pressure on the INR, potentially increasing the cost of imports and complicating the RBI's monetary policy stance. For domestic investors, this represents a shift in risk sentiment that could lead to continued volatility in large-cap stocks.",
+        "what_to_watch": "Monitor the upcoming FII net investment data and the RBI's intervention strategy in the foreign exchange market to stabilize the Rupee.",
+        "source": "ndtv.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 19,
+        "headline": "Finance Ministry Projects Stronger GDP Growth Than RBI Estimates",
+        "summary": "The Indian Finance Ministry has projected a GDP growth rate of 7.3% for the July-September quarter, a figure that notably exceeds the Reserve Bank of India\u2019s (RBI) more conservative forecasts. This bullish outlook suggests that the government remains confident in the resilience of domestic demand despite global economic headwinds. The divergence highlights a potential difference in how the government and the central bank assess the current momentum of the Indian economy.",
+        "india_impact": "This discrepancy influences market expectations regarding interest rate trajectories. If the government's higher growth projections prove accurate, it may embolden the RBI to maintain a 'higher-for-longer' interest rate stance to manage inflation, impacting borrowing costs for Indian corporations and retail consumers.",
+        "what_to_watch": "The official release of the quarterly GDP data by the National Statistical Office (NSO) to see if it aligns with the Finance Ministry's optimistic projections.",
+        "source": "The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3hfVjNXTmY1MUZTSHFucThJNXVMbkNBaHlwVUkwaEdPREVZRldFS3l4a2N6RkNTSHZiaEx4YVJBSUR6SnFqR0pzWkhYdU1Zc2RUWndYVkgzMjNSdmFoQ0tFbFdvcF9JaE5hOW9CZEpqNF84cHAzak1LVW04UEVWZ1VsbDc4bi1JMEE0SGNJRk1NUmd6TFhkWURFRDhfWVRsdm9ncTZQVEFaRVFPQW9wSNIBtwFBVV95cUxPZjVJOThFRGt2Rzd1UG1GSXRSQ0paaU1zRnZZa1RnOGk5VUVyS204dzdEV21ZS3VZbThjemNvb0s3Q3VMYU9HaDNCcnhyMENCY2xnNWtpZ1J0NnZBaWIzSHZTZm5uUDFHbzhxWmdsVG56VHJnRG1oZEM5bjdtQi1sclBGZlcyNjZNNHNhWm5oMlBXaDZiYWlhYjBQWUdrdG9McnZRNzdLYnRXamVZWlJ1cVBGcWZmSjQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "US-China Trade Tensions Escalate Over Rare Earths and Technology Exports",
+        "summary": "Trade tensions between the US and China are intensifying as both nations leverage critical supply chain dependencies to gain strategic advantages. The US is tightening export controls on aircraft parts, while China is increasingly using its dominance in the rare earth minerals market as a counter-leverage tool. This tit-for-tat approach signals a shift from traditional tariff-based trade wars to a more complex struggle over technological dominance and critical raw materials.",
+        "india_impact": "India is indirectly affected by this decoupling. As global supply chains shift away from China ('China Plus One' strategy), India has an opportunity to attract manufacturing investment, particularly in electronics and semiconductors. However, India also relies on China for various raw materials and intermediate goods, meaning any disruption in the China-US trade corridor could lead to price volatility in industrial inputs for Indian manufacturers.",
+        "what_to_watch": "Future US export control announcements and any corresponding retaliatory measures from Beijing that could impact global commodity prices.",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRWNYUGlGVWxYUlF0Sy1CMUFaZmZjc1k2MXBMMVZvdkpvVFRCMVVnMjdPTUNHX196SlJ0dmdISkUxUjVuaW5pMHdRS29NdFNlMFBMLUlNUWtrQ0dxVjcyclJhZDVEUUdMYjY4T25pTWpPR2hsXzY5YVpKX2ZEaGRvZEpBTnZUT3FjZ3RfTjVRUHhSTnNJelNRQTd0end2czdpWVFpamNyUE1iaWJGenZvTW56RXdIMVhDZ3BlSV9RYlNrMDljODk5Y1R3TVJDcWQ2YUlHNWJZcjk0MTh6N2JXcXp2UXVKaGgyUUlHVNIB8gFBVV95cUxOWDVuU3doTlZJU2oyVDlQYmFvV1dnYTRhdTVFUVJlakZRRnp2bGZxMkw0NFpRajVTY0NPbXNWcWpaZzVoRU9VbTBpRkxMYXpPenlSYS1iaEd1VTlPMFhmX05IOVF0WGMzQ0R4UnRQQTdKWkpCcmJvckltMEo4Q0UtbnRpUXRrU1NZSTlENlF6R21ZRlpqd0s1UHBsaXFSYXBvVzlidVZhNDluOWhJV19ESE5uVU5OdzJra09paEFyTkFhaHQxNG1zd2hHV0RHWkQ4SmY1SnF6ck9TU0lfREdaSGZhR19OVUpybno4Q2ZjNnI4UQ?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
