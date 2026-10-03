@@ -834,5 +834,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "date_label": "Saturday, 03 October 2026",
+    "file": "2026-10-03.html",
+    "headline_preview": "Markets anticipate Fed pause following weak US jobs data",
+    "stories": [
+      {
+        "candidate_index": 13,
+        "headline": "Markets anticipate Fed pause following weak US jobs data",
+        "summary": "Following a weaker-than-expected US jobs report, market sentiment has shifted significantly, with traders now pricing in an 85% probability that the Federal Reserve will pause interest rate hikes. The cooling labor market data has tempered expectations for aggressive monetary tightening, leading to a rally in US stocks. Investors are now recalibrating their outlook on how long interest rates will remain in restrictive territory.",
+        "india_impact": "For India, a pause in Fed rate hikes is generally positive as it reduces the pressure on the Reserve Bank of India (RBI) to maintain high rates to defend the rupee. It also helps stabilize foreign portfolio investment (FPI) flows, as the interest rate differential between the US and India becomes less volatile, potentially easing the selling pressure on Indian equities.",
+        "what_to_watch": "The upcoming US Consumer Price Index (CPI) print and subsequent Federal Open Market Committee (FOMC) meeting minutes for confirmation of the policy pivot.",
+        "source": "Pluang",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmpnN2FGdDdpRXh1dXVYREZFX3BmWlptQXUwMFFTUkJIOE8wZXlyeG9XUElvbDdIMW5qcDJnTXdOOE4ydE5laTktV0gyb2tJNm1PWXB5NFcteVZpZlZERVBuM1h1cHkySnNPTTBqRzBOR1BnTFUtRWZEaWdPbUlrektMR3BFeUotdWh4Zg?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "OECD reaffirms India as the world's fastest-growing major economy",
+        "summary": "The OECD has maintained its positive outlook on India, identifying it as the fastest-growing major economy globally. This assessment is driven by robust domestic demand, sustained public infrastructure spending, and a resilient services sector. The report highlights India's ability to maintain growth momentum despite global macroeconomic headwinds and geopolitical instability.",
+        "india_impact": "This endorsement reinforces India's status as a preferred destination for long-term foreign direct investment (FDI) and helps maintain investor confidence in Indian markets. It also provides the government with fiscal headroom, as strong GDP growth supports tax buoyancy and helps manage the debt-to-GDP ratio, which is critical for maintaining sovereign credit ratings.",
+        "what_to_watch": "Quarterly corporate earnings reports and high-frequency indicators like GST collections and manufacturing PMI to see if the growth momentum is translating into broad-based private consumption.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 30,
+        "headline": "China's upcoming rare earth export restrictions create global supply chain risks",
+        "summary": "China is set to enforce a November 10 deadline for stricter controls on the export of rare earth magnets, a critical component for high-tech manufacturing. These materials are essential for everything from electric vehicles to defense systems. The move is widely viewed as a strategic maneuver by Beijing to leverage its dominance in the rare earth supply chain amid ongoing trade tensions with the West.",
+        "india_impact": "India is heavily reliant on imports for critical minerals and rare earths needed for its burgeoning electronics and green energy manufacturing sectors. A supply crunch or price surge caused by Chinese export restrictions could increase input costs for Indian manufacturers, potentially hindering the 'Make in India' initiative in sectors like EVs and semiconductors. It also underscores the urgency for India to accelerate its own mineral exploration and processing capabilities.",
+        "what_to_watch": "Any announcements regarding the India-US Minerals Security Partnership or domestic policy updates on critical mineral mining auctions.",
+        "source": "Tech Times",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWJxY3Mxb09LTG8zdFFUc3lPUFE0ZDFJTXpnd0M0MXZqRUdndEpNRThYUjFCN25PQXktWVlSeHpuVmE3TWpmTU52WHprQjNaLWJSZENqRWtPWkFRWDcyeFdwWkpjT19KMzAyREhOWFNuM2xrdnNBcnNXVmRHYVpwSTRGaWc0eDlOWW5GdHo1dGtyc29vX1I5a09YY0JydVQzcXlXa0M2MnlNYXhSNEdxRTQyZXZmX2pCNUYydFBSSElaOTQ?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
