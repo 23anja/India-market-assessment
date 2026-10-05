@@ -872,5 +872,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "date_label": "Monday, 05 October 2026",
+    "file": "2026-10-05.html",
+    "headline_preview": "RBI Policy Outlook Amid Inflation and Global Rate Trends",
+    "stories": [
+      {
+        "candidate_index": 10,
+        "headline": "RBI Policy Outlook Amid Inflation and Global Rate Trends",
+        "summary": "The Reserve Bank of India (RBI) is facing mounting pressure to potentially shift its monetary policy stance as domestic inflation remains sticky and global central banks, particularly the US Federal Reserve, maintain a hawkish outlook. Analysts are debating whether the RBI will prioritize growth or pivot to a more restrictive regime to combat inflationary pressures and currency volatility. This comes as global economic conditions, including fluctuating crude oil prices, continue to influence the central bank's decision-making framework.",
+        "india_impact": "A shift toward rate hikes would increase borrowing costs for Indian corporates and consumers, potentially cooling credit growth. It also directly impacts the INR-USD exchange rate; higher domestic rates can help defend the rupee against capital outflows, but they also risk dampening the current economic growth momentum.",
+        "what_to_watch": "The upcoming RBI Monetary Policy Committee (MPC) meeting minutes and subsequent policy statement for signals on the 'withdrawal of accommodation' stance.",
+        "source": "The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE9oaEs3TGRBdmVFSjFDSS1lS3hFYUtIREdET1EtUXI2cUxFRVdqS2FwbFVUN05UWklkV29KQm93ZkZRNW1yV2xpcnk3UFNEZE90WlJpMFphc2hUMXpDbmNSaTd5NkRuRlVuOHZuYmlJWEVxUkNZUXBPZ29Ed2NjeWQydHlLLXo3RnZTd2hfN2pneGVWblJITExlak9zOUZMWG9IMFgtTG1xWnRWaHZIUWpnV3RRaEpaM0p0bEc5Njl6V1JteGNCN3pFNEzSAdMBQVVfeXFMTWlNVFBpckxVYWRQYloxYVg0SVdMTllFaFBXU2RYM1dUMDM2eXo1cERibjI5RmhrYjF2bnZjZE5DeEhJRlNZeE5DTHczc2RiZE9GNy1hclhNQkQtMHpqNnNuNEFvTkZVN1ZtWnI4SW5EYlAzdjRpS2oyQVhMelBndU1FbzBnckIyLWJaNzQ2YTNQS3A4VXlhbDdXcGg5TFNCaXBtcEtXbllJWTEwZGZpQjhoREpMY2VDeHY0SkFRejJBYUdwT1BVRzhRSlREbFVXX0Rnaw?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 6,
+        "headline": "Middle East Crude Oil Exports Rise Despite Tanker Security Risks",
+        "summary": "Crude oil exports from the Middle East have surpassed pre-war levels, even as geopolitical tensions have led to an increase in attacks on commercial tankers in the region. While supply volumes remain robust, the rising security risks are driving up insurance premiums and freight costs for maritime transport. This divergence between high supply and increased logistical risk creates a complex pricing environment for global energy markets.",
+        "india_impact": "As India imports over 80% of its crude oil, with a significant portion sourced from the Middle East, higher freight and insurance costs translate directly into a higher landed cost of oil. This exerts pressure on India's current account deficit and complicates the domestic retail fuel pricing strategy, which is sensitive to global supply chain disruptions.",
+        "what_to_watch": "Any further escalation in maritime security incidents in the Red Sea or Persian Gulf that could trigger a 'war risk' premium on oil shipments.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 29,
+        "headline": "Challenges in the 'China Plus One' Supply Chain Strategy",
+        "summary": "The 'China plus one' strategy, intended to diversify manufacturing away from China, is proving more difficult to execute than initially anticipated for many global firms. While Southeast Asian nations are gaining traction, they are facing infrastructure bottlenecks and capacity constraints that limit their ability to fully absorb the scale of manufacturing shifting out of China. Consequently, the transition is slower and more fragmented than market analysts had projected.",
+        "india_impact": "This reality check is crucial for India's 'Make in India' and PLI (Production Linked Incentive) schemes. It suggests that India must focus heavily on improving logistics, reducing bureaucratic friction, and enhancing ease of doing business to compete with Southeast Asia in capturing global supply chain shifts, rather than assuming the shift will naturally flow to India due to geopolitical sentiment alone.",
+        "what_to_watch": "Quarterly FDI inflow data into Indian manufacturing sectors and progress reports on major industrial corridor infrastructure projects.",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
