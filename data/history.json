@@ -910,5 +910,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "date_label": "Tuesday, 06 October 2026",
+    "file": "2026-10-06.html",
+    "headline_preview": "World Bank Upgrades India's FY27 GDP Growth Forecast to 7.1%",
+    "stories": [
+      {
+        "candidate_index": 17,
+        "headline": "World Bank Upgrades India's FY27 GDP Growth Forecast to 7.1%",
+        "summary": "The World Bank has revised its growth projection for India's FY27 fiscal year to 7.1%, citing strong economic momentum and resilience. This forecast positions India as a significant outlier in regional growth, outpacing many of its South Asian and global peers.",
+        "india_impact": "This upgrade reinforces investor confidence in the Indian macro story, likely supporting foreign institutional investment (FII) inflows into equity markets. It also provides the Reserve Bank of India (RBI) with more policy flexibility, as a robust growth outlook allows them to maintain a hawkish stance on inflation without fearing an immediate recessionary impact.",
+        "what_to_watch": "Upcoming Q2 corporate earnings reports and RBI's next monetary policy committee meeting to see if domestic inflation data aligns with this optimistic growth trajectory.",
+        "source": "The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1lJcThDN0NjUmtpemVYaDBDNW5KSE56dWZmRGw5UGpqaU5GT0tRcDlpN0Z6VklsdFNycGoyaV9zMEpsN1QxQ2l3c0E3eDI0WERLYmdOY2wxbzQ3VzVFajBubl9tdlB5NmpleGhoVEJ2ZmhqQ3g0ZHc1N2c3a0tLUG5oZ09ER181azlUYkRfZUNsVEY1d2dGNFFPQW91NkYyQ1JB0gGqAUFVX3lxTE1GdXpQMWpESlgta1Z3ci0ydlRTdTFQOHJ4OTJUSDNBaWNxRjJpVzJ3dFI4YkIzbkhOb0FHWjZtNzIyUlBzOG9uY1VGTzg3WWpiWVNTdWF4UFJJQkNzNzNuSURtcllwWVd1ck5sV2dmYm56dHplYUVfSEdDbnFjWVJlNkhWR0VlMmlFVE11MWk5RFFiRkhLdHZUSmpvU3BZS1k0TzFBX1N5OXFR?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 0,
+        "headline": "Ukraine Claims Destruction of Half of Russia's Oil Refining Capacity",
+        "summary": "Kyiv has reported significant success in targeting Russian oil infrastructure, claiming that approximately 50% of the nation's refining capacity has been neutralized through drone strikes. This development marks a strategic escalation in the economic warfare aspect of the ongoing conflict.",
+        "india_impact": "India is a major buyer of Russian crude oil, which is refined and sold globally. A sustained reduction in Russian refining capacity could shift the global supply mix from refined products to crude, potentially tightening global fuel supplies and increasing price volatility for India's energy import bill, which directly impacts the current account deficit and the INR.",
+        "what_to_watch": "Global refined product crack spreads and any changes in the discount levels at which India purchases Russian crude oil.",
+        "source": "theguardian.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2hraFI5MEVFZ3FxU2stNUZEbUN0UGVfeVB4RldNLWRxb3NQMUhVZkpXOUtSeXZOelM0dkh1SzJCWWRFQ2RDbjVIdVNiY3VxYno4MjI3RTFwS04tWmxfTG5oN3lCdkVSanJ4Y0lWeVdubUdsZ1B4TkxqbDd0c1lrd1ZGYlBSclNramxqVHRVYmJiZlA3MW9ycmJ0dm1RUm5zTkRGMnBqWXVZY0JqcmF1eDRxX19VYy1SLWZVQklRdHFjLTVz?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "Fed Faces Policy Dilemma as AI Boom Defies High Interest Rates",
+        "summary": "The U.S. Federal Reserve is struggling to cool the economy as the artificial intelligence investment boom continues to drive capital expenditure and market optimism despite elevated interest rates. This persistence of growth in the tech sector complicates the Fed's efforts to reach its 2% inflation target.",
+        "india_impact": "As the U.S. remains the primary driver of global liquidity, the 'higher-for-longer' interest rate environment necessitated by this resilience keeps the U.S. dollar strong and yields high. This exerts downward pressure on the Indian Rupee and limits the RBI's ability to cut domestic rates, as the central bank must maintain a spread to prevent capital flight from Indian debt markets.",
+        "what_to_watch": "U.S. CPI inflation data and upcoming Federal Open Market Committee (FOMC) meeting minutes for signals on future rate path adjustments.",
+        "source": "The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
