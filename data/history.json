@@ -986,5 +986,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "date_label": "Thursday, 08 October 2026",
+    "file": "2026-10-08.html",
+    "headline_preview": "Global Oil Prices Rise Amid Escalating Iran-Israel Tensions",
+    "stories": [
+      {
+        "candidate_index": 2,
+        "headline": "Global Oil Prices Rise Amid Escalating Iran-Israel Tensions",
+        "summary": "Oil prices have trended upward as markets react to the heightened risk of a direct conflict between Iran and Israel. The potential for military engagement has raised concerns about the security of oil transit through the Strait of Hormuz, a critical chokepoint for global energy supplies.",
+        "india_impact": "India is the world's third-largest oil importer and remains highly sensitive to crude price volatility. A sustained rise in oil prices directly impacts India's import bill, widens the current account deficit, and exerts downward pressure on the Indian Rupee (INR), while also complicating domestic fuel price management and inflation control.",
+        "what_to_watch": "Monitor any specific military escalations or blockades in the Strait of Hormuz, and subsequent updates from the Indian Ministry of Petroleum on strategic reserve management.",
+        "source": "Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUC1RWmZ0ZnYxb3NVemdRWTl1Vm5ZbFR6UVRIaEdKRnloV1ppR2hGWkt2VHZiM0RoU2Y5QWRnUGJsY01uVUE1UDF1aGtSeVFmMTVSUVFzUW0zMFhfbmkzamp4Yk1hZnBfbTJJQW96TlRMaTV6d19kUEFMU1R6WkkwZlg4WF9CeVpEV3ViekJPZkprM2JKTDBTdXBvRDgxOWRWeEE?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 11,
+        "headline": "US Federal Reserve Minutes Confirm Hawkish Stance on Interest Rates",
+        "summary": "The minutes from the latest US Federal Reserve meeting revealed a consensus among officials regarding the necessity of maintaining higher interest rates to combat persistent inflation. While the committee remains data-dependent, the overall tone suggests that the 'higher for longer' interest rate environment is likely to persist.",
+        "india_impact": "When the US Fed maintains high interest rates, the yield differential between US Treasuries and Indian government bonds narrows, often triggering capital outflows from Indian equity and debt markets as foreign institutional investors (FIIs) seek safer, higher-yielding dollar assets. This puts pressure on the Reserve Bank of India (RBI) to maintain its own hawkish stance to prevent excessive currency depreciation.",
+        "what_to_watch": "Upcoming US Consumer Price Index (CPI) data and the next Federal Open Market Committee (FOMC) meeting decision on rate adjustments.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dJM2Q2bTVvQVNpNUNzSTgzNHJCbWc3Ync3aXEyYmdSVHo1b1JZNHB1UXdGYVY5YWpPTHpDdWtQYjdtbnZOa1k0SzVIeV9SS0ljelRxbUdIWXB5NHBtdk5lUDM1ZWQyUHlNSjFlbVh6Q1lHbm9jdUJCRllMZXdnVWluOHRwV2x4WUdZdHBkU2NuY3BJNWtYS1puYWVtTTQySDR1QXJEaGJrTng2?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 33,
+        "headline": "India Initiates Strategy to Reduce Dependence on Chinese Rare Earth Magnets",
+        "summary": "The Indian government is actively seeking to diversify its supply chain for rare earth magnets, a critical component for electric vehicles, wind turbines, and defense electronics, to reduce its heavy reliance on Chinese imports. This move aligns with broader efforts to bolster domestic manufacturing and secure strategic mineral independence.",
+        "india_impact": "This policy shift is vital for India's burgeoning EV and green energy sectors. Reducing dependence on China mitigates the risk of supply chain disruptions caused by geopolitical tensions or export restrictions, potentially lowering long-term production costs for domestic manufacturers and supporting the 'Make in India' initiative.",
+        "what_to_watch": "Announcements regarding government incentives (PLI schemes) for domestic rare earth processing and new bilateral trade agreements with mineral-rich nations.",
+        "source": "Electronics For You BUSINESS",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGJUQzVqbGx5RlhGWVdzeTBTeGZGQmRRZzFJMXVoYWZqcWlLbTc5YXR6WmhiQlR6ckxvQ0dxQTluRzM4ZktVYWZBMno0Rm1VVkE0bTJCWWxmeUdaQ3BWUGdhcFhDVS1aUnFsUGN6eGVGTTRTUFhxX2tCX3V0TDV5OFJ1SGJwUlVrNVBDYWpOQU14dU8tcDd0T28wX3ctRGhiZlY3Q0p5TU1PdnM2MjZsTlRR?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
