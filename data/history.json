@@ -1024,5 +1024,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "date_label": "Friday, 09 October 2026",
+    "file": "2026-10-09.html",
+    "headline_preview": "RBI Survey Shows Household Inflation Expectations Remain Elevated at 10%",
+    "stories": [
+      {
+        "candidate_index": 17,
+        "headline": "RBI Survey Shows Household Inflation Expectations Remain Elevated at 10%",
+        "summary": "The Reserve Bank of India's latest survey indicates that households continue to expect inflation to hover around 10% over the next year. This persistent perception of high inflation remains a key factor in the central bank's cautious monetary policy stance. Despite headline CPI figures showing moderation, the gap between official data and public perception remains a critical challenge for policymakers.",
+        "india_impact": "Elevated inflation expectations limit the RBI's ability to cut interest rates, which keeps borrowing costs high for Indian businesses and consumers. This environment impacts domestic consumption patterns and puts pressure on the INR, as the central bank must maintain a hawkish stance to anchor expectations and prevent capital outflows.",
+        "what_to_watch": "The upcoming RBI Monetary Policy Committee meeting minutes and the next set of CPI data to see if the gap between household expectations and actual inflation begins to narrow.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFA1czk3NHRUMVBfZk50X2taOVZTWVVQVmdpWm1saE9EMHQta0dWeldmWjBSVkhRbWoza0xpenJ6bjdTLUpDUk1LelJkdXFfaGFHLTRUN1RISU9FZ1ZZcGdpc2JSa3N2T1lFVmZVT0ZNT2VXUFU3aTY1djRJaC1XY1NPLXhTd2RJVTJESVpHRUVmTy1SYzNCZ0lkZG50eXlEUElERDk2bzFQSWM1MUxzRnJON3k5SERmVHNZUE5BWGdoMmQ4bHJEeTJ4MHFjbzRUcEZjb1dHdXRoZ9IB3wFBVV95cUxPQnVsbWdDX2N6T3JYZEtZRXFXZjliMWt0SDJrdHRCX0UwWkNZMjllNUJ0Qm1BcjVjOGZXcDcyUV9BMVhKMm9MV2lCSTdEUl9qcVlPY09UUERlRGRqclFpRzVzYWU2SFhqY3ZlaHB2NHBqWlg5V19kREl5TEhYQ01GT3AtQ3h2dDhWaEpDN3ZLQ0dtZ1QxR2MwRjBOWWdmaktXNklVeE5zMGJndmhPN2JLRE1VdGw1X0lEQmFQdmVKalRUOV9IQVl1SkRYUEVBSDlwM3FrUVl0SWdUSTNFcndB?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 25,
+        "headline": "Foreign Institutional Investors (FIIs) Withdraw Significant Capital from Indian Equities",
+        "summary": "Foreign investors have pulled substantial capital out of the Indian stock market in recent sessions, driven by a combination of global macroeconomic uncertainty and shifting risk appetites. This exodus has contributed to heightened volatility in the Sensex and Nifty indices, reversing the trend of consistent inflows seen earlier in the year. Analysts point to a rebalancing of portfolios toward other emerging markets or safer assets as a primary driver.",
+        "india_impact": "Large-scale FII outflows put downward pressure on the Indian Rupee and increase market volatility, which can negatively impact retail investor sentiment. Since Indian markets have been heavily reliant on foreign liquidity for valuation premiums, sustained selling forces a correction in high-growth sectors and impacts the cost of capital for domestic firms.",
+        "what_to_watch": "Daily FII/DII net flow data and the performance of the INR against the USD to determine if the selling pressure is a temporary tactical retreat or a more structural shift in emerging market allocation.",
+        "source": "NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSE9hbkVtLUFLV0JkRFljMUZQOW1mM2xWZ081dTVLN2trcExqMERqR3c5alpoMXQzcU9za0pnbmxBSVdsbmxNX1AzTk1QdlRoMlFqUEhjS3hUajcwNHNFNkhQUVRZLVNpNmlldkVQZzg0eC1OdE5xUkdiM3lnNmhPRGpBeEptVDlsU2NrR2NMTnlHclJqRHBHODMyNDNxME9wNHNVTnVCdkJZTDVsTDJLYjlZY0Q2cGdEV0HSAcIBQVVfeXFMTk1oMWcyZ1FkTFZSNFMxV21jSFpjdC1mbHdDdnZGQjNHeWtkU3dQNXluUDlWY1pid2E1LUJ6V21qdG1ibzVzUnB4YWpudEJPeEc4RDdCUzJjODJDT2pwVkU3LU81dVBIMWhkMHo0aEhwZ1REcGVHTVlFZmVCdWVyMWZjeEF2ZFQ4c01qV0szbVRPM3IxdUdCWWUxeDU0NHhicjA3VDRoVmxvUUZ0OVNkVXdTeDBGZlQ5YUdHZ29iYTlZRFE?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 27,
+        "headline": "Japan's Mitsubishi Materials Shifts Tungsten Sourcing from China to Vietnam",
+        "summary": "Mitsubishi Materials has begun sourcing tungsten from Vietnam as part of a broader strategy to diversify supply chains away from China. This move reflects a growing trend among Japanese and global manufacturers to reduce dependence on Chinese rare earth and critical mineral supplies due to geopolitical risks and export restrictions. The initiative highlights the increasing importance of Southeast Asia as an alternative manufacturing and resource hub.",
+        "india_impact": "As India seeks to build its own semiconductor and defense manufacturing base, diversifying critical mineral supply chains is a strategic priority. This shift provides a template for India to secure its own supply lines through 'China-plus-one' strategies and potential bilateral partnerships with nations like Vietnam, reducing vulnerability to Chinese trade leverage.",
+        "what_to_watch": "Future trade agreements between India and Southeast Asian nations regarding critical minerals and the progress of India\u2019s own PLI (Production Linked Incentive) schemes for electronics and defense.",
+        "source": "Nikkei Asia",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUldlQ2VCZ3dqV0VvS2dvUDlvTDJVejVxSnotcXNpbEdWNTJReVcwaDdLOFJNOW9PTVFfN09ycHdTbjNUQUgxNnFlbFVSRFh3eC1jUEpscWFjdnhDUzM3NHBNMGdMcVlTaTNjZ3pkVjAxekZQMHk2bUdtVWFQVng4MTRQb2FkTXBPRFp4TWRaYm5XYXROTllwYVRGazJKQUw5NjZxVnJSWlFnQTljNDFHaXBRYS05UmhCOVU5R3hhRQ?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
