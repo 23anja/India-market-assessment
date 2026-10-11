@@ -1062,5 +1062,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "date_label": "Sunday, 11 October 2026",
+    "file": "2026-10-11.html",
+    "headline_preview": "India's Q1 FY27 GDP Growth Exceeds RBI Projections",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "India's Q1 FY27 GDP Growth Exceeds RBI Projections",
+        "summary": "India's economy recorded a 7.8% GDP growth rate for the first quarter of the 2027 fiscal year, surpassing the Reserve Bank of India's (RBI) initial forecasts. This growth trajectory highlights resilient domestic consumption and robust industrial performance despite global economic headwinds. The data suggests that India continues to be a significant outlier in terms of growth momentum among major global economies.",
+        "india_impact": "Stronger-than-expected GDP growth provides the RBI with more room to maintain current interest rates without fearing a slowdown, potentially supporting the INR against volatility. It also reinforces India's attractiveness for foreign direct investment (FDI) and institutional capital flows as investors look for high-growth alternatives to China.",
+        "what_to_watch": "Upcoming RBI monetary policy committee meeting minutes and high-frequency data on manufacturing and services PMI to see if this growth momentum is sustainable.",
+        "source": "DD News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVF2X1Zvb205dURCN21YcGxNNGxhaFZvQUlaN3lTV2Q0MTFocWltckxCRUhCdVZpLUlINDRwTEJjVVhoakcwcU5DNlRHNm5fVVNSRWpNV3I2Vm9VSHhtQ3ZzNzNvZllCV0ZJZG9Nc1EyLXl5MF8wQ1YzcURBUW52c0cwTlpEZ3dP?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "US Inflation Data Expected to Rise Due to Energy Costs",
+        "summary": "Upcoming US Consumer Price Index (CPI) data is anticipated to show an uptick in inflation, primarily driven by rising gasoline prices. This development complicates the Federal Reserve's path toward potential interest rate cuts, as policymakers remain cautious about persistent inflationary pressures. Markets are closely watching these figures to gauge the timing and scale of future monetary easing.",
+        "india_impact": "Higher US inflation typically keeps the US Dollar strong and US Treasury yields elevated, which can trigger capital outflows from emerging markets like India as investors seek safer, higher-yielding US assets. Additionally, rising global oil prices directly impact India's import bill, widening the current account deficit and exerting pressure on the INR.",
+        "what_to_watch": "The official release of the US CPI data and subsequent commentary from Federal Reserve officials regarding the 'higher for longer' interest rate stance.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHNUeWNTY1NneVFOYnBzR0xFeWs2eWs3UWJCODFyaEtnNDZtamJJY1pSNFpyZ2xmcmNoR3FIc1VEeVU5bXdHSktiQlVqbFZTUHlTMjlsbjZOOU9fMFVwSUZoNGxNV0toMU1Sc3VZTnRWTmtnTXNlSnVCaDNMREVnWUtOSFctdGlTZ01EU1hnRVVsd1VnaHJiNEF0d3AwQVZubko5RVNjVDlKZ3FkbnI2bHFTbWdrN2JY?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 26,
+        "headline": "India Seeks 'Critical Mineral' Status for Mica to Reduce Dependence on China",
+        "summary": "The Indian government is considering designating mica as a critical mineral to bolster domestic supply chains and reduce reliance on Chinese market dominance. Mica is essential for high-tech electronics, electric vehicle batteries, and defense applications. This move is part of a broader strategic effort to secure raw material self-sufficiency amid global supply chain fragmentation.",
+        "india_impact": "This policy shift directly benefits Indian mining and manufacturing sectors by providing state support and incentives for domestic processing. Strategically, it aligns with India's 'Make in India' initiative and its goal to become a global hub for electronics and EV manufacturing, reducing vulnerability to geopolitical leverage from China.",
+        "what_to_watch": "Formal notification of the 'critical mineral' status and any accompanying government incentives or regulatory changes for the mining sector.",
+        "source": "Siliconindia",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHdjLW40SzBoeHdHa0E2SkNjeGhLcXVjY2FhZUM1RVhTZmxGdkhIT2lacm44X25CLUFXbDNrcTV4TjMxM2dzOWx1aXNKdHAwTjNSNGNJMmRmSmxwY1JiT3dBQXlyUDBZWGNRNFktU3YzOVZYX0E0WlFCWGNwQWtBZVBOZmJtVmQ1ZGh4ZVlETEZyd0dfMnhLQVpGMGhiUzZQQmdfRVVTNzlSRXd0MnFBVHo2dF95S0ptaXUzU1RZWnl6ZjBSbmZQb2M5Ylc1dWRuclU1T3FaNzBRVGR3RlFLMkZQcw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
