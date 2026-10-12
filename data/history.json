@@ -1100,5 +1100,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "date_label": "Monday, 12 October 2026",
+    "file": "2026-10-12.html",
+    "headline_preview": "Global Central Banks Signal Prolonged High Interest Rate Environment Through 2027",
+    "stories": [
+      {
+        "candidate_index": 10,
+        "headline": "Global Central Banks Signal Prolonged High Interest Rate Environment Through 2027",
+        "summary": "Major central banks, including the Federal Reserve, ECB, and BOJ, are signaling that interest rates will remain elevated well into 2027 to combat persistent inflation. This shift suggests that the era of 'easy money' is effectively over, with policymakers prioritizing price stability over immediate economic stimulus. The consensus reflects a structural change in global monetary policy, moving away from the post-pandemic low-rate regime.",
+        "india_impact": "For India, this environment creates sustained pressure on the INR as the interest rate differential with the US remains wide, potentially triggering FII outflows. It also increases the cost of external commercial borrowings for Indian corporates and limits the RBI's ability to cut domestic repo rates, keeping borrowing costs high for Indian households and businesses.",
+        "what_to_watch": "Upcoming US CPI data and the next FOMC meeting minutes to gauge the specific timeline for potential rate adjustments.",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNa2RlNy1LaGZ5TWlWS3FTYlEzNVRwUEF1YWdaQjRhUEZUNlRvbmluT2QxOEYtaFA1VUZvdk96b2VpSmJlb00wak16aUpRbjluNDNPTDhBNEdfNVpqejlqNDFuTWxkcElnU0tIbTFrck5zZjRiZXc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 0,
+        "headline": "China Seeks Hybrid Trade Agreement to Mitigate EU Tensions",
+        "summary": "China is pursuing a 'hybrid' trade deal with the European Union in an attempt to prevent a full-scale trade war amid rising protectionism and disputes over electric vehicle subsidies. The proposal aims to balance China's industrial export strategy with EU demands for fairer market access and reduced trade imbalances. This move marks a tactical pivot by Beijing to preserve its critical European export markets.",
+        "india_impact": "This is significant for India as it highlights the potential for 'trade diversion.' If China faces restricted access to the EU market, it may aggressively dump excess industrial capacity into other markets, including India, further straining domestic manufacturing sectors like steel and chemicals. Conversely, if China successfully pivots to a more cooperative trade stance, it may stabilize global supply chains that Indian manufacturers rely on.",
+        "what_to_watch": "The outcome of upcoming high-level trade negotiations between Brussels and Beijing and any resulting changes in EU import tariffs on Chinese goods.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFlQ2RWX2k2c19mRUlseHB2TDlOM0xYSVdXc29YSHBVS2o0OE1qRHFXQU1JR093ellFZ2xSNEg3cUZISWx1SllLdmpuQWNBaFoyQmJHU1RaMHZ0YlFXN3l0eVZkNlhvQlRaTElKWExxTFh4cmNOc0xIeVdpdWh0MHdicmVsajVQMEdtMkZRRzFMOXpyRzBXQmdDQ2lpUlFKVlRMdzVlSXR3aE51ZU9ZZA?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 26,
+        "headline": "Semiconductor Industry Association Warns of Underestimated Supply Chain Risks",
+        "summary": "The Semiconductor Industry Association (SIA) has released a new assessment indicating that vulnerabilities in the global chip supply chain are significantly deeper than previously estimated. The report highlights that reliance on concentrated geographic regions for critical materials and manufacturing processes remains a systemic risk to global technology production. The findings suggest that current diversification efforts are not keeping pace with the complexity of the global semiconductor ecosystem.",
+        "india_impact": "India's ambition to become a global semiconductor hub (via the India Semiconductor Mission) is directly linked to these supply chain shifts. While the risks highlight the need for India's domestic manufacturing push, they also underscore the difficulty of securing the necessary upstream materials and specialized technology, which are currently dominated by a few global players.",
+        "what_to_watch": "Any new government incentives or trade policies from the US or EU regarding 'friend-shoring' of semiconductor manufacturing that could impact India's ability to attract global chip firms.",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLNlRoQWFqcU1LV0NtYkFJSWtsMFFFcm9LMnlkY1Y2TUZuMTBTeFRzZ09KWFVlLXFFVzRTZUwxMG5kang1OHFCcV9WU1I0UVdOd1FXV3RIWTR4akZzbXQwWEJzMUM4cXVKZmNXNktPNHh6dzlHUEE?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
