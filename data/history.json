@@ -1138,5 +1138,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "date_label": "Tuesday, 13 October 2026",
+    "file": "2026-10-13.html",
+    "headline_preview": "IMF Projects 7% GDP Growth for India Through FY28",
+    "stories": [
+      {
+        "candidate_index": 20,
+        "headline": "IMF Projects 7% GDP Growth for India Through FY28",
+        "summary": "The International Monetary Fund has maintained a robust growth outlook for India, projecting a 7% GDP expansion for the 2026-27 and 2027-28 fiscal years. This forecast contrasts with a more cautious outlook for advanced economies and a cooling growth trajectory for China. The IMF highlights India's resilience amid global economic headwinds, though risks from debt and geopolitical instability remain.",
+        "india_impact": "This sustained growth projection reinforces India's status as a top destination for foreign direct investment (FDI) and portfolio flows. It provides a positive backdrop for the Reserve Bank of India\u2019s (RBI) monetary policy stance and supports the valuation premium currently enjoyed by Indian equities compared to other emerging markets.",
+        "what_to_watch": "Upcoming quarterly corporate earnings reports and high-frequency data (like GST collections and credit growth) to see if domestic consumption can sustain this 7% momentum.",
+        "source": "NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGpYOFhLdC1kdzQtOW5iRm91djJ4djdhQVNBa2tpTHhycWVhZVlDN2U0czFSS3psODdWcEFhX3I0dGZoNnJJaVBhanNZbDIxSFZzSTlaQldVbE1vRXQ3MVd5RWUyVDdBZkd3MzY4MUM2R3AwaUcyWjRDOXlqeDZzQ3dhSHp2czNzenhKSDl1V2Z5b3BTVmN4b1pjU0ZBTFlac2JmU0kyTzFHX0k2NjkwTWNnbkdLOVpMaHNqTVhkYTJ1Q2g40gHMAUFVX3lxTFB6aVlYcEY4bFE3TklEa0s3akd1QkRUQ1dTRG9MYmpCb2VJYWNhSGI2WW4yRFY0RlQwM0p2R1RmN0hKcmQyR1pfZi0yTXhUelctT2JKMFhoZGg5UGZ0X0UwNUJrN0tzSm9DS1haS2RGY05jSFA3UllTcDBWamRLS3lqZzBBZ1RsYXZWQXJ4RU11b3h4eHFnbWNIUFZkaEJaNTk3azBfazBubldWZEN0QUtlVmR6Wm1kME9aaWJWRUM5SkNnS0FjckNxdFd0Wg?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 4,
+        "headline": "China Seeks to Mitigate EU Trade Tensions with Hybrid Agreement",
+        "summary": "China is attempting to negotiate a compromise with the European Union to prevent a broader trade war, specifically regarding tariffs and market access for electric vehicles and other high-tech goods. This move follows increased scrutiny from Brussels over Chinese state subsidies and industrial overcapacity. Beijing is signaling a willingness to adjust its trade practices to maintain access to the lucrative European market.",
+        "india_impact": "As China faces potential trade barriers in the West, it may aggressively redirect its excess industrial capacity toward other markets, including India. This poses a threat to domestic manufacturers in sectors like steel, chemicals, and electronics who may face a surge in low-cost, dumped Chinese imports.",
+        "what_to_watch": "Any formal announcements regarding anti-dumping duties or trade protection measures from the Indian Ministry of Commerce in response to potential surges in Chinese imports.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFlQ2RWX2k2c19mRUlseHB2TDlOM0xYSVdXc29YSHBVS2o0OE1qRHFXQU1JR093ellFZ2xSNEg3cUZISWx1SllLdmpuQWNBaFoyQmJHU1RaMHZ0YlFXN3l0eVZkNlhvQlRaTElKWExxTFh4cmNOc0xIeVdpdWh0MHdicmVsajVQMEdtMkZRRzFMOXpyRzBXQmdDQ2lpUlFKVlRMdzVlSXR3aE51ZU9ZZA?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 11,
+        "headline": "US Dollar Index Hits Multi-Year Highs",
+        "summary": "The US Dollar Index has climbed above 102.50, reaching its strongest level since April 2025. This appreciation is largely driven by market expectations that the Federal Reserve may maintain higher interest rates for longer to combat persistent inflation, coupled with safe-haven demand amid ongoing global geopolitical conflicts.",
+        "india_impact": "A stronger dollar puts significant downward pressure on the Indian Rupee (INR), increasing the cost of imports\u2014particularly crude oil, which is priced in dollars. This complicates the RBI\u2019s ability to cut interest rates, as a weakening rupee risks importing inflation and triggering capital outflows from foreign institutional investors (FIIs).",
+        "what_to_watch": "The upcoming US Consumer Price Index (CPI) data and subsequent Federal Reserve commentary, which will dictate the trajectory of the dollar and the resulting volatility in the INR-USD exchange rate.",
+        "source": "Equiti Global",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2h6MTRVRXFJMXFYUUkyV1pweWNBVEFBN0NkTW40V1hubi1sQ3hrT1YxZVh0dlRFZ1djaVhHWG50RmQ3TjR3VURHaXVrN2dnZHl0UEs1S2lTdWlhaW41b245MEs3STBIU21JQi0tQThoLUF1WXpwN2lweURHLXA4SmlVVzY2VDVBTDhHWVBJV2lXWnN6djNJaXM4SUtVSEItWTctbHZiZ1lpSUpPbklSTkkyRTJpMWZCUUJVaGxtdTF2QQ?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
