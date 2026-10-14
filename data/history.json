@@ -1176,5 +1176,43 @@
         "topic_bucket": "Global economy & central banks"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "date_label": "Wednesday, 14 October 2026",
+    "file": "2026-10-14.html",
+    "headline_preview": "IMF Projects 7% GDP Growth for India in FY2026-27",
+    "stories": [
+      {
+        "candidate_index": 21,
+        "headline": "IMF Projects 7% GDP Growth for India in FY2026-27",
+        "summary": "The International Monetary Fund (IMF) has maintained its positive outlook for the Indian economy, projecting a 7% GDP growth rate for the 2026-27 fiscal year. This forecast reinforces India's position as one of the fastest-growing major economies globally, even as the IMF simultaneously downgraded China's economic outlook for 2026.",
+        "india_impact": "This sustained growth projection serves as a strong signal to foreign institutional investors (FIIs) regarding India's macroeconomic stability. It supports the case for continued capital inflows into Indian equities and infrastructure, and provides the Reserve Bank of India (RBI) with more policy flexibility to manage inflation without stifling domestic demand.",
+        "what_to_watch": "Watch for upcoming quarterly corporate earnings reports and RBI's next monetary policy committee meeting to see if domestic consumption data aligns with these optimistic IMF projections.",
+        "source": "NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGpYOFhLdC1kdzQtOW5iRm91djJ4djdhQVNBa2tpTHhycWVhZVlDN2U0czFSS3psODdWcEFhX3I0dGZoNnJJaVBhanNZbDIxSFZzSTlaQldVbE1vRXQ3MVd5RWUyVDdBZkd3MzY4MUM2R3AwaUcyWjRDOXlqeDZzQ3dhSHp2czNzenhKSDl1V2Z5b3BTVmN4b1pjU0ZBTFlac2JmU0kyTzFHX0k2NjkwTWNnbkdLOVpMaHNqTVhkYTJ1Q2g40gHMAUFVX3lxTFB6aVlYcEY4bFE3TklEa0s3akd1QkRUQ1dTRG9MYmpCb2VJYWNhSGI2WW4yRFY0RlQwM0p2R1RmN0hKcmQyR1pfZi0yTXhUelctT2JKMFhoZGg5UGZ0X0UwNUJrN0tzSm9DS1haS2RGY05jSFA3UllTcDBWamRLS3lqZzBBZ1RsYXZWQXJ4RU11b3h4eHFnbWNIUFZkaEJaNTk3azBfazBubldWZEN0QUtlVmR6Wm1kME9aaWJWRUM5SkNnS0FjckNxdFd0Wg?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 34,
+        "headline": "China's Trade Surplus Hits Record $938 Billion",
+        "summary": "China\u2019s trade surplus reached $938 billion for the first nine months of the year, driven by a significant surge in export volumes, particularly in high-tech sectors like semiconductors. This massive surplus is intensifying global scrutiny and trade tensions, as Western nations and other trading partners express concerns over China's export-led growth model.",
+        "india_impact": "For India, this underscores the risk of 'import dumping' as China seeks to offload excess industrial capacity into global markets, including India. This puts pressure on the Indian government to maintain or strengthen anti-dumping duties and manufacturing incentives (PLI schemes) to protect domestic industries from being undercut by cheaper Chinese goods.",
+        "what_to_watch": "Monitor upcoming Indian Ministry of Commerce data on trade deficits with China and any new notifications regarding quality control orders or tariff adjustments on industrial imports.",
+        "source": "U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX1BreTNPOWJhSGdiVGRrdUFuWGNzTFN0Zi1Nd0VGY3ZwRGp1ZmtPZmM3bFl3Rm1VRUVPbERPQWRFNlJNUHFaZlNCTmRia2FSalFnWElSZVczYXBWQ1FUSjZPeTJxaDVsOFFSOFdNWFVTM2F0SFpUb3k2TkNBWG1jZnpJZnJwWG1LTG5RYnlsb0tmZGw4QUlQWWNNbmJFRVJyYU1sRGJJczJxVEdVQV9TVFh1TzY5Y0tWcElRWFJEM1lNOU43UWJWNUZLVUlqN2pn?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 2,
+        "headline": "Escalating Iran-Israel Conflict Risks Global Energy Supply",
+        "summary": "The ongoing geopolitical tensions between Iran and Israel continue to threaten the stability of the Middle East, raising concerns about potential disruptions to oil production and shipping lanes in the Persian Gulf. As the conflict risks widening, global energy markets are reacting to the uncertainty surrounding the security of key transit points like the Strait of Hormuz.",
+        "india_impact": "India remains highly vulnerable to oil price shocks as it imports over 80% of its crude oil requirements. A spike in global oil prices would widen India's current account deficit, weaken the Indian Rupee (INR), and force the RBI to maintain a hawkish stance on interest rates to combat imported inflation, ultimately impacting retail fuel prices and transport costs.",
+        "what_to_watch": "Watch Brent crude oil price movements and any official statements from the Indian Ministry of Petroleum regarding strategic petroleum reserve management or diversification of oil sourcing.",
+        "source": "The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
