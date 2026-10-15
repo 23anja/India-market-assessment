@@ -1214,5 +1214,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "date_label": "Thursday, 15 October 2026",
+    "file": "2026-10-15.html",
+    "headline_preview": "India's trade deficit with China surpasses $100 billion",
+    "stories": [
+      {
+        "candidate_index": 35,
+        "headline": "India's trade deficit with China surpasses $100 billion",
+        "summary": "India's trade deficit with China has exceeded $100 billion within the first nine months of the year, driven by imports reaching $125 billion. Despite a 40% surge in Indian exports to China, the structural imbalance in trade continues to widen significantly. This trend highlights the persistent reliance of Indian manufacturing and industry on Chinese intermediate goods and raw materials.",
+        "india_impact": "The widening deficit places structural pressure on the Indian Rupee (INR) and complicates the government's 'Atmanirbhar Bharat' (Self-reliant India) initiative. It also increases vulnerability to supply chain disruptions and necessitates a delicate balancing act in diplomatic relations as New Delhi seeks to manage economic dependence while maintaining security and strategic autonomy.",
+        "what_to_watch": "Monitor upcoming government policy announcements regarding production-linked incentive (PLI) schemes and potential non-tariff barriers aimed at reducing reliance on Chinese imports in critical sectors like electronics and active pharmaceutical ingredients (APIs).",
+        "source": "The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjQwaVJxYXNVWGFseENXVzRiMUVqWWRfVHpBV2JzemFfYUF6REEyWlV6eFhXZV9HSk5yU1JTMzF0aWQyam1OUVl4U2o2RHgwUnBjWXpaWVRZclVldmYzNVVaWGFwMDRIYnN3UjM1bWdqWkpFc1doWXVpYTBWTGQ0YU1KbG5GNEtSZE51U1MyODNSMThwSlZYb29oNkJaSmVOX05oaXY3RmtVLU5ERXNzNEZFSlBHcnFmTGfSAcABQVVfeXFMTkE5NENrUEFiaUJJNC1NaFNnSkFLaFdBQjVCSzlreVRhdUZpVHZaQWdEUEswaUowVmU0N0t2bTB0OG1LaUltMWc0RWRUdmZLUmQySlBQZU9lNlo4c0cxbDNnUklWZzllTGNpN0VDUjM5R2xSdmV2WEZfSmZDUFhWOFc1U0xQNE5OczVQSkNyMG1PaWxfMkVqb1BSVUQtRWRLeWswa1VZT0xuQUdKVDVwVTRFR3lPcWg4NGVtbnB1YV9D?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "Federal Reserve signals cautious approach to future rate hikes",
+        "summary": "Federal Reserve officials, including Mary Daly, have indicated that while further interest rate hikes may be necessary to combat persistent inflation, there is no immediate urgency to act. The central bank is balancing the need to cool price pressures against the risk of slowing economic growth too aggressively. This rhetoric suggests a data-dependent approach rather than a pre-determined path of aggressive tightening.",
+        "india_impact": "For India, the Fed's stance is a primary driver of capital flows and currency volatility. A 'higher-for-longer' interest rate environment in the U.S. typically triggers foreign portfolio investor (FPI) outflows from emerging markets like India as investors seek safer, higher yields. This puts downward pressure on the INR and limits the Reserve Bank of India's (RBI) room to maneuver its own monetary policy without risking excessive currency depreciation.",
+        "what_to_watch": "Watch for the next U.S. Consumer Price Index (CPI) report and the upcoming Federal Open Market Committee (FOMC) meeting minutes for clearer signals on the timing and scale of potential future adjustments.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 27,
+        "headline": "Government introduces reforms to boost foreign participation in G-Secs",
+        "summary": "The Indian government has announced new reforms designed to expand foreign participation in the country's Government Securities (G-Sec) market. These measures aim to deepen the domestic debt market and attract a more diverse pool of global capital. By easing entry barriers, the authorities hope to improve liquidity and provide more efficient financing options for the sovereign.",
+        "india_impact": "Increased foreign investment in G-Secs can help stabilize the bond market and potentially lower long-term borrowing costs for the government. Furthermore, inclusion in global bond indices\u2014facilitated by such reforms\u2014can lead to significant passive capital inflows, which would provide a structural buffer for the Indian Rupee and improve the country's balance of payments position.",
+        "what_to_watch": "Watch for the actual volume of foreign inflows into G-Secs following the implementation of these rules and any subsequent updates from global index providers regarding the inclusion of Indian sovereign debt.",
+        "source": "pib.gov.in",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+        "topic_bucket": "India markets"
+      }
+    ]
   }
 ]
