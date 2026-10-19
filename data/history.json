@@ -1328,5 +1328,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "date_label": "Monday, 19 October 2026",
+    "file": "2026-10-19.html",
+    "headline_preview": "China Proposes Export Controls on Key Solar Manufacturing Technologies",
+    "stories": [
+      {
+        "candidate_index": 34,
+        "headline": "China Proposes Export Controls on Key Solar Manufacturing Technologies",
+        "summary": "China has proposed new export restrictions on 12 key technologies involved in the solar manufacturing supply chain. This move aims to tighten Beijing's control over the production processes and intellectual property of the global solar energy sector. The proposal follows a period of aggressive expansion in China's solar manufacturing capacity.",
+        "india_impact": "India is heavily reliant on Chinese imports for its solar energy transition and domestic manufacturing ambitions. These restrictions could increase costs for Indian solar developers and complicate the government's 'Make in India' efforts in the renewable energy sector, which currently depends on importing specific components and machinery from China.",
+        "what_to_watch": "Monitor the official implementation timeline of these controls and whether the Indian Ministry of New and Renewable Energy introduces counter-measures or incentives to accelerate local component manufacturing.",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnp6UlZ3OExrLXNzeHVld25nWFlDUmV2SXVsakRadHRGZnR2MGxYaEZoZzZmVjFwelc5SW9ESEdaLVg1eWI1ckNMTU9Bd0pONzB2TEh5Y3AtdkF3d1NPMDM3LWpKVWU4a0twalQ3NktLYVVsQTk1cm9tRjF1dkZ6SVpHY1ZLcmlLSUplc1RaY0g?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "IMF Data Suggests India's $5 Trillion Economy Milestone Delayed to 2029",
+        "summary": "Recent IMF projections indicate that India's path to becoming a $5 trillion economy has been pushed back to 2029 due to the depreciation of the Indian Rupee against the US Dollar. Despite maintaining robust GDP growth rates, the currency's performance has tempered the dollar-denominated valuation of the national economy.",
+        "india_impact": "The delay highlights the sensitivity of India's macroeconomic targets to currency volatility and global capital flows. For investors, this underscores the importance of monitoring the RBI's currency management strategy and the impact of persistent inflation differentials on the INR-USD exchange rate.",
+        "what_to_watch": "Watch for the next RBI monetary policy committee meeting and any shifts in foreign portfolio investment (FPI) trends that could stabilize or further pressure the rupee.",
+        "source": "Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYm5kaHpkZXZxR1pMSnVfeHEyM2ZjTjJuVmVBNmlaTTQ1bTRTQWRuMjRYSThGakN5Qm1FbzN1eG1mTmpySTNmenBPWXdrSUdrN1lpWUVTWlZwbUR0Zm9Kek9pazhWNzM5RmFycjRTSmdiekVlS2dBMV9STllNaExLZHRkZjJzMjg1djg5TU5Zb2Z4UUxHQWlvQVFRX0NkUUFNeGF0MmpUYTZ5ZG9lT2EzXzNtRDJsNTVoYjhzWUxwY2JhOGp4UXlxM1BTNUtNcDNPV0RZZmJwbUZ2RUpueVVJcjVXZEtHZEhJQ1lrMXZFbw?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 3,
+        "headline": "Putin Proposes US-China-Russia Summit to Address Ukraine Conflict",
+        "summary": "Russian President Vladimir Putin has suggested a high-level summit involving the United States and China to discuss potential pathways to ending the war in Ukraine. The proposal comes amidst shifting rhetoric from Western political figures regarding the duration and necessity of continued military support for Kyiv.",
+        "india_impact": "India maintains a strategic 'neutral' stance, balancing its historical ties with Russia and its deepening security and economic partnership with the West. A potential shift toward a negotiated settlement involving China would significantly alter India's diplomatic calculus in the Global South and its energy procurement strategy, which currently benefits from discounted Russian oil.",
+        "what_to_watch": "Look for formal responses from the incoming US administration and Beijing to determine if this proposal gains diplomatic traction or remains a rhetorical maneuver.",
+        "source": "BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGhRUXA2VTd6SVJreWpld0d4cHAybDVSdUtoRTNydnVLUUdnSDhwU0U4OWxoX1hIVVhtWFc1dzdFRkNNNmxKNDQ1ejB3TU5sOWJDOGZlblZVN1JGbFRaMGFwZGF0YzJORi1hSmNib0M2dU1JTVRJYkl6ZVd0bHROb1NBb0Q1WnR0TjVrLURnOXJEN1pndFViNWxueXJUY1ZsNC1NaGV1QWJveldsTDZPbVIyRUx6LV90WU1YekZmdGxwczZRQzhVQmk0U3ZfTXfSAdYBQVVfeXFMUGtmSVNnaUVXcXU3UEo2dnpMWTBuUzRxSWhhdmZza2NXR1o2aklUS3JVbzFSenFCVFhaeDJ0ZVJNQUhibWh1VlFFYnpTNDVQZzRJNGk2d1RydWFMUTB2eVA1RlZzNnRlanFyUUI0cXdCaWJQc1JVUks3V1JFVFJjWXU5NDB6UDFlTHJoTWhxdHp0b1RhWWVqRkx5XzhlWVNwNWVvV0MtNWNHNjd5dFpodlp5SnctdFBUZEhQTTRSai1hc3FSVkktc1VBSVRqazIzRE1QdlljQQ?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
