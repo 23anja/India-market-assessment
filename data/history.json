@@ -1480,5 +1480,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "date_label": "Sunday, 25 October 2026",
+    "file": "2026-10-25.html",
+    "headline_preview": "US Federal Reserve Holds Interest Rates Steady Amid Persistent Inflation",
+    "stories": [
+      {
+        "candidate_index": 9,
+        "headline": "US Federal Reserve Holds Interest Rates Steady Amid Persistent Inflation",
+        "summary": "The US Federal Reserve has maintained its current interest rate levels as recent data indicates inflation remains at a three-year high. Policymakers are balancing the need to cool price growth without triggering an economic downturn, leaving the door open for future adjustments depending on upcoming labor and consumer price reports.",
+        "india_impact": "The Fed's 'higher-for-longer' stance exerts pressure on the Indian Rupee (INR) by widening interest rate differentials, which can trigger capital outflows from Indian equities as foreign investors seek higher yields in US Treasuries. Additionally, it limits the Reserve Bank of India's (RBI) room to maneuver on domestic rate cuts, as the RBI must maintain a spread to prevent excessive currency depreciation.",
+        "what_to_watch": "The upcoming US Consumer Price Index (CPI) print and the next Federal Open Market Committee (FOMC) meeting minutes for signals on the timing of the first potential rate cut.",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 17,
+        "headline": "Indian Small and Midcap Indices Experience Significant Weekly Sell-off",
+        "summary": "Indian equity markets, particularly the small and midcap segments, have recorded their sharpest weekly decline in two years. This correction follows a period of extended valuations and reflects growing investor caution regarding market froth and potential earnings volatility.",
+        "india_impact": "This decline signals a shift in domestic retail investor sentiment and may lead to a temporary reduction in inflows into domestic mutual funds. For the broader economy, a sustained correction in these segments can tighten liquidity for mid-sized companies that rely on equity markets for capital expenditure and expansion.",
+        "what_to_watch": "Upcoming quarterly earnings reports from mid-cap firms to see if the valuation correction is supported by fundamental performance or if further price discovery is required.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOFJDbDZaTWVTVkh5UnY2WlBNd1B2YVBBWGIwRWZqTG1wZVlBVnB4ZUdtWmdVUjhqVVJETGc4Njc2ZkZVUFdyMUsxM0xWeElKNWJiY21HclZJbmpMZ2RtMFdMNmsyU1piazRVbVZSQndFVjFROFR1c1FKM0U0ejR3My1xbFZYV3dyZlYzYjhLcFI4VnlZbFd6MDY2QlJiNm5XWTNIbUdPMWthc0stemRyQWl4bU9qNFdFSlluU0t5VHBBZmFSNzZReHdENVdJUmZLT2gw0gHYAUFVX3lxTE5GSHNYZUpFT2t3R0VscHBYMnppWGQ1Y1AzazJZdnMxeTEzQUhzMWhLU0NkelJhQVhVMUJiaGtWVDdvVk9VTzM0aXVySC1FMGc4Q281cE1JUnY3UHpFSW1nM1p0dkxteGlmaXBOcUVhWHhCWUpxUC1kbmtHR3l5WUhXV1pWX1A1dzVJay1lbXJzdzdQTEtHTjVpTjJWVmt0YzBaWVROV0xFNktDWm9JZUpITExuR1RzcmtBYXhoaDVfMFdDazJDZFprOUlZTzNtZ3BTV3kxcnZ6Yg?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 1,
+        "headline": "Heightened Tensions Between US and Iran Following Recent Threats",
+        "summary": "Geopolitical instability in the Middle East has intensified as Iran issues strong warnings in response to potential US military actions. The rhetoric has escalated, with global markets closely monitoring the possibility of a direct confrontation that could disrupt regional security.",
+        "india_impact": "As a major importer of crude oil, India is highly sensitive to Middle Eastern conflict. A spike in regional tensions typically drives up global oil prices, which directly impacts India's import bill, widens the current account deficit, and puts upward pressure on domestic fuel prices and inflation.",
+        "what_to_watch": "Any developments regarding the Strait of Hormuz, a critical chokepoint for global oil transit, and official statements from the Indian Ministry of External Affairs regarding regional stability.",
+        "source": "NDTV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWl2Mmota2RQZEZha3NhRGU3UVRxUnVJaUlpT0FjNG1ZeS01dXFsUDZWUk5FMFNnRHdBR01rbGpvQnJXQXBIZzYzMnQ2bTA4TDE4dHdYZkRwUWRJVy1mdnFxRWszR05RQnpfSkJHTDNkM2FZTFE0YjVYRUxrX0xOMllHRElDN1hkNGE2UkRZYnBfMmtDTGFmenJsS1V3VGVuNUFabFljS2wwcjlFYmJYd2RLNmR3ODRHU0hVZnY1TdIBxwFBVV95cUxQcDBmd0prQVZuNnpyczIwcDZFdlcyM20yS2s5VHdsMGpVelYyeW81VE1yS3Z0djZ1ajBZVmtfYVFSUWphRGp5VFc1TC0zQVhJMThqaHBvTWhNdVJGZU5LRThyYjdMY0E0Y2YzTDlWNVpPamJnOGxJUVVnek1QVVppNk5vRjhnOGROVzlkNDlkYWVjY1FkVExpWWNwa1FralY3dTRya1FIUXV2TzhFTjIwVDRjSnNaUFpQZy1NWlVwem05bmVqOWhZ?oc=5",
+        "topic_bucket": "Global geopolitics"
+      }
+    ]
   }
 ]
