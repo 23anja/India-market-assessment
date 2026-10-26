@@ -1518,5 +1518,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "date_label": "Monday, 26 October 2026",
+    "file": "2026-10-26.html",
+    "headline_preview": "IEA Warns Energy Markets Face Permanent Shift Post-Iran Conflict",
+    "stories": [
+      {
+        "candidate_index": 6,
+        "headline": "IEA Warns Energy Markets Face Permanent Shift Post-Iran Conflict",
+        "summary": "The International Energy Agency (IEA) has stated that global energy markets are unlikely to return to pre-conflict price levels, citing structural changes in supply chains and geopolitical risk premiums. This assessment reflects a new reality where energy security concerns and logistical disruptions in key transit routes remain elevated. The outlook suggests a sustained period of volatility and higher baseline costs for global energy commodities.",
+        "india_impact": "As a major net importer of crude oil, India is highly sensitive to sustained higher energy prices, which directly impact the current account deficit, retail inflation, and the rupee's stability. A permanent shift in energy pricing forces the Reserve Bank of India to maintain a more hawkish monetary policy stance and complicates the government's fiscal management of fuel subsidies.",
+        "what_to_watch": "Monitor upcoming OPEC+ production quota decisions and any further escalations in the Strait of Hormuz that could trigger additional risk premiums on Brent crude.",
+        "source": "Investing.com India",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSl9mVmNqR2ZaZ194enYta2ZjdGNZeVo0bUttT21HaUR3aUEtQU9YRzZvRXVEYVdYMUNDNXhOUkRvdlV6UExDVmh4aHByclliQmVYRVp6eGloWVFiQi1yMU9YWUpGdkhGUVJIWkNlN0F3elQ3NWZuRWpuTDNocl9JZU5OWHp6QTUzT0cxY2VmV2Q5SDZwdU53cFJZanlKWkl0RFhidURWdkJFbXJSbmNId0Y2MmZDeFFNSFYxQ2NnZG1Rdw?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 28,
+        "headline": "China Considers Restrictions on Solar Technology Exports",
+        "summary": "China is reportedly contemplating curbs on the export of critical solar manufacturing technologies, a move that could disrupt the global renewable energy supply chain. These potential restrictions are viewed as a strategic maneuver to protect domestic industry dominance and leverage supply chain dependencies. Such a policy would create significant bottlenecks for countries heavily reliant on Chinese solar components.",
+        "india_impact": "India's ambitious renewable energy targets are heavily dependent on imported solar cells and modules, with a significant portion sourced from China. Export curbs would force an immediate, costly pivot to domestic manufacturing or alternative, more expensive suppliers, potentially stalling the pace of India's green energy transition and increasing project costs for developers.",
+        "what_to_watch": "Look for specific details on which technologies are targeted and whether the Indian government announces new Production Linked Incentive (PLI) tranches or import duty adjustments to bolster domestic production.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSmJKdDQxZ0lEcWNJMGZaMVFaZTZqODVsck41c1J1OFZ5WEppYXo5LXRmNXE4cndJRkF6c2tYS0EwQUVZTmgwZF9DOVZnNXRGZmdrTndKcWpwWG1WMWVwVVZ3Y1dicnlyTkhhNU54Z0E0Z2xQQjVqdFZ2Zm42SU9BR2JYLUxkZUdTei1ZWVlVLW5SWEdrRnRnNFFpSmxjTl9nVHprd0ZHekY2bmFWYU0zSk1QTEhLcDFWbmtIR0lyQzU0bjJfX01WeDZWWHlDdU5xWHlqTXlYNXNvNGk3Q3Y1eFhaS1ZZbF9haXB2TXlzeUVxaWpfWlpHRFhFejhyYjdad1NVZHc0WWVyV3c1T0FZ?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 12,
+        "headline": "Global Central Banks Set for Synchronized Policy Meetings",
+        "summary": "The U.S. Federal Reserve, the European Central Bank, and the Bank of Japan are all scheduled to hold back-to-back policy meetings this week, with markets widely expecting them to maintain current interest rates. The focus is shifting from immediate rate changes to the forward guidance provided by these institutions regarding inflation targets and economic growth. Investors are looking for signals on how long these central banks intend to keep rates at restrictive levels.",
+        "india_impact": "The Federal Reserve's stance is the primary driver of global capital flows; a 'higher-for-longer' signal typically strengthens the U.S. dollar, leading to FPI outflows from Indian equity markets and putting downward pressure on the INR. The RBI is forced to align its own policy trajectory with the Fed to prevent excessive currency depreciation and manage imported inflation.",
+        "what_to_watch": "The FOMC statement and Jerome Powell\u2019s press conference for any changes in language regarding the 'neutral rate' or the timeline for future rate cuts.",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VnNOSDVGTlFKUHFuN29mcHRsbE5aUkFYajVlR2RoeWlQRUFueWlIMHJwZVlrMWNoZUdyTGc5RzB4N0RmNXBWbTFBbWZDYlpSX2lkSTV4MVFfcUp5Mmd2TUZjX3dfc0JTeDd5d0dKekw4djJWSFE?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
