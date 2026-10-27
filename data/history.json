@@ -1556,5 +1556,43 @@
         "topic_bucket": "Global economy & central banks"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "date_label": "Tuesday, 27 October 2026",
+    "file": "2026-10-27.html",
+    "headline_preview": "China proposes restrictions on solar technology exports",
+    "stories": [
+      {
+        "candidate_index": 33,
+        "headline": "China proposes restrictions on solar technology exports",
+        "summary": "China is considering new export controls on advanced solar manufacturing technology, a move that could restrict the global supply of critical equipment used in panel production. This proposal follows previous efforts by Beijing to maintain its dominance in the renewable energy supply chain by controlling the flow of proprietary manufacturing processes.",
+        "india_impact": "India is currently aggressively scaling its domestic solar manufacturing capacity through the Production Linked Incentive (PLI) scheme to reduce reliance on imports. Restrictions on Chinese technology and equipment could significantly delay the commissioning of new Indian manufacturing lines and increase capital expenditure costs for domestic solar firms.",
+        "what_to_watch": "Monitor the official release of the final export control list from the Chinese Ministry of Commerce and any subsequent adjustments to India's solar import policies or PLI timelines.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOT0xGWk92clo2TndXS3B0cEpzMW9Md1l0dmR2TUoyUGNHenR5TWxjS1FDRGVDSXMySllvbVhONTh1dnhNM1k0TE10R2V1SXlSejRoM19Kc2NwaHVJSGxza212UXF0ZG04X1lWUjJWN0JxTVcwNzRBeTJyRnVxdUxES3E0TElvdTNxYmo3Nk03dFlpanlEelo4MzJOREJGYWNxbEtUMlNWdVRvM2w3VWpnX1A3ZnVXbUwzbUVlNXBLYnctLURvb3ZHanNkbHozYjRHV2RkeDhUeVBWZkNnVWNYOVJEZ0pyRTRXTmtUZkJtUkVkYk1JVFNreEkyY0E2cnpmaW1QQ2VmVzdQUdIBjwJBVV95cUxNY1pBOFh5RGZaZ1FzdjZkM1RRT3lZdFJpeUQzdmFhRGZ0OVAtOFJzRVVfNEFPNWpaaDdYdjJZc2ZQWW02U09EajJBVmg3bUtiYUpsOVYxYV8yd3F1SlhiSFlsZXM1SGZMR3IydVdVNW55Tjl5MXlQWWhqNEVJTEdtYllueXZEQjg1LUdHbmRteG5jd0tCOUlZRDJuTEY3QVBCYUVGZTllYXhQaUMwRGtQZXNlYTNadWlTdUZhNDNVcjFzQVg2cnlWTGJBR3o3MXlmM0pQWkNoeF9CZzI4QUpSSG5kb045bzd0blFtaXZTbXh5VF9Hc3l3TkVWRV9qZ1JDaWdkemJCQkhhMnpVVUJB?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 18,
+        "headline": "Potential impact of high crude oil prices on India's GDP",
+        "summary": "Recent analysis suggests that sustained high crude oil prices, particularly if they reach $100 per barrel, could impose a significant fiscal burden on the Indian economy, potentially costing 1.7% of GDP. As a major net importer of energy, India remains highly sensitive to global supply shocks and price volatility in the oil markets.",
+        "india_impact": "Higher oil prices directly impact India's current account deficit, put downward pressure on the rupee, and fuel domestic inflation. This limits the Reserve Bank of India's (RBI) ability to cut interest rates, as the central bank must balance growth objectives against currency stability and inflation management.",
+        "what_to_watch": "Watch for the next monthly trade deficit data and any updates to the RBI's inflation projections, which will be heavily influenced by global oil price trends.",
+        "source": "CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlZMMUtNTW5JSTByREl2MEJKazZoX3FWVkpnLVhzMEdtaHNyanRqLU9KeGcwWXFyOFFXaFNrbGowcG5GU201R2lYZ0h5OXZjRElZRk1Vem1GSll1VTVpN0kwQWhHczVIVmJ0b3d4WmpLWmlCRWFSbjNjN2NTU1J0amZrVTVUbHllalV1cGtCX3paeHZPWFFYNGQtd1I2RzJyQmx0RDZtbU3SAa4BQVVfeXFMTmRLeHFOd2FkdWRkV3A1bEFvV2hkejBsZ3lITTMwdGZOTlVYRWJOajFPQVBTQ1ZURHpHWGltanRWMjd4WUtrSHFJS0hITHdHc3lqWEd4dTh4Wl9wWGVsY3NrT3d5ZXFaM1NVLWw2OHFIUi0xdXljUm41VFpvS1FvSGlRVlFwRFJiUUFPWktiZGlsQm9PalBYei1tdms2Rjh2UUktaGlqRnRObUVjcWpB?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "Global central banks prepare for upcoming interest rate decisions",
+        "summary": "Financial markets are bracing for a series of interest rate decisions from major central banks, including the U.S. Federal Reserve. Investors are closely watching for signals on the future trajectory of monetary policy, specifically whether high-interest rate environments will persist longer than previously anticipated.",
+        "india_impact": "The Federal Reserve's stance is the primary driver of global capital flows. A 'higher-for-longer' rate environment in the U.S. typically triggers foreign portfolio investor (FPI) outflows from Indian equity and debt markets as the dollar strengthens, putting pressure on the INR and forcing the RBI to maintain a cautious monetary stance to prevent capital flight.",
+        "what_to_watch": "The outcome of the Federal Open Market Committee (FOMC) meeting and the accompanying 'dot plot' or policy statement regarding future rate cuts.",
+        "source": "WSJ",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
