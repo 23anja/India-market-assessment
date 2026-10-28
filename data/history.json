@@ -1594,5 +1594,43 @@
         "topic_bucket": "Global economy & central banks"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "date_label": "Wednesday, 28 October 2026",
+    "file": "2026-10-28.html",
+    "headline_preview": "US Federal Reserve Expected to Maintain Current Interest Rates",
+    "stories": [
+      {
+        "candidate_index": 8,
+        "headline": "US Federal Reserve Expected to Maintain Current Interest Rates",
+        "summary": "The Federal Reserve is widely expected to keep interest rates steady in its upcoming decision, despite some economic indicators suggesting a potential case for rate hikes. Analysts believe the central bank will prioritize stability ahead of the U.S. midterm elections, balancing persistent inflation concerns against broader economic performance. This decision reflects a cautious approach to monetary policy in a volatile political and macroeconomic environment.",
+        "india_impact": "For India, a 'hold' by the Fed is generally positive as it reduces pressure on the Reserve Bank of India (RBI) to aggressively hike domestic rates to defend the rupee. Stable US rates help curb capital outflows from Indian equity markets, which are sensitive to the interest rate differential between the US and emerging markets, and assist in stabilizing the INR-USD exchange rate.",
+        "what_to_watch": "The official FOMC statement and Chair Jerome Powell\u2019s press conference for signals on the future trajectory of rate cuts or hikes in 2025.",
+        "source": "WSJ",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcXF0NUI3czJhVkNQQWc2Tk5GNWxTeHFIdng3S3ljT0JLWXVrVGtJUVpCcndjYU1JMnRNNGo2UjI3UlN4LTBZMnZHTUljV1RwMDZ4THRqZ0E5ZTdiVkRFMWNFLXVBVjVDcUxLZnV5LWNIcDNBN1R4b0dxdGxIMnFiX2pZQS1Qb1Etc2VBN1lEQzNSbUN6QUNyem5IYkxwR2FEWDNIT1FuWERQeWlOc0x6ODhnQmJjb0FQdDVCTFA3Vjh0ZW1zQW41Mg?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 2,
+        "headline": "India and US Defense Officials Discuss Strategic Cooperation at ADMM",
+        "summary": "Indian Defence Minister Rajnath Singh held bilateral talks with US Secretary of War Pete Hegseth on the sidelines of the ASEAN Defence Ministers' Meeting (ADMM). The discussion focused on strengthening the strategic partnership, enhancing defense industrial cooperation, and addressing regional security challenges in the Indo-Pacific. This meeting underscores the deepening military-to-military ties between the two nations.",
+        "india_impact": "This engagement is critical for India's defense modernization and the 'Make in India' initiative, as it facilitates technology transfers and potential joint production of defense hardware. It also signals continued US support for India\u2019s role as a net security provider in the Indian Ocean Region, which is vital for countering regional geopolitical shifts.",
+        "what_to_watch": "Any follow-up announcements regarding specific defense procurement deals or progress on the iCET (Initiative on Critical and Emerging Technology) framework.",
+        "source": "News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeThSOTBfRTB1dWRBNjktUFJGanVHdGR5SWlnMlhwNkxKOHlDeTVfekYzOU5pcFgxLW5WNGt6RFlxU2Ywc3VoTnl0c3Axc3FCVHNSYk9VejRQODM2OXBEVnZFcGwtOFI1X3MxbDB3eHgwUjVGWHQxVS1YeG1uR1pPRUlUaFhRZzRVMlhxWTJmZXd4dWk3R2xfRG80NVdXMzZEQk9EQnpsT0RnbTNjUUp6Z1VRcjNYQ3dfclZod2w1QkROV2NpUHBZUmpOUHJ4c3dGaktmNzB1WmpGdE1xR0hNZ3pCMA?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "Need for Solar Manufacturing Incentives Amid China's Export Restrictions",
+        "summary": "Industry experts are calling for enhanced government incentives to boost domestic solar manufacturing in India to mitigate the impact of China's tightening export controls on critical solar components. As China exerts greater control over its supply chains and technology transfers, India faces risks to its ambitious renewable energy targets. Expanding local production capacity is seen as a necessary step to ensure energy security and reduce reliance on foreign suppliers.",
+        "india_impact": "This directly affects India's energy transition strategy and the viability of large-scale solar projects. If India fails to build a robust domestic supply chain, it remains vulnerable to price volatility and supply disruptions from China, which could inflate project costs and delay the country's net-zero commitments.",
+        "what_to_watch": "Potential updates to the Production Linked Incentive (PLI) schemes for solar modules and any new trade policy measures targeting renewable energy imports.",
+        "source": "Construction World India",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSTlyWEFGclV0Vk5KUkZqYVpJU1J5cGNRcE1lQWxkZ3pHRHpGX2NybW9wWmM1WkgwX2tlRXhPRGlWa0tpcjM0YmQ1NTFhN0NTZy10WVdwUm5oYjhoUWJKaU9NTmdiWkh3eVJESjYteFRfRXdwbFBwZGRnYXI0S1Y1dUtFTGhMcEZOcTk5SHlmQnV1UER5ZVhnam4tc3lRMW4tLTdWNWRPR3gzWk55M2w4VHBNRkhmbWVvdEFnVnRBMnF5dFV1dEowWnJFalU3cWJ4X3VvTzBPWW1ERXR5MDRFeU9lMnA1b0lzQlE?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
