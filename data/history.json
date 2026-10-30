@@ -1670,5 +1670,43 @@
         "topic_bucket": "India economy & policy"
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "date_label": "Friday, 30 October 2026",
+    "file": "2026-10-30.html",
+    "headline_preview": "Indian defense firm explores drone manufacturing in Oman",
+    "stories": [
+      {
+        "candidate_index": 3,
+        "headline": "Indian defense firm explores drone manufacturing in Oman",
+        "summary": "An Indian defense company is reportedly exploring the establishment of a manufacturing facility in Oman to produce 1,000-km strike drones. This move comes as the firm seeks to expand its footprint in the Gulf market amid heightened regional tensions in the Middle East. The initiative highlights a strategic push by Indian private sector defense players to export advanced military hardware to friendly nations in the Gulf Cooperation Council (GCC).",
+        "india_impact": "This represents a significant shift in India's defense industry, moving from being a net importer to an exporter of high-value military technology. It strengthens India's strategic ties with Oman\u2014a key maritime partner in the Indian Ocean\u2014and signals the growing international competitiveness of the Indian defense manufacturing sector, which is a core pillar of the 'Atmanirbhar Bharat' policy.",
+        "what_to_watch": "Any formal announcement of a joint venture or government-to-government agreement between India and Oman regarding defense industrial cooperation.",
+        "source": "Firstpost",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzVOdEVJZjk4aTY2SE9vTFlxV21taDIxZlV2MmZnNndjdFBvWFVKdG1MdEx1a0NwT1owTlRKblF3Tk1PU1BleUQteWEwVVVkdFVkNmwzZURITG8xWGxtX25FYW1KQ3I1Skl0NjI1WlVOeFBKQjFYRzFRQWwxdjlGbHlDYi1TOGh6U1l6ZXZuNFZ5YjRuUjAwMWp3NjhNYmxVZTRCNNIBqgFBVV95cUxPdU04VEZudUw5N0hOOHlYeHlJMjJGUi1BTGNPYW9vZmxBbGItNjRqNmRCQk56dmozTmV0YzhPQnRvZmNlWUk5dWQ0WUthb1hDaTNUeGdiVU5nVUwzUnVCSVBsUmxVSmJUMkdVdWhIN091am1fN1RYa0U0NkpIZHRTUzNkd1lvbjdTOUlGNV9kLWxnOUJMWXhQTVRVd09jbEZ4N1FkRVpPV0ZNdw?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 17,
+        "headline": "Finance Ministry projects 7.35% GDP growth for Q2 FY27",
+        "summary": "The Indian Finance Ministry has projected a real GDP growth rate of 7.35% for the second quarter of the 2027 fiscal year. While the outlook remains positive, the ministry cautioned that the economy faces 'considerable' uncertainties, likely stemming from global geopolitical volatility and fluctuating commodity prices. This estimate reflects a steady, albeit cautious, assessment of India's domestic economic resilience.",
+        "india_impact": "For investors and policymakers, this projection serves as a benchmark for assessing the health of the Indian economy against global headwinds. A growth rate of 7.35% would reinforce India's position as a high-growth outlier in a slowing global economy, influencing foreign institutional investor (FII) sentiment and the Reserve Bank of India\u2019s (RBI) monetary policy stance regarding interest rates.",
+        "what_to_watch": "The official release of the National Statistical Office (NSO) quarterly GDP data to see if it aligns with the Ministry's 7.35% projection.",
+        "source": "The New Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnhlSnphTmRiZEhsV2RlRS1Dc3RGWGJNM2NtUUFBaXNuUnIzQXZYZmRvRUVxUGgxX1F0OHZIZWlzLXlEUlQwMVBGNjIxbW90OFBNMG1KUHdtN2ZBOE5fU19EZzRQbDlxck4taTVzUmdEVWZJOEtwSzBNNVlZcVZPdzRfd09aRkxMYkszaFgxcVRDS09uTk5iY3E2U3g5eGxtSmpEcEdZQm91RDJJQ0dDSWtqVlJkTDVkUFRaa25OdTBuRGhPaTg2UXhnSkxwUHhvSDBBc2pxZ0M0dzVvQmtLXzByczRUQQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 33,
+        "headline": "China restricts export of advanced solar manufacturing technology",
+        "summary": "China has implemented new restrictions on the export of advanced solar manufacturing technologies, citing strategic industrial interests. These measures are part of a broader trend of Beijing tightening control over critical green energy supply chains, including rare earth minerals and specialized manufacturing processes. The move is seen as an escalation in the global competition for dominance in the renewable energy sector.",
+        "india_impact": "India is heavily reliant on Chinese solar components and technology for its ambitious renewable energy transition. Restrictions on advanced manufacturing equipment could increase costs for Indian solar manufacturers and complicate the government's efforts to build a domestic solar supply chain under the Production Linked Incentive (PLI) scheme. It underscores the urgency for India to diversify its technology sourcing beyond China.",
+        "what_to_watch": "The impact of these export controls on the pricing and availability of solar modules in the Indian market over the next two quarters.",
+        "source": "Vocal",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3M5UDZ0cnFydjhYU2ZKOHl3MGhfTE5tSlFCaVYxUGV6bmxjNzRha0o3eFFLbll6RXRiX2lCQWltWks1SmpHek8zS056dVNvUml2TnlFNzJfN1dEaHdGTFdpYmVieFFad01PSW5Sb3FtSUpUaTNUSFFLbzJ4ZFlYb2szcHZWTGZnZ1Z2NlY5Sl9NZ1pod3d3cG91OF80Y0VYMmpvSk83WjMtRlZxRENYUkx6amR1dDJhMjZWajVtTnVraHNTeVZnSWVDaUticGFU?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
