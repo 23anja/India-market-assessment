@@ -1708,5 +1708,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "date_label": "Sunday, 01 November 2026",
+    "file": "2026-11-01.html",
+    "headline_preview": "Quad Nations Strengthen Supply Chain Resilience and Oppose Export Restrictions",
+    "stories": [
+      {
+        "candidate_index": 22,
+        "headline": "Quad Nations Strengthen Supply Chain Resilience and Oppose Export Restrictions",
+        "summary": "Foreign ministers from the Quad (India, US, Japan, and Australia) have committed to enhancing supply chain security and denounced the use of arbitrary export restrictions for geopolitical leverage. The initiative aims to reduce dependencies on single-source suppliers for critical goods and ensure the stability of key maritime trade routes. This move reflects a broader strategic alignment to counter economic coercion in the Indo-Pacific region.",
+        "india_impact": "For India, this is a strategic push to integrate into global value chains and reduce reliance on Chinese imports for critical components. It supports the 'Make in India' initiative by fostering collaborative technology transfers and diversifying manufacturing bases, which could lead to increased FDI and more stable access to essential raw materials.",
+        "what_to_watch": "Specific announcements regarding the 'recycling supply chain' for critical minerals and any new bilateral trade agreements emerging from the Quad's working groups.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 11,
+        "headline": "US Federal Reserve Maintains Interest Rates Amid Persistent Inflation",
+        "summary": "The US Federal Reserve has opted to keep interest rates unchanged, citing ongoing concerns that inflation remains above the target level. While the economy continues to show resilience, Fed officials have signaled that further rate hikes remain a possibility if inflationary pressures do not subside. This decision reflects a 'higher for longer' approach to monetary policy.",
+        "india_impact": "A sustained high-interest-rate environment in the US strengthens the dollar and puts downward pressure on the Indian Rupee, potentially increasing the cost of imports and servicing dollar-denominated debt. It also limits the Reserve Bank of India's (RBI) room for monetary easing, as the central bank must balance domestic growth needs against the risk of capital outflows to higher-yielding US markets.",
+        "what_to_watch": "Upcoming US Consumer Price Index (CPI) data and the tone of the next Federal Open Market Committee (FOMC) meeting minutes for signals on the timing of potential rate cuts.",
+        "source": "cbs19.tv",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTERSUUhZLTB6dDFFY2g3a1NXbElfZXZieWtaUVp0ZEk3c0lPdjRrcnRlT1NWajZxTF9yX2k4VExPTWYwZ1JNSVhqdmY5d2pBLWZ2WDJodXpvQ1JUaGJiTUw4R2xjVnVsbXlmZ24zNE41Z29wRWpGQ256WlIyNUhFQXlGMU1RVVdJWDl1bUtwMnB1cV9nUjMzcGlncWxibmloVUJWVWVmSXNzcE5mYzZzb3gxc1dGNVd1Q29SaG1jOVBRdGJ6STRndDBBOHcwel8wdWdKaVVZajlkVzBl?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 21,
+        "headline": "JF-17 Export Growth Challenges India\u2019s Tejas Fighter Jet Market Position",
+        "summary": "The JF-17 Thunder, a fighter aircraft jointly developed by China and Pakistan, is gaining significant traction in the global defense export market. Its success in securing international contracts is creating direct competition for India's indigenous Tejas light combat aircraft. This trend highlights the intensifying battle for market share in the affordable fighter jet segment among emerging defense exporters.",
+        "india_impact": "The success of the JF-17 impacts India's defense diplomacy and export ambitions, as the Tejas is a key pillar of India's 'Atmanirbhar Bharat' (self-reliance) defense strategy. Losing potential export markets to the JF-17 reduces the economies of scale for the Tejas program and limits India's ability to build strategic defense partnerships with nations currently opting for the Chinese-Pakistani platform.",
+        "what_to_watch": "Future defense procurement tenders in Southeast Asia and Africa, specifically looking at whether India can offer competitive financing or technology transfer packages to win contracts over the JF-17.",
+        "source": "Defence Security Asia",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWh0SmlLakpQM2pWSDhTZWs3b25yUzBfeFZTY1Njd3otMHl2ZzlBVUp3cU8ycnhCWDRvQVVrZmhDMy1naW1HR0g1dGh3eDhMckw4YVFtelZPRXk1OHhjQ3hKQXFlS0lkamF6QWR5SW9ZYmxEaE5HQUVlMzRsRVJSUnFxbERodlhw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
