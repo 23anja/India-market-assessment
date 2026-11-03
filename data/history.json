@@ -1784,5 +1784,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "date_label": "Tuesday, 03 November 2026",
+    "file": "2026-11-03.html",
+    "headline_preview": "Surge in Chinese Chemical Exports Triggers Global Trade Tensions",
+    "stories": [
+      {
+        "candidate_index": 5,
+        "headline": "Surge in Chinese Chemical Exports Triggers Global Trade Tensions",
+        "summary": "China is aggressively increasing its chemical exports as domestic demand remains weak, leading to a surplus that is flooding international markets. This surge is creating significant pricing pressure and prompting concerns among global trading partners regarding potential dumping practices. The trend reflects a broader shift in China's industrial strategy to export its way out of a domestic economic slowdown.",
+        "india_impact": "India's domestic chemical and specialty chemicals sector faces direct competition from these low-cost Chinese imports. This could pressure margins for Indian manufacturers and potentially lead the government to consider anti-dumping duties or other protective trade measures to safeguard local industry.",
+        "what_to_watch": "Monitor upcoming trade data from the Ministry of Commerce and any announcements regarding new anti-dumping investigations or tariff adjustments on chemical imports from China.",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 9,
+        "headline": "Australia Raises Interest Rates to 18-Year High",
+        "summary": "The Reserve Bank of Australia has hiked interest rates to their highest level since 2008, driven by persistent inflation fueled by high energy costs and the ongoing AI-driven tech boom. The move highlights a global trend where central banks are maintaining restrictive monetary policies longer than anticipated to combat sticky price pressures. This decision underscores the difficulty of cooling inflation without triggering a sharp economic contraction.",
+        "india_impact": "As a major global economy, Australia's interest rate trajectory influences global capital flows and risk sentiment. For India, higher rates in developed economies like Australia often lead to a stronger USD, which puts pressure on the INR and complicates the Reserve Bank of India\u2019s (RBI) own interest rate management by limiting the scope for domestic easing.",
+        "what_to_watch": "Watch for the next RBI Monetary Policy Committee meeting minutes and any shifts in foreign institutional investor (FII) flows into Indian debt and equity markets in response to global yield differentials.",
+        "source": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbG1ZaXd5NnBRdlJuTVNCUXR2R25qVmU2bFNKeXlNZUhrX0VINVBUa3FHcnkyQWJyLUc4S2lVWWFTejY0UG9ZZGRKb2VfTzZPakRkM1dWNlN4VkpUSGxvUHNiS1VnSWxrMHZHSXVlT1pDZFBqeFRZNFc4YUt1S2VmRmxWUVNQYW1tb2oyaUNGQWRZaFpOeEJVWThKc0hSdE1RZ2ZmUk9oWjVyNEFZdUdjVnRQajZxSnVsV1FlMUhMdXp2Y2JyS3RPRUJiVllNcUJIVzlZeVFlNA?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 31,
+        "headline": "China Imposes Export Controls on Tunnel-Boring Machines",
+        "summary": "China has implemented new export restrictions on tunnel-boring machines (TBMs), a critical piece of heavy machinery used in large-scale infrastructure projects. These controls are part of a broader effort by Beijing to manage its strategic industrial exports and exert leverage over global supply chains. The move effectively limits the availability of these machines for international construction firms.",
+        "india_impact": "India is currently in the midst of a massive infrastructure push, including metro rail, highway, and tunnel projects in the Himalayas. A restriction on Chinese TBMs could lead to project delays or increased costs, as Indian contractors may be forced to source more expensive alternatives from Europe or Japan, or face supply bottlenecks.",
+        "what_to_watch": "Monitor updates from the Ministry of Road Transport and Highways regarding project timelines and any reports of supply chain disruptions for heavy machinery imports.",
+        "source": "https://streamlinefeed.co.ke/",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWExaVkzcXlpd3o3cXY2ZDE2clZFdXRwZDlmUEtpeTVHT21IZjM3R3pqRjJadkdjbHdRem9EaG81U1JISmVlQ0JmZF9VQkZtcncxM3VBblV3aU11bFBid1BfVUFYbTZOZUp1ZlQ4TGJSSExtNkNVSnBSTjlHa1FhcllqZFN6bHZUWGM1T3FWX0N3bHJyZGl0aFktelk5dk9CZ25UaUU0RWYydkRYZldsV1lpeDZMRmJfMW94V3FaUQ?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
