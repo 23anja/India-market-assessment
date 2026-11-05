@@ -1822,5 +1822,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "date_label": "Thursday, 05 November 2026",
+    "file": "2026-11-05.html",
+    "headline_preview": "Indian Markets Rally as Global Oil Prices Decline",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "Indian Markets Rally as Global Oil Prices Decline",
+        "summary": "Indian benchmark indices experienced a significant surge, gaining over 1,500 points, driven largely by a sharp correction in global crude oil prices. The market sentiment was further bolstered by broader regional trends following the US midterm election outcomes. Investors responded positively to the reduced inflationary pressure and improved fiscal outlook associated with lower energy costs.",
+        "india_impact": "India is a major oil importer, and lower crude prices directly improve the country's current account deficit and reduce inflationary pressure on the economy. This provides the RBI with more flexibility regarding interest rate policy and boosts margins for oil-consuming sectors like aviation, paints, and logistics.",
+        "what_to_watch": "Monitor the upcoming OPEC+ production policy meetings and the RBI's next monetary policy committee statement for signals on how sustained lower oil prices might influence domestic inflation targets.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 31,
+        "headline": "Kazakhstan Expands Uranium Supply Agreements with India and China",
+        "summary": "Kazakhstan has finalized new uranium supply agreements with both India and China to diversify its export markets. As the world's largest producer of uranium, Kazakhstan's move is aimed at securing long-term demand and strengthening energy trade ties with key Asian economies.",
+        "india_impact": "For India, this is a critical strategic development to secure fuel for its expanding nuclear power program. Reliable access to uranium is essential for India's transition toward cleaner energy sources and meeting its ambitious net-zero targets without relying solely on volatile global spot markets.",
+        "what_to_watch": "Watch for follow-up announcements regarding the specific volumes of uranium to be supplied and the logistics of the transport routes between Kazakhstan and India.",
+        "source": "Construction Review",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM2N3aVl3OXktOC1idEk2ZnY0TmlNdmI2ZGw1di1zajNZRWpoVS1OV00wcnNnYkprTFBwclNsNUFhUlhlZEtKMTQxVHVXcXdPZDRhZVJFUzdVUFUtazN6N1BUQ2ZnTENfcmp0UUpvRU1Fa0xFNF9ib3Y0c2dsM1lOd3pzNTNVRlE2UXN6ZzZtMTROdWNEZGI0ZktqM3BSRFQxUFdsNEZpQm9vdWZ2dm1wSnNod25iUGtUellJTk1ZUE9aUQ?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 24,
+        "headline": "China's Export Curbs on Tungsten Impact Global AI Supply Chains",
+        "summary": "China has implemented new export restrictions on tungsten, a critical mineral used extensively in high-precision tools and drill bits. The move has created supply chain bottlenecks, particularly affecting industries involved in the production of components for AI-related hardware and advanced manufacturing.",
+        "india_impact": "India's growing manufacturing and defense sectors rely on high-grade tungsten for precision engineering and cutting tools. These export controls could increase input costs for Indian manufacturers and complicate the supply chain for companies looking to scale up domestic production of advanced electronics and machinery.",
+        "what_to_watch": "Track the price volatility of tungsten in international markets and any potential government initiatives in India to incentivize domestic mining or secure alternative supply sources for critical minerals.",
+        "source": "Nikkei Asia",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnEyQk96aEtwdE9fVVhzYlJkWW1oU1VVbVdNRW5IWjY4YVdXRFFaR040dEh0ZjlqWWo3U2c0NTNyQ2RIRmhudkhUem1uVzRWT2Nqdk1WbmVNM05haGtjZk91UUhXclJiOVFLREJMWV9Tb2FfdUdHQU1MeG43NjdjTlAweENBOHN6SDg0T0NfTjJacnVFU1Rjcm1id0MxZW12RGtuS3ZYTHpoT0JmWHdsM0I2dTM1Zw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
