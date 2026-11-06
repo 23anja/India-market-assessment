@@ -1860,5 +1860,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "date_label": "Friday, 06 November 2026",
+    "file": "2026-11-06.html",
+    "headline_preview": "Indian Equities Outperform Amid Global Market Volatility",
+    "stories": [
+      {
+        "candidate_index": 25,
+        "headline": "Indian Equities Outperform Amid Global Market Volatility",
+        "summary": "Indian stock markets have demonstrated resilience and strong gains, decoupling from the broader sell-off seen in other Asian and global markets. This performance is largely attributed to a decline in global oil prices, which benefits India's import-heavy economy, alongside sustained foreign institutional investor (FII) inflows.",
+        "india_impact": "Lower oil prices reduce India's import bill, narrowing the current account deficit and easing inflationary pressures, which provides room for the RBI to maintain a balanced monetary policy. Sustained FII inflows support the INR and provide liquidity to domestic capital markets, insulating them from the volatility currently affecting tech-heavy global indices.",
+        "what_to_watch": "Monitor the upcoming Brent crude price trends and FII net buying/selling data in the next two weeks to see if the decoupling from global markets is sustainable.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "Economic Impact of Air Pollution in India",
+        "summary": "A new report highlights that air pollution is costing India up to 9.5% of its annual GDP, with approximately 2 million deaths linked to poor air quality. The findings advocate for a shift toward health-led economic policies to mitigate these significant human and financial losses.",
+        "india_impact": "The loss of 9.5% of GDP represents a massive drag on productivity and public health expenditure. For investors and policymakers, this underscores the long-term fiscal risk of environmental degradation and the potential for increased regulatory costs or mandatory green transition requirements for Indian industries.",
+        "what_to_watch": "Watch for potential government policy shifts or budgetary allocations toward green infrastructure and pollution control measures in the upcoming Union Budget.",
+        "source": "NDTV",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb09Ycm5QbERDTndvR2lGWFB0UzFUSGRicHNxT01WQ09GLU8xVy1oWVp5cEpHcHhhazVrOWxLQ3FCbXM3RU5oX3h5Qk9QRVRzWlRvcjhwNmtoU19VYm5wa2wtbTVfRktHQ0w3aE5OTUJjQjAxeG5KMGQ0S0tMa3hic1FzTjNCeUVMT1dKeTN6SUhtcEdxMDBaeVR2cXY2TFVGaF9rM2VxTmc5MTZqMjhzSmYyZEtQeUtIMmRtX2FYNHRGWkF2SUFJV2RnbTg2TWxaWklRSXpmNk9zUlZmVFRFcXdVcnhFaTZDZzc0UnJB?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 35,
+        "headline": "China's Export Restrictions on Tungsten Impact AI Supply Chains",
+        "summary": "China has implemented export curbs on tungsten, a critical mineral used in industrial drill bits and high-tech manufacturing, including components essential for AI hardware. These restrictions are causing supply chain strain for global technology firms that rely on Chinese-processed minerals.",
+        "india_impact": "As India seeks to scale its semiconductor and high-end manufacturing ecosystem (e.g., under the PLI schemes), reliance on a concentrated supply chain for critical minerals like tungsten poses a strategic vulnerability. Increased global prices for these materials could raise input costs for Indian hardware manufacturers and defense contractors.",
+        "what_to_watch": "Monitor the progress of India\u2019s Critical Minerals Mission and any new bilateral trade agreements aimed at securing non-Chinese sources for rare earth and strategic minerals.",
+        "source": "Nikkei Asia",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnEyQk96aEtwdE9fVVhzYlJkWW1oU1VVbVdNRW5IWjY4YVdXRFFaR040dEh0ZjlqWWo3U2c0NTNyQ2RIRmhudkhUem1uVzRWT2Nqdk1WbmVNM05haGtjZk91UUhXclJiOVFLREJMWV9Tb2FfdUdHQU1MeG43NjdjTlAweENBOHN6SDg0T0NfTjJacnVFU1Rjcm1id0MxZW12RGtuS3ZYTHpoT0JmWHdsM0I2dTM1Zw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
