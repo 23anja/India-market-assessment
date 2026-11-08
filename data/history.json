@@ -1936,5 +1936,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "date_label": "Sunday, 08 November 2026",
+    "file": "2026-11-08.html",
+    "headline_preview": "Rising Tensions in the Strait of Hormuz Drive Up Global Freight Costs",
+    "stories": [
+      {
+        "candidate_index": 6,
+        "headline": "Rising Tensions in the Strait of Hormuz Drive Up Global Freight Costs",
+        "summary": "Escalating geopolitical instability in the Middle East is prompting the Indian Oil Corporation (IOC) to secure dedicated crude and LPG carriers to mitigate supply chain risks. Disruptions in the Strait of Hormuz, a critical maritime chokepoint, are driving up global freight rates and insurance premiums for energy shipments. This move reflects a broader strategic shift by major importers to insulate their energy security from regional conflict.",
+        "india_impact": "India imports a significant portion of its crude oil and LNG from the Middle East. Increased freight costs directly inflate the landed cost of these energy imports, putting upward pressure on India's import bill, widening the current account deficit, and potentially impacting domestic retail fuel prices and inflation.",
+        "what_to_watch": "Monitor the 'Brent Crude' price volatility and any official announcements regarding insurance surcharges for tankers transiting the Persian Gulf.",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaHZtOFlBazczeE5VdzR4a05HNVJLXzZUSmNTaERHM3FfMGtVaDZNLWZMamdKQlEwWXZTdjVyTGs4U3BfVV9NdWVzVE1YbmJ4N2Zod1lsV1REQkdxOUVSR1dBM0xlbVlzVGhiRTltWXh2dUg4dE80dVotZWptMENmeG9OMWJocHR6RDFjU0FTQjEtdFFYeWtQb19oN0VnT2RWRW1DUkdVMEp1LTFyZjMyXy1wN2JMdUFqdHNmRzlnM1BJODdVRTQ4QXdUZzFoYlh2QW91dmxTOGJEdUXSAeABQVVfeXFMTk1RQ3pJZDhpd0J4bjExcVRCQ0FIby1CU1hydldvQnRabFQwSVhqVXdmOGhWUHZ6MW54TkcteE9mQTNhYV9hNWhtX3FMR0o3MlFickhONVJ3OGl0dDlwZWhMSXpJblFWa19qUGk5NjIwTXNtbVNOaEp0d25FTktvQkpDaU4wX0lVbkp6ZFBOejFheWtSckhkaVhiTzBOU2d6ejBmQUt0cXhCSXk3aWFMUzJucnFDRVZNal9IQjBfSDk0TUpOVmdfUkxWLUQ1UkhXWDcxak9DZmxPZ2xaS1k3SkM?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 29,
+        "headline": "China Blocks Customs Clearance for Nvidia AI Chips",
+        "summary": "China has reportedly stalled the customs clearance of approximately 600,000 Nvidia H200 AI chips in Hong Kong as part of a broader push to force domestic semiconductor self-reliance. This move creates a bottleneck for tech firms operating within China that rely on high-end US-designed chips for AI development. The delay highlights the intensifying 'tech war' and the weaponization of trade logistics in the semiconductor supply chain.",
+        "india_impact": "As India positions itself as an alternative manufacturing hub and a growing market for AI infrastructure, the restriction of high-end chips in China may accelerate the 'China Plus One' strategy. Global tech firms may shift more R&D and data center investments to India to avoid the regulatory and supply chain uncertainties currently plaguing the Chinese market.",
+        "what_to_watch": "Watch for shifts in foreign direct investment (FDI) data into India's electronics and data center sectors, and any updates on US export control policy regarding AI hardware.",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkeXJFVDQzbExFWkpZTGVFdHpINWpIM2piX2VKVHk4d1Q3RUZvdXVpYXh2NEs0M0ZYOXBDbkNjNXVPZ2ZpZzNsbWZuUnFGYThSdlcxYTBSZVVfc0U5X0ZvNERTb1JQVzdmYS03R2lLaUVfYW5uNmc?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 13,
+        "headline": "Bank of England Raises Interest Rates Amid Persistent Inflation",
+        "summary": "The Bank of England has implemented an interest rate hike, marking a shift in its monetary policy stance as it battles sticky inflation. The central bank has signaled that further tightening may be necessary to bring price growth back to its target level. This decision reflects the global trend of central banks maintaining a 'higher-for-longer' interest rate environment despite signs of economic cooling.",
+        "india_impact": "The Bank of England's move influences global liquidity and the strength of the British Pound against the Indian Rupee. For India, this contributes to the broader global interest rate environment that affects Foreign Institutional Investor (FII) flows; higher rates in developed markets can lead to capital outflows from emerging markets like India as investors seek safer, higher-yielding assets.",
+        "what_to_watch": "Monitor the next Reserve Bank of India (RBI) Monetary Policy Committee meeting for signals on how they plan to balance domestic growth with global interest rate differentials.",
+        "source": "The Edge Malaysia",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uTlhuZGVHWUVyaEdUU0FuWkdhVnlvNXdnSmVPS3Ewei12bWlJX0NUTUltT1ROWThvcWFiaDF2M25JN1picnJ5TDQ1eEYyNVlS?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
