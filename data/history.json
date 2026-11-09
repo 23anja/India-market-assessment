@@ -1974,5 +1974,43 @@
         "topic_bucket": "Global economy & central banks"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "date_label": "Monday, 09 November 2026",
+    "file": "2026-11-09.html",
+    "headline_preview": "Potential Geopolitical Shift in Iran and Global Oil Market Implications",
+    "stories": [
+      {
+        "candidate_index": 7,
+        "headline": "Potential Geopolitical Shift in Iran and Global Oil Market Implications",
+        "summary": "Recent discussions regarding the future of the Iran conflict and potential shifts in U.S. policy have sparked debate over whether a de-escalation could lead to a surge in Iranian oil exports. Analysts are evaluating if such a scenario would trigger a global oil glut and a subsequent price war among major producers. The situation remains fluid as markets weigh the probability of sustained supply disruptions against the risk of rapid inventory accumulation.",
+        "india_impact": "India is one of the world's largest net importers of crude oil, making its current account deficit and inflation levels highly sensitive to global oil prices. A significant drop in oil prices due to a supply glut would provide a major tailwind for India's macroeconomic stability, reducing the import bill and easing pressure on the Indian Rupee (INR).",
+        "what_to_watch": "Monitor official statements from the incoming U.S. administration regarding sanctions enforcement on Iranian oil and any subsequent shifts in Brent crude futures.",
+        "source": "Modern Diplomacy",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1NyOXRyWVRrdk9HQ3lMMkdqYnlEQlcyX0FNbEk3d09McmFTUDBBU0lENjZYaTFGRWc1SnBUMHlGZ1VnVkJOWGpDYW5nLVc2UUpTMjlzTkhjRlEtdXV6cklWTzJMTFNLWGNzWFRuRG82bnA4U0g5WWFNckpVeGF4VWp6WElPTkNFeDk5UVh0M1hRN19IT09CNnc0dnYzRkhrc1A3QWNjUy1zMmlh?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 28,
+        "headline": "China Imposes Export Controls on Rare Earth Elements",
+        "summary": "China has announced new export control measures on specific rare earth elements, a move viewed as a strategic maneuver in the ongoing global competition for critical minerals. These materials are essential for high-tech manufacturing, including semiconductors, electric vehicle batteries, and defense equipment. The restrictions are expected to tighten global supply chains and increase costs for manufacturers reliant on Chinese processing capacity.",
+        "india_impact": "As India aggressively scales its manufacturing sector under the 'Make in India' initiative and seeks to build a domestic semiconductor and EV ecosystem, it is currently dependent on imports for critical minerals. These controls highlight the urgency for India to secure alternative supply chains or accelerate the exploration and processing of its own mineral reserves to avoid production bottlenecks.",
+        "what_to_watch": "Watch for updates on the specific list of minerals affected and any reciprocal trade policy announcements from the U.S. or EU that might impact global pricing.",
+        "source": "Rare Earth Exchanges",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDFzaW04NjN0UHUzZWg5MTNTbjNvcHE1SUlGdWU3dU9UNTlGQ3VMU2JLdy1xS1JZUHQ0a29hamhVZnRFT0pyRXVqcDJISVlYTndyQlByRVU5T2Y5Z1AwYy1YR1pDTDF4LU9wQ3Q0OWJiUndEWmZ0UE93R2VncVdfeklGcw?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "Economic Impact of Air Pollution in India",
+        "summary": "Recent reports highlight the significant, often 'invisible' economic burden that severe air pollution places on the Indian economy. Beyond public health costs, the degradation of air quality is increasingly impacting labor productivity, business operations, and long-term human capital development. The data suggests that the cumulative financial drag of pollution is becoming a material factor in national economic output.",
+        "india_impact": "This is a direct domestic economic issue; persistent pollution levels force business disruptions, increase healthcare expenditure for the working population, and can deter foreign investment in urban hubs. It acts as a structural headwind to GDP growth, necessitating higher fiscal allocation toward green infrastructure and environmental regulation.",
+        "what_to_watch": "Look for upcoming government policy announcements regarding industrial emission standards and potential fiscal incentives for businesses to adopt cleaner technologies.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVndON0QtVDNVREZTSUQzOE14LWRpLS02a1FuaWdBRkRzUWR5VlpWQUVoQm1rTFl0NWlsb09kUlNYV0lHeXNncjZiOHRpVDF3VGN2WHRYTXpIbW92ZnQtZ05wbGVZaWw3dVlXNG9rLUxKc1BsRGRsdlpoOExMQTQ0OGpBcW45ZERjSjVPY2pkcHB6cXpJdnNocDcxNzZtYmJkM3JIMVp1ZXdDejNVVWhTUjBkdXFoMlNHTnhQeVRRazhmRzY1MnhxYks0YUpJVGNTTDV0MjV4ME0zaHNlMEVndWp0ZzBRMEtqamhNU2FQWTJyUG1ERlpzbVluSE5HM3d30gGGAkFVX3lxTFBaQ25hazR1VG4xWTcxcFI2WkstckV5clk2N1NzVjd3bW1hTmdBYy1FSmd3bTJWZjhld1czbHNaTGhReGgwNlFVMWFOWk5rb3FfYW9aR2RFb2N5eDNSUC1RbzBpTWdvZjZKbDNvNTVyNnEtWWt4bTc0N0ROWGxZTHBGVkR1Rks3aUJySXdCVGs5RHhaYW1zTWZHeXNIa0dIVXVveEx0ekRxMXB3UXpma0h5OFlLdGhwbTFkel9WUkNkbzcxUmR6c3hwTHdMY0R0WE16NktxTWxDV2VXd0k1V2dUbkRiMTloVkN3T3lHRWdYeENPbGMtZXVxcGR2SGY2eUh5ZkhFaHc?oc=5",
+        "topic_bucket": "India economy & policy"
+      }
+    ]
   }
 ]
