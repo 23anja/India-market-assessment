@@ -2088,5 +2088,43 @@
         "topic_bucket": "India economy & policy"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "date_label": "Thursday, 12 November 2026",
+    "file": "2026-11-12.html",
+    "headline_preview": "India's Gulf Oil Imports Overtake Russian Supplies Amid Regional Conflict",
+    "stories": [
+      {
+        "candidate_index": 7,
+        "headline": "India's Gulf Oil Imports Overtake Russian Supplies Amid Regional Conflict",
+        "summary": "Recent geopolitical tensions in the Middle East have shifted India's crude oil procurement patterns, with imports from Gulf nations surpassing those from Russia for the first time in the current conflict cycle. This pivot reflects a strategic adjustment by Indian refiners to mitigate supply chain risks and potential price volatility associated with the ongoing regional instability. The shift underscores the fragility of India's energy security as it balances discounted Russian oil against the reliability of traditional Gulf suppliers.",
+        "india_impact": "This shift directly affects India's import bill and current account deficit. While Gulf oil offers logistical reliability, it is generally more expensive than discounted Russian crude, potentially exerting upward pressure on domestic fuel prices and inflation. It also signals a recalibration of India's energy diplomacy as it navigates the competing interests of its primary oil suppliers.",
+        "what_to_watch": "Monitor monthly trade data from the Ministry of Petroleum and Natural Gas and the evolution of the Brent-Urals price spread to gauge the long-term impact on India's oil import costs.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxFWjRZMzNORENWTzhDeUl5UW5WaFRWbTk1ZllEcHdfVEN5ckwzTW4zZnVWOE5DaVN3VWMzS0xUXzRyaTZDV3VCY3NHTUU3ZG8zakdXR0t3QW5DMDNuRkxsSWVkLXo3blhSUGFndkJlX25vNVlaaUJxa0lXR2xFZHlMTW5XUzE2M0xnU1Y0Vnl4Y2QyaFUxX2kzaFoxc1BTRk1jRDdHSkp1aEZ2d0ZUWVJDcnZFZw?oc=5",
+        "topic_bucket": "Global geopolitics"
+      },
+      {
+        "candidate_index": 17,
+        "headline": "India's Q2 GDP Growth Estimates Outperform RBI Projections",
+        "summary": "Recent research from State Bank of India (SBI) suggests that India's GDP growth for the second quarter is likely to reach 7.8%, exceeding the Reserve Bank of India's (RBI) earlier estimate of 7.2%. This growth is primarily attributed to a robust performance in the manufacturing and services sectors, which continue to show resilience despite global macroeconomic headwinds. The upward revision highlights a stronger-than-anticipated domestic demand environment.",
+        "india_impact": "Higher-than-expected growth provides the RBI with more room to maintain its current interest rate stance without fearing a sharp economic slowdown. It reinforces investor confidence in the Indian equity markets, likely supporting foreign institutional investment (FII) inflows and strengthening the rupee against the dollar in the near term.",
+        "what_to_watch": "The official GDP data release from the National Statistical Office (NSO) to confirm the extent of the outperformance against the RBI's projections.",
+        "source": "Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZkYwMUF4WFYySEgyVUp1NXphandMQ1NYY1c1cEpmY2cyLWhzcVZCaXRZeGRoOU1sWnpHbGY0Ui1YWjJnXzR1UnpIQkxibHJlVG5PMTFxX0l4U1R2bEdFX3RKZi1YS09uSkk2ZE96SGFzYURZRWZHUTNweW5mdXhhWHVVN3lTbDJIbGVpaWxsdUd3aEJBNS1UOEQyQTdTR09GRWJVcGhRMWVGSDF5Z18zc3l0c1o4YVJyaG5kZjdlSjY5bk1rRGlVRlJVV010U2FnM1RUaU5R0gHbAUFVX3lxTE9rdnhXMXlMeUgxSWtacFRGZGk1aXpyYkRHM3NudlVSWGpSRTBBQmwxcmdqZk5zWGQ1dW1oY19ZTmpXT1RKaEVtMWw4aXRkRk1NMVFLRVlNWk8yZm5waHZMYVltY044Tjg5dWxOVDhSblV3cWNFM3VMSGZIczYydDI5TlZGZnhyYWNpdk54YThaX2NPdHNOYmJ4QTYwZWNZbDMyT0xaQmZ1Q2xrSV9iLVNHN3g1a0lDeHE1cVBEU1F5VFFBdEgzaW5TX2ZLUW9ZY3V6TUVvcUl3XzJvRQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 37,
+        "headline": "China's Trade Surplus Surpasses $1 Trillion, Signaling Global Imbalances",
+        "summary": "China's annual trade surplus has exceeded the $1 trillion mark, driven by a combination of robust export volumes and subdued domestic import demand. This widening gap reflects China's aggressive push into global markets for manufactured goods, including electric vehicles and advanced electronics, as it seeks to offset its internal property sector crisis. The scale of this surplus is intensifying debates among trading partners regarding market access and unfair trade practices.",
+        "india_impact": "For India, this surplus exacerbates the challenge of competing with low-cost Chinese imports, which can undermine domestic manufacturing initiatives like 'Make in India.' It also increases the risk of 'dumping' in sectors like steel, chemicals, and electronics, potentially prompting the Indian government to implement further protectionist measures or anti-dumping duties to safeguard local industries.",
+        "what_to_watch": "Future trade policy announcements from the Indian Ministry of Commerce and Industry, specifically regarding potential tariff adjustments or non-tariff barriers on Chinese imports.",
+        "source": "BBN Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWptdlhrVFlhNTNpc2tfU0JWQ1o4WFN0TEstS29QWS1HYVEzWE15dXBIT0hwQl9RWkVBdmxCR2QxS0FMXzB0R2JJMFliTW8xb0dNRHJqLXBhUklacTdfeFZOdnhYdi16Q2xKOHdSTlJreWR3dl92VllxTnVwWTZWeg?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
