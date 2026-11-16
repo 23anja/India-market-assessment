@@ -2202,5 +2202,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "date_label": "Monday, 16 November 2026",
+    "file": "2026-11-16.html",
+    "headline_preview": "India Faces Challenges in Returning to Higher Interest Rate Environment",
+    "stories": [
+      {
+        "candidate_index": 8,
+        "headline": "India Faces Challenges in Returning to Higher Interest Rate Environment",
+        "summary": "As global central banks grapple with persistent inflation, India faces a complex path toward normalizing interest rates. Domestic economic conditions, including potential inflationary pressures and external global volatility, are complicating the Reserve Bank of India\u2019s (RBI) ability to pivot policy effectively. Analysts suggest that the transition to a higher-for-longer rate environment will be more difficult for India than previously anticipated.",
+        "india_impact": "Higher interest rates directly impact the cost of capital for Indian corporates, potentially slowing credit growth and capital expenditure. For the equity markets, sustained high rates may dampen valuation multiples, while for the currency, they serve as a critical lever for the RBI to maintain INR stability against a volatile US dollar.",
+        "what_to_watch": "The upcoming RBI Monetary Policy Committee meeting minutes and domestic CPI inflation data for signs of policy divergence from the US Federal Reserve.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0hiVjJXTXBPbzllUFZhcVRzZ3RQX1JfNlllelBnV3BKVHltWmIyS1JKelNpaGFGQUhfQnZqamRDcjhUZnlZT0JKOVJPNEJaWGlNY2FGWUlHRl9lSl9taUptVXpydVp0Y0dWQllEd0g4RGpDWU84b2hycWRUa2J1aDY4ZW9WNnNpZnBoZHN1cDBvTW5uREhNaUpWbk5Pa3NaU1Ryd0VIX1U3OWhISWc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 36,
+        "headline": "US and Allies Coordinate on AI Supply Chain Security",
+        "summary": "The United States and its allies have reached an agreement to coordinate efforts to secure the global artificial intelligence supply chain. This initiative aims to mitigate risks associated with the concentration of critical technology manufacturing and to prevent sensitive AI hardware and software from falling into the hands of adversarial nations. The move reflects a broader strategic shift toward 'friend-shoring' and securing high-tech infrastructure.",
+        "india_impact": "This coordination presents a significant opportunity for India to position itself as a key alternative manufacturing hub for high-end technology and semiconductor components. As global firms seek to diversify their AI supply chains away from China, India's growing electronics manufacturing ecosystem and strategic alignment with the US could attract increased foreign direct investment and technology transfers.",
+        "what_to_watch": "Specific policy announcements or bilateral agreements under the iCET (Initiative on Critical and Emerging Technology) framework between India and the US.",
+        "source": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVmxsbFFvOEJyN0h6TnBXYlBka0xWbXM3QUdOcDRsVmhTM0dTTTZqdUxWOU5md0R5YXNoTlJ2WkhWRGU5S0ZZUnRwNjFhZnJ6UFNfZmhRdXRibUNIT09IbElxdWg3RHRGQW90aUhwZGJXQ19lS0JNNGt1RS1YR2xUbDlIWlhLNzlVWnB0bWM5ZWJhcGRFX2trRFZtckZJcE95a2w4Rkg2M0VaQUhsRElFbFFnRHd3REJOY2c?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 25,
+        "headline": "India Equity Markets See Rotation as AI-Driven Stocks Pull Back",
+        "summary": "Global markets are witnessing a 'great rotation' as investors shift capital away from the high-flying AI-related tech sector toward other growth markets. India has emerged as a primary beneficiary of this reallocation, with foreign institutional investors (FIIs) increasing their exposure to Indian equities. This shift is being driven by India's strong domestic growth outlook and relative insulation from the specific tech-sector volatility currently affecting US markets.",
+        "india_impact": "Increased FII inflows provide critical liquidity to the Indian stock market, supporting the INR and reducing the cost of equity for domestic firms. This rotation highlights India's status as a preferred destination for global capital seeking growth outside of the crowded US tech trade, directly impacting market indices like the Sensex and Nifty.",
+        "what_to_watch": "Monthly FII net investment data and the performance of mid-cap versus large-cap sectors in the Indian market to gauge the sustainability of this rotation.",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekZiMTBjakhPUXcyZm9yZ1N6SkhLQmNrSFZ0M0RPNTNhOFh1YkExSUZEc0pJbzJoU0VkdEZKTHhVb2RYUXJjRFdtY1o2R3lzSml1RVZJS3I0MEFLRW5mMlFMV183RW9xa1d4bDhpcEtWNGFSeDEzc2xMdHBkcTBfZW5DU0Fobl9CV04zVVZuZzB0YXkwN1NwZzVTVDFtTFVaM2lSSk16YUpwMnRocGpGdThMWERWazZ5eE1Z?oc=5",
+        "topic_bucket": "India markets"
+      }
+    ]
   }
 ]
