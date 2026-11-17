@@ -2240,5 +2240,43 @@
         "topic_bucket": "India markets"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "date_label": "Tuesday, 17 November 2026",
+    "file": "2026-11-17.html",
+    "headline_preview": "ICRA Projects India's Q2 FY27 GDP Growth at 7.5%",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "ICRA Projects India's Q2 FY27 GDP Growth at 7.5%",
+        "summary": "Rating agency ICRA has estimated India's GDP growth for the July-September quarter at 7.5%, citing a potential slowdown compared to previous quarters. The revision reflects concerns over the impact of an uneven monsoon season and rising geopolitical tensions in West Asia on domestic economic activity.",
+        "india_impact": "This projection serves as a key indicator for the Reserve Bank of India's (RBI) monetary policy stance. A growth slowdown, coupled with external inflationary pressures from oil prices, complicates the RBI's ability to cut interest rates, directly impacting borrowing costs for Indian corporates and retail consumers.",
+        "what_to_watch": "Official GDP data release from the National Statistical Office (NSO) to confirm if the slowdown aligns with ICRA's estimates.",
+        "source": "BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlZMYmVsTktEY1JzdDZIVGlLTjhienpVa2J4QlVuVFd3MDg4cXl1aEwtZ2hVQUFha0x4UUdRR0ViRDdWWTIxbmN2bGdtZFR4R0thV3hJVHVaTXZNV3BhdTZlSzVDc0ZMRk1iMzFKbjJqR0R5UklWYkpuS0dDUmVUczRsLWEyRDVJZnZUZHRYZVh3ZW5rZkF5ZWFiY2sySVI3THctWTBPZzdOOGQzX2diNm1rNTR0VEVoT0RDUEdDb3VDY0VYcmxQeG1Qb3NNZFpRUGMyenhtd1LSAd8BQVVfeXFMTS1TZjB5U0F4cEhJT3RvSUtITUcyckdscmtnQnk3VEpwRFhkREtZQmFULWxYRXM4ZUhiZ281dEMzeUc3eUpLOUQtYkdpT205ZlQxZkV6eXdwOHEtLTJxZS1xNy1PNmtyWXZ4V3NIM0ptcEhoV2ppY2JvZ1hiOVhidVFzRWlWNUFmWlU2WHk3QlBTdWU1eGtyUDZBM3pKcmplR3NEMmF2UTVqVmtEbEx4dVJPRDAtbk9XWFNzY2NfMUlRQmIwV1V3cXJhMFZ4RGJLb21OZ04tN08xd0NFZWtDWQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "US Expands Restrictions on AI Chip Exports to China via Third Countries",
+        "summary": "The United States is intensifying efforts to restrict China's access to advanced AI semiconductor technology by targeting supply chains that route through third-party nations. These measures aim to close loopholes that have allowed Chinese firms to bypass direct export bans on high-end hardware.",
+        "india_impact": "As India seeks to position itself as a global semiconductor manufacturing hub and a participant in the AI supply chain, these restrictions create both risks and opportunities. While it may disrupt established regional supply chains, it also accelerates the 'China Plus One' strategy, potentially incentivizing global tech firms to shift more manufacturing and R&D operations to India.",
+        "what_to_watch": "Updates to the U.S. Bureau of Industry and Security (BIS) export control list and any subsequent retaliatory measures from Beijing.",
+        "source": "\u062a\u0633\u0646\u06cc\u0645",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEFocElrWHBiTVNDblY4WTFBdVpWbzIxZmhCTG5yd0d5bENrRG9nOTIxVFE0eEhYaG1LY25qaVEtMDM1a0hadkRmZ242Q1Jwd1lELVhlc0h1ZnhqejFUQmZEZ0tzLUZsd3JxNGNSMmktcTE3aDYwaXU5RDYzNmZlbDNhc1M4YkI4NEdWOFlRaVNTS01oOEJwNE1TbnVERGNSX3JlMVRTcXZ3dlRWYWtpc091bHNMTVIwZEJuc2VVSjA0YnEyWmp1WEs0cHNkSnQ0OWFGbXBMWm51d9IB3wFBVV95cUxQM2VFTF9hdy1aYnh3N2RyRm93cF91dGE0WmdQUmM2X3Q2TEZMSlVhYmhwZUMyeFpjU1VxMHBvNFFab0xKUUJFN2JfbVVrdXRFT2c3cU9nNjEzQVhCQ0JyR3kxSWpCeGZodnRUc2hTdUZQVnlpTlhfU0Jwa3ZoVm4xaFUyZG9LM1YxUXZCcGpBNVFiS3BudDVLQk4zS0tlQi1kQlU3SEI5VHhPME1FZ1NibTlINGV2MDVKZmRBTFI0WVc2SXRpNVVfNGcwdUR0RmhZald5bWpfN09UdTZjRllr?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 8,
+        "headline": "Gold and Silver Prices Decline Amid Expectations of Continued Interest Rate Hikes",
+        "summary": "Precious metal prices have hit their lowest levels in a year as global markets brace for sustained interest rate hikes by major central banks. Higher interest rates increase the opportunity cost of holding non-yielding assets like gold, triggering a sell-off among investors.",
+        "india_impact": "India is one of the world's largest consumers of gold. A sustained decline in global prices may boost domestic demand during the wedding and festival seasons, but it also impacts the Current Account Deficit (CAD) due to higher import volumes. Additionally, the strengthening of the USD against the INR, often correlated with high-interest-rate environments, makes gold imports more expensive in rupee terms.",
+        "what_to_watch": "Upcoming Federal Reserve meeting minutes and U.S. inflation data, which will dictate the trajectory of global interest rates and dollar strength.",
+        "source": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXYxQ0NqanJTREg3SC1OMUZQUHdGN3lfWWxpSUxDNXVGWTdDLTJwQWJiUktETmhoNVNGa0dnd1ZEd2dIUGJrNnVJNGk0c19BOEE3RWVabUJQVGlKWFJ3TE45YmswTExqNDRuQnVRUXgycmV2VTVVenVZbklIMVRvVzF6cFZPemFwNVFsRS1za2dYVXhSY3IzZms3Q0MzYkFqMHBFbDJzOW1nTE5nc1k5b2p5eGI1bXhEOUotdkJWMlg1Z1NLYzBxSXdkS3pyQQ?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      }
+    ]
   }
 ]
