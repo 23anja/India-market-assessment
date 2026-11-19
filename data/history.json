@@ -2316,5 +2316,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "date_label": "Thursday, 19 November 2026",
+    "file": "2026-11-19.html",
+    "headline_preview": "Federal Reserve Minutes Signal Continued Caution on Interest Rate Cuts",
+    "stories": [
+      {
+        "candidate_index": 10,
+        "headline": "Federal Reserve Minutes Signal Continued Caution on Interest Rate Cuts",
+        "summary": "Minutes from the latest Federal Reserve meeting reveal that almost all officials support further interest rate hikes to combat persistent inflation. While the central bank held rates steady in October, the consensus remains that monetary policy must stay restrictive to ensure inflation returns to the 2% target. Policymakers expressed concerns that premature easing could undo recent progress in price stability.",
+        "india_impact": "For India, a 'higher-for-longer' US interest rate environment strengthens the US Dollar and exerts downward pressure on the Indian Rupee (INR). This forces the Reserve Bank of India (RBI) to maintain a cautious stance to prevent capital outflows and imported inflation, potentially delaying domestic rate cuts that would otherwise support credit growth and corporate earnings.",
+        "what_to_watch": "Upcoming US Personal Consumption Expenditures (PCE) price index data and the next Federal Open Market Committee (FOMC) meeting decision.",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 16,
+        "headline": "India's Economic Growth Projected at 7.6% for July-September Quarter",
+        "summary": "Market analysts and Reuters polls estimate that India's GDP growth for the second quarter of the current fiscal year will reach 7.6%. This robust performance is largely attributed to sustained investment spending and steady domestic demand, despite global headwinds and fluctuations in agricultural output.",
+        "india_impact": "Strong GDP growth figures reinforce India's status as a high-growth investment destination, likely supporting Foreign Portfolio Investor (FPI) inflows into Indian equities. It also provides the government and the RBI with more fiscal and monetary flexibility to manage domestic economic challenges without triggering immediate recessionary fears.",
+        "what_to_watch": "Official GDP data release from the National Statistical Office (NSO) to confirm if growth aligns with or exceeds these market expectations.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVEyclFzTnZaOUpsRWVmZlN4VmFXQlVOYVBqQmxrUHR2YnNXZllyaG5OOExScFpWREd6N1hjMGdrMHFPNTlhcUR2aGZLNlVxVjg1ZEc2N0NRN0xiYXg0YUM3a2s3bm9zVGRqUVVBeHN0VVVNOW4yZWF2QWpKLTlkaTR3WjVQelpMQXNJOWpnb0MyWGVLYzJGOEk2UHEtOE56b3E4a2VTTDlPTGE3?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 36,
+        "headline": "Indian Drone Manufacturers Accelerate Supply Chain Indigenization",
+        "summary": "Indian drone companies are actively working to reduce reliance on Chinese components by developing domestic supply chains. This strategic shift follows increasing global scrutiny of Chinese technology and potential export restrictions, prompting Indian firms to seek greater self-reliance in critical hardware and software components.",
+        "india_impact": "This move is critical for India's defense and surveillance sectors, which are increasingly reliant on drone technology. By indigenizing, Indian firms mitigate the risk of supply chain disruptions caused by geopolitical tensions with China and align with the government's 'Make in India' initiative, potentially creating a competitive advantage in the global defense export market.",
+        "what_to_watch": "Government policy announcements regarding defense procurement incentives and the progress of local manufacturing clusters for drone-specific semiconductors and sensors.",
+        "source": "Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjNrTUIwYmdIOXJlNlcyZFlTNUhTc1NEbTl3Q1N3QmwxYkFKby1rLXp0YjlxeTV6dGpfTWhKeXdUZUp0VFA4X0ZPTl9GeE02LVBUYjAxWDI5ZF9CTXEzQXpDNnhKbGhGSi1pLVIxcWdOOU14T1NIcGV3aTRNSlh0dTJuRVY0ZkNtRGdPM1BZeU9TWDEtdVNSQ3BQZ2ZtMkYtdTlZT09CS3RwdzZYZnY0LVVSVWF6UVZUMXB6NWdqUEdmQy10VnJJa3IwcFBVbUpfalczMtIB2gFBVV95cUxOajJyeDk3SC1wOWloM1hFekJ0a3J1ZXNGUjV5ajFBT3FIUWJxeG9rUC1IV0hNb3ZtMXpHM3BjZHhoM2YyNXJoQXhCa05FNUlNQ3VCc0RydFR2ZGwxQ1ZJTmpUXzhvVXB4QnluUjVrNkpWa0FxcXZqbmR2RUlUMzhEMnJkZXBtcnZVX1NhSThaVHZwTU9WWm9TUHU3a0xDSzZ0amlDSGRlUkE0QTNLWXNxanFXNDNNS2VjbGREZUM3Q3FnVTNqR2Z4MUdYa3JZNFRndmR0amdUOV9GQQ?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
