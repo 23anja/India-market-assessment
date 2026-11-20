@@ -2354,5 +2354,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "date_label": "Friday, 20 November 2026",
+    "file": "2026-11-20.html",
+    "headline_preview": "Bank of Japan Expected to Raise Interest Rates by March 2025",
+    "stories": [
+      {
+        "candidate_index": 8,
+        "headline": "Bank of Japan Expected to Raise Interest Rates by March 2025",
+        "summary": "Economists anticipate the Bank of Japan (BoJ) will implement interest rate hikes in December and again by the end of March. This move signals a definitive shift away from Japan's long-standing ultra-loose monetary policy as the central bank seeks to normalize rates amid changing economic conditions.",
+        "india_impact": "The BoJ's policy tightening is a critical driver for the 'carry trade,' where investors borrow cheap yen to invest in higher-yielding assets elsewhere, including Indian equities. A rate hike strengthens the yen, forcing a potential unwinding of these positions, which could trigger volatility in Indian capital markets and impact foreign institutional investor (FII) flows.",
+        "what_to_watch": "The official BoJ policy meeting announcement in December and subsequent commentary on the pace of future normalization.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 17,
+        "headline": "Goldman Sachs Projects India's GDP Growth to Moderate to 7.2% by 2027",
+        "summary": "Goldman Sachs has released a forecast suggesting India's GDP growth will slow to 7.2% by 2027, while inflation is expected to rise to 5.7%. The report highlights potential structural headwinds as the economy matures from its current high-growth phase.",
+        "india_impact": "This projection serves as a benchmark for institutional investors assessing India's long-term growth premium. A moderation in growth combined with sticky inflation could influence the Reserve Bank of India's (RBI) interest rate trajectory and affect foreign direct investment (FDI) inflows into manufacturing and infrastructure sectors.",
+        "what_to_watch": "Upcoming quarterly GDP data and RBI inflation reports to see if they align with the projected trend of cooling growth and rising prices.",
+        "source": "BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEozU3FLSnpoYmJBZ01zMnY4ZjFiTkhVUU9QTVNjcjNaOUY5WElMNkMzeGRnQlFHVi1mNlJmbXJuWWpJWlllTjdjV3BaTl9Edkw5d1VuUlVYTGpCSl92cU5ydXNaYkdGVzR6UENzMzJrM0xjT25paHpWbTdIZUoxeHAxdzI0RXVCSlFKWngzTXlsN2drd05tNzBYblZvdnFCSzVhcG9vMW1JMHdBdGtYZFNRRERrbWM5bzQtYzVCRzBaX2xPS2ZtUGFGb1JkejVpbWRZODhQVmFfdHJ1VVd3am9R0gHoAUFVX3lxTFBJYzY1VnNGa2RZa1RCRlZEWUFDUFV0VWJTa044aEZ0MFR4NnFfTGw4RWstQkkxbEh2NnE1bWIteExvd3k2SVNuUHFoaXJNVW1DUVhKMXYyVFZIR3ZXYlFLejczM0I5Y2RFUHJvekpMbm1vcnBOWlhHZ3VCcHF2WG9XOVkwMngxWGxQb1p0eHBqcEc5dTU1WnpJVEZFSkdDenl6dS1yVEJhSklKSGR2cy00alRCa3hJMEFJalQtR0MtMEVfdVdjSE1qOHdLdkZ1N3dCWFh1V3p2OHlVZG4yV2doNHg0cmdsbEY?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 34,
+        "headline": "China Targets Yttrium Exports as Strategic Geopolitical Lever",
+        "summary": "China is increasingly utilizing its dominance in the rare earth supply chain, specifically yttrium, as a tool for geopolitical leverage. By controlling the export and processing of these critical materials, Beijing is exerting pressure on global technology and defense supply chains.",
+        "india_impact": "India is heavily dependent on Chinese imports for critical minerals and rare earths essential for its electronics, defense, and green energy manufacturing ambitions. Disruptions or price manipulation by China directly threaten the viability of the 'Make in India' initiative in high-tech sectors and necessitate an urgent acceleration of domestic mining and alternative sourcing partnerships.",
+        "what_to_watch": "Any new export control announcements from the Chinese Ministry of Commerce regarding rare earth elements and India's progress on the Minerals Security Partnership (MSP) initiatives.",
+        "source": "Lowy Institute",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTNFbDNsWDJXSFhXODZPbEtEa0NfYklWbFU2c19KQ0QzVXZodXAxd2hoZkJKOWtLS04zal9qdW5KRms3X08xQ0JXNUc5MjREdEFJWktSMERCSXF6NzhBa3J1cFlFWEdLTERaLWdKdXJhSk8tN1owTDE5MDJNMWVMQVBBbEJHNzFPUnlMSjdMVTVfMkRNTkZmRDgtcnRQZ05Tb2p4SkZzem9ZZnNTNjdrNUFySFFjZ0R2VEFMTW9LWXBsS1djYndEOXE1bm9rQWM5YXc?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
