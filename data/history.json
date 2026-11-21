@@ -2392,5 +2392,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "date_label": "Saturday, 21 November 2026",
+    "file": "2026-11-21.html",
+    "headline_preview": "TSMC Halts Advanced Chip Shipments to China",
+    "stories": [
+      {
+        "candidate_index": 36,
+        "headline": "TSMC Halts Advanced Chip Shipments to China",
+        "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) has suspended shipments of advanced AI-capable chips to Chinese customers, reportedly in compliance with new U.S. export control directives. This move aims to prevent Chinese entities from accessing cutting-edge hardware that could be used for military modernization or advanced AI development. The decision marks a significant escalation in the ongoing U.S.-China technology war, further restricting China's access to the global semiconductor supply chain.",
+        "india_impact": "This restriction accelerates the 'China Plus One' strategy, as global firms seek to diversify their semiconductor and electronics supply chains away from China. For India, this presents a strategic opportunity to attract high-tech manufacturing investment, provided the country can scale its domestic semiconductor fabrication ecosystem. However, it also raises the risk of increased Chinese dumping of legacy-node chips in neutral markets, which could pressure Indian domestic manufacturers.",
+        "what_to_watch": "Monitor the U.S. Department of Commerce's upcoming updates to export control lists and any subsequent announcements from Indian government initiatives like the 'India Semiconductor Mission' regarding new fab incentives.",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGhIWnVaYlI5aFc1emtra29CdDBWS3J0dXVRTFZhQmdXNThUU2hUVXZBYWVLR2RpaHJEX1ZqNnJXTzQyWFJ4Q1BQN1dmeDlXVGxQTDZwTkNKbHlxWUFzT2VaZFFENXBwYjVyV2NCN1d2dVBmODA2MGVUdTk0UEJHcW9Mc2dJRHRTTUpJanI1dGR3dDMyNkVVM1QycU9iVzJ5VGVIUEpJWQ?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 14,
+        "headline": "Trump Cites India's Economic Growth to Criticize U.S. Federal Reserve Policy",
+        "summary": "U.S. President Donald Trump has publicly referenced India's 7% GDP growth rate and its interest rate environment as a benchmark to criticize the U.S. Federal Reserve's current monetary policy. Trump argued that the U.S. could achieve significantly higher growth rates if the Fed adopted a more accommodative interest rate stance, similar to the approach he perceives in India. This rhetoric highlights a growing political focus on comparative macroeconomic performance between the U.S. and emerging markets.",
+        "india_impact": "While the comparison is largely political, it underscores India's rising profile as a global growth engine. However, the implication that India maintains 'low interest rates' is factually debatable given the RBI's cautious stance on inflation; if U.S. political pressure leads to aggressive Fed rate cuts, it could trigger capital outflows from India as the interest rate differential narrows, potentially putting pressure on the Indian Rupee.",
+        "what_to_watch": "The next U.S. Federal Reserve policy meeting and any subsequent commentary from the RBI Governor regarding global monetary policy spillovers and domestic inflation targets.",
+        "source": "Open Magazine",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlZBS1pHVGg2NWZmeVhsanpRY21vR1ZXN19rV0p0U244anVfT21jM0tmcEstc3ZBRGxXMm90QkVUSzF0SmphUlZHd1FYVVlfS2N4MnhGYmdJR2xud2tvUGxGSWp1WGJrNjd5Mjg1SlN4TnhKaXhnUE56Wkk3Z2lJRjBYQ3FMd3FxMS14RlgxajdNbWVLRHpETTJhVk43UC1jX0hZMlFNbHVWYmsydGc?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "U.S. Congressional Panel Analyzes India's Balancing Act Amid U.S.-China Tensions",
+        "summary": "A U.S. congressional panel has released a report examining how India navigates the complex trade-offs between its national security interests and its economic dependencies on China. The report highlights the challenges India faces in decoupling its supply chains while maintaining the manufacturing growth necessary for its development. It suggests that India is increasingly viewed by Washington as a critical partner in the Indo-Pacific, despite lingering concerns over trade vulnerabilities.",
+        "india_impact": "This report signals a deepening institutional interest in Washington regarding India's strategic autonomy. For India, this implies continued U.S. support for technology transfers and supply chain integration, but also increased scrutiny on India's trade deficit with China and its reliance on Chinese components in critical sectors like pharmaceuticals and electronics.",
+        "what_to_watch": "Future U.S.-India bilateral trade dialogues and any potential legislative moves in Washington to provide further incentives for companies to relocate manufacturing from China to India.",
+        "source": "ANI News",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSEN5ZlM0Wllxb0lTeWc3YkRlcTRrRVlJdVpDa2luZ1lscUJtTUtLQTdwOFdxRnpLUWVxY0ZXNldmU0pCeGpXVmx2MVI2VjdQTGgzMEhuSVdkcmtyeTRpRjZZeTlWVGhVYVNJZHVZN3hSQ1NrdU1sT1BKc0w0Zlp0TW1ka1JDMTZ4RVFrUjhUQTZwZ2o2ZW9JMXdWMTJYa2l5RE9ZU1hDay0yMGhYUkdWamtFQ19rdGNDQkctY3V2V01ZSWlIZU5ldFNWLTRQS1pseEVMVHNFdXJyMFBTUGZGZlZrbVFoaEI2S0tUMzRoMHVtdw?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
