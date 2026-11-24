@@ -2506,5 +2506,43 @@
         "topic_bucket": "Global geopolitics"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "date_label": "Tuesday, 24 November 2026",
+    "file": "2026-11-24.html",
+    "headline_preview": "Indian Equities Experience Significant Correction",
+    "stories": [
+      {
+        "candidate_index": 26,
+        "headline": "Indian Equities Experience Significant Correction",
+        "summary": "The Indian stock market indices, Sensex and Nifty, experienced a sharp decline, shedding over 1,400 points and erasing significant investor wealth in a single session. This sell-off was driven by a combination of profit-booking, concerns over global market volatility, and shifting institutional sentiment. The correction reflects a broader cooling of the high-valuation environment that has characterized Indian markets recently.",
+        "india_impact": "This volatility directly impacts retail and institutional portfolios in India and signals a potential shift in foreign portfolio investor (FPI) flows. It also highlights the sensitivity of domestic markets to global macroeconomic cues and liquidity conditions, potentially influencing the cost of capital for Indian corporates and the pace of new equity issuances.",
+        "what_to_watch": "Monitor upcoming FPI flow data and the Reserve Bank of India's (RBI) commentary on market stability to see if this is a temporary correction or the start of a sustained trend.",
+        "source": "Equitymaster",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 10,
+        "headline": "Federal Reserve Signals Potential for Continued Rate Hikes",
+        "summary": "Federal Reserve official John Williams has indicated that interest rates may need to remain elevated or be adjusted upward over time to effectively bring inflation down to the target level. Despite some cooling, the Fed maintains that inflation remains stubbornly high, necessitating a cautious and data-dependent monetary policy stance. This rhetoric suggests that the era of 'higher for longer' interest rates is not yet over.",
+        "india_impact": "A hawkish US Fed strengthens the US Dollar, which exerts downward pressure on the Indian Rupee (INR) and increases the risk of imported inflation. Furthermore, higher US yields typically lead to capital outflows from emerging markets like India, as investors seek safer, higher-yielding US assets, forcing the RBI to balance domestic growth needs with currency stability.",
+        "what_to_watch": "Watch for the next US Consumer Price Index (CPI) print and the subsequent Federal Open Market Committee (FOMC) meeting minutes for clearer signals on the timing of future rate adjustments.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 32,
+        "headline": "US Panel Highlights India's Supply Chain Dependence on China",
+        "summary": "A US congressional panel has reported that China is actively leveraging India\u2019s reliance on its supply chains to curb India's economic rise and strategic autonomy. The report suggests that Beijing uses its dominance in critical components and raw materials to exert pressure on Indian industrial sectors. This assessment underscores the ongoing geopolitical friction between the two nations regarding manufacturing and technological sovereignty.",
+        "india_impact": "This highlights the structural vulnerability of India's 'Make in India' initiative, which remains heavily dependent on Chinese imports for intermediate goods. It reinforces the urgency for India to diversify its supply chains, accelerate domestic manufacturing of critical components, and strengthen trade partnerships with alternative manufacturing hubs to mitigate geopolitical risks.",
+        "what_to_watch": "Watch for government policy updates regarding the expansion of Production Linked Incentive (PLI) schemes to cover more upstream components and any new trade restrictions or incentives related to critical technology sectors.",
+        "source": "Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHNpTkZaS2huZXJiZm9iWFU1bkRDS1NwTXZ5Nk5zRWJkallrMXZuTVpYSlI3a25VLXBiTnRiRkJrYkYtM3EwcU9iNExVeVBIclhRQTExTEhfRG0tY1dPYndjdm96YVY0dXJENGx1TDI4UlVycTg5SjVWNG9ON2l6WnJiV1dSenNqdUN1NUF3cHZuaGNyQzd0bzZTRkN0RVpGZlR6NEcwZkJaTmdUUUdESEtHRHJCS3NsUHZPUE55UGE4NmJxWkHSAcsBQVVfeXFMT0hoa1lyOFp2b19JZWd1QUZOVGRMZVcydXlIYUVhSnJIczkzTDQ3R2V1YjEyTmVhc2M0VVYybzExMC1iV3ZUeFNCZ0VGMktxcVZRc212SmwxcU81SmNmLUJ5OEYzQlo0ZVE5cDBfUVI1c3pQQUMyNjZkeGVVVEJmcVBHSThiUGI4cm80c3BMZmpRemZjNDVTYWoycDNXVTFVRnBNVDZoUF9yajlKNkpvYldTVzZpNVlyTUIyTTVyRVg0bzNOT2x6OF96OFk?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
