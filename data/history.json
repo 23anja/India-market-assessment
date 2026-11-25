@@ -2544,5 +2544,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "date_label": "Wednesday, 25 November 2026",
+    "file": "2026-11-25.html",
+    "headline_preview": "U.S. Inflation and GDP Data to Shape December Fed Policy",
+    "stories": [
+      {
+        "candidate_index": 9,
+        "headline": "U.S. Inflation and GDP Data to Shape December Fed Policy",
+        "summary": "The U.S. is set to release critical Personal Consumption Expenditures (PCE) inflation data and third-quarter GDP figures. These indicators are pivotal for the Federal Reserve's upcoming December meeting, as they will determine whether the central bank continues its path of interest rate cuts or pauses due to persistent inflation concerns.",
+        "india_impact": "For India, U.S. interest rate trends are a primary driver of foreign institutional investor (FII) flows. A 'higher-for-longer' rate environment in the U.S. strengthens the dollar and pressures the Indian Rupee (INR), while potential rate cuts generally encourage capital inflows into emerging markets like India, supporting domestic equity valuations.",
+        "what_to_watch": "The specific PCE price index print and any accompanying commentary from Fed officials regarding the December rate decision.",
+        "source": "Kotak Neo",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5",
+        "topic_bucket": "Global economy & central banks"
+      },
+      {
+        "candidate_index": 25,
+        "headline": "Foreign Capital Inflows Drive Significant Indian Market Rally",
+        "summary": "Indian equity markets experienced a sharp rebound, with the Sensex surging over 1,400 points and the Nifty 50 reclaiming key technical levels. This rally was fueled by a record influx of approximately \u20b91.27 lakh crore in foreign institutional investment, significantly cooling market volatility as measured by the India VIX.",
+        "india_impact": "This massive inflow signals a renewed confidence in Indian macro fundamentals and corporate earnings growth relative to other emerging markets. It provides a cushion for the INR and suggests that global investors are rotating back into India, which helps stabilize domestic liquidity and supports the valuation of large-cap banking and infrastructure stocks.",
+        "what_to_watch": "Sustainability of these FII flows in the coming weeks and whether this momentum can be sustained despite global geopolitical uncertainties.",
+        "source": "HDFC Sky",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0FjWFF6TFVydThSa1pHVVpnOUh6bnlWN2hwa0NPNzRHX2hQOWxaSHBsREtMaGZQb2hHMS1IX19mTkx3c05jb3pueXNET0R5Q2ZueWtQMW1QZ3FfclFMdTFZZzBaQVEwZjJRLVBKSEVQS1cwQzlBOXJ4MDJCamJ3MVdQekdkcXRYdzE5WHNZQXc2WURWLW5tTDFCNkZLZE8teGwyWVNZZG1MX2ROUUJIN2ZmZkh5VlVMT1lNZUluUzZkQkZaWkQ3QXhqX21DRHRMVnFsakVSNmlHSnhPc0x6cUxjekx0UQ?oc=5",
+        "topic_bucket": "India markets"
+      },
+      {
+        "candidate_index": 31,
+        "headline": "China Extends Export Waiver on Strategic Minerals to the U.S.",
+        "summary": "China has extended its suspension of export restrictions on critical minerals\u2014including gallium, germanium, and antimony\u2014to the United States until January 2027. These materials are essential for semiconductor manufacturing and high-tech defense applications, and the waiver serves as a temporary reprieve in the ongoing U.S.-China trade technology war.",
+        "india_impact": "India is aggressively pursuing a domestic semiconductor and electronics manufacturing ecosystem (via the PLI scheme). While the waiver eases immediate global supply chain tensions, it highlights the vulnerability of the global tech supply chain to Chinese export controls. India must accelerate its own mineral security and supply chain diversification to avoid being caught in the crossfire of future U.S.-China trade escalations.",
+        "what_to_watch": "Any shifts in China's export policy toward other nations or specific announcements regarding India-U.S. cooperation on critical mineral supply chains.",
+        "source": "Open Magazine",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUh1bjg1Um5aZHMtQzR6SmtNZm5pWnVNWEp0VnVWQzFvYnhxU3B0QTU3bmxMcE91YUR2VDR2dXhDREZPdTVxQnpOQlIyMjdTOHBTbGlGUXNROThMejVSSXdDYWlMeWM5VTJSclRYMnFEVkN1SEVMWHJfMXFxNTBnVnc5dmNWN19CSTZhcVRZeGRjcW1ZTUk0LVFhenA3ZXZQYWsyQldic0ozdDRGalIxcVlhWlVieWF5ZjNrSG9Lcy1kRnpXNFNzOHpKMVBhOTA?oc=5",
+        "topic_bucket": "China & global trade"
+      }
+    ]
   }
 ]
