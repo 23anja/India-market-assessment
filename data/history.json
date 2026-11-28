@@ -2582,5 +2582,43 @@
         "topic_bucket": "China & global trade"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "date_label": "Saturday, 28 November 2026",
+    "file": "2026-11-28.html",
+    "headline_preview": "India's GDP Growth Accelerates to 7.8% in Final Quarter of Fiscal Year 2025-26",
+    "stories": [
+      {
+        "candidate_index": 16,
+        "headline": "India's GDP Growth Accelerates to 7.8% in Final Quarter of Fiscal Year 2025-26",
+        "summary": "India's economy recorded a robust 7.7% growth rate for the full fiscal year 2025-26, with the final quarter showing an acceleration to 7.8%. This performance underscores the resilience of the domestic economy despite global headwinds and inflationary pressures. The growth was largely driven by sustained investment activity and domestic demand.",
+        "india_impact": "This data confirms India's position as one of the fastest-growing major economies, which supports continued foreign institutional investment (FII) inflows into Indian equities. It also provides the Reserve Bank of India (RBI) with more policy space to maintain a hawkish stance on interest rates if inflation remains sticky, as the economy is proving capable of absorbing higher borrowing costs.",
+        "what_to_watch": "Upcoming RBI Monetary Policy Committee (MPC) meeting minutes and commentary on whether growth momentum justifies keeping interest rates elevated to curb inflation.",
+        "source": "DD News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObEdLSVhSTVU2UHlKUFBYc3RLOUZncnpoTHhYVDVwOGNKNmtObmFQMk1kQmNYYVFyUXA5WUdub01DbWN1bXJEWk9ETU5Sbk1hcVhDT0VDLWcwWlVxa0FZMnN2Y2V1WFBiM0JGQ203SHBIeUh3by1qY21EUDFDUmtZbVd0cVpZQVh0bXlpTDhvTmtQUUN4LW1EcQ?oc=5",
+        "topic_bucket": "India economy & policy"
+      },
+      {
+        "candidate_index": 35,
+        "headline": "ASML CEO Warns Against Total Semiconductor Export Bans to China",
+        "summary": "The CEO of Dutch semiconductor equipment giant ASML has cautioned that a complete ban on exports to China would likely accelerate the country's efforts to develop its own domestic chip-making capabilities. He argued that such restrictions would force China to innovate faster, potentially undermining the long-term market dominance of Western firms in the sector.",
+        "india_impact": "India is currently attempting to build a domestic semiconductor manufacturing ecosystem through the India Semiconductor Mission (ISM). If China successfully accelerates its self-reliance, it could lead to a global glut of legacy chips or, conversely, create a more competitive environment for India to attract technology partners who are looking to diversify their supply chains away from both China and the West.",
+        "what_to_watch": "Future US-led export control updates and whether India's semiconductor policy shifts to capitalize on companies seeking 'China+1' manufacturing alternatives.",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdTRCU2JzUW1lOFBKTWg0ZnBsUzVaazhlekljYy11QW1QWEhMMkI0LVZCQi03OHlKR1luV3BzTHNOdl9ndkRqWkUtTFdiTHhPOXVTb3d5SlpNSi1HeGVwT3VYYm5mRDNnYjNCWG02MGIySkF6SWc?oc=5",
+        "topic_bucket": "China & global trade"
+      },
+      {
+        "candidate_index": 25,
+        "headline": "Indian Markets Decline as Brent Crude Prices Surpass $97 per Barrel",
+        "summary": "Indian equity markets experienced a downturn this week, with the Sensex and Nifty indices snapping a brief recovery period. The decline is largely attributed to the surge in global oil prices, with Brent Crude crossing the $97 per barrel threshold, raising concerns about import costs and corporate margins.",
+        "india_impact": "As a major importer of crude oil, India's current account deficit and currency (INR) are highly sensitive to oil price spikes. Higher energy costs increase the import bill, exert downward pressure on the rupee, and threaten to reignite domestic inflation, which could force the RBI to delay any potential rate cuts, negatively impacting market sentiment.",
+        "what_to_watch": "Weekly oil inventory data and any updates from OPEC+ regarding production quotas that could influence global supply and price stability.",
+        "source": "The Indian Awaaz",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTdFM18xNkkzV2NJczhEYTVoSnVRRXZEeEc2TlJydlM4OWRDZVA3bkZCb0Nsbk9qbjhsSUR6YkU4SkRRYTZWVTE3LVZnY3F4VjMxTHdDcUt5Ty1ZR2xsbGo3b2FSYWR4ZHBoTmdzRllMUE9HaUd4dUVMRmp5T2dFc0RQSVdRWUdhNXNKQTVzSjNIakRvNE9mSFYtMkdNUHZpNmFTOTRGMFIwdW9JRnY3V19xUl9zdElJY0xv?oc=5",
+        "topic_bucket": "India markets"
+      }
+    ]
   }
 ]
